@@ -8,10 +8,6 @@ Make sure all programs meet your criteria align properly.  These programs are pr
 do appreciate feedback.  Modify all programs as you need and deploy, we only require that our mention be made in the process and in the aftermath.  All forks and other participation 
 efforts are welcome.
 
-# Coming Soon:  Plane Pilot
-
-A new program studying our breakthrough approach at the chromatic plane problem initiated by Huge Hadwiger and Edward Nelson in 1960.  It is fully classroom ready and optimized for multiple challenges in the field of geometry studies, beginner and advanced.
-
 # List of Programs
 
 # 1:  Advanced Torsion
@@ -55,6 +51,10 @@ Composes a substantiation formula through workshops using special relations and 
 
 We express our belief in the apparatus that is the Half Line, within contemplation of a Zeta Zero as that subject prevails to speak of in the nature of Primes.
 
-# 11:  Primer
+# 11:  Plane Pilot
+
+A new program studying our breakthrough approach at the Chromatic Plane Problem initiated by Huge Hadwiger and Edward Nelson in 1960.  It is fully classroom ready and optimized for multiple challenges in the field of geometry studies, beginner and advanced.
+
+# 12:  Primer
 
 Primes can be distinct from other numbers for all sorts of reasons, but one most of all.  Find out what it is within this workshop loaded prestige of focus.
