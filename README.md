@@ -34,6 +34,10 @@ Study numerical induction and measure propensity with the capacity of a scientis
 
 Composes a substantiation formula through workshops using special relations and a custom scheme of determining mathematical truths using "The Varian" as a conditional relapse of factors.
 
-# 7:  Primer
+# 7:  Peer (DEMO ONLY)
+
+We express our belief in the apparatus that is the Half Line, within contemplation of a Zeta Zero as that subject prevails to speak of in the nature of Primes.
+
+# 8:  Primer
 
 Primes can be distinct from other numbers for all sorts of reasons, but one most of all.  Find out what it is within this workshop loaded prestige of focus.
