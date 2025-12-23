@@ -14,6 +14,10 @@ efforts are welcome.
 
 A compelling look at the visualization of fractions along a unit circle through their Torsion, utilizing numerous workshops to help students understand it in all it's forms.
 
+# 2:  Reciprocal-Integer Analyzer
+
+Our Analyzeer program is intended to be a system which installs a boilerplate identity for any reciprocal value, as discriminatory as it can be.  We enhance the stamping with our own features.
+
 # 2:  Breath
 
 Study philosophy via the Qur'an in this observational analyzer which studies the numerical harmony of the composition of a 1400 year old document, a statistical impossibility.
