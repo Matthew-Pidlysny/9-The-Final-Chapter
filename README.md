@@ -8,6 +8,10 @@ Make sure all programs meet your criteria align properly.  These programs are pr
 do appreciate feedback.  Modify all programs as you need and deploy, we only require that our mention be made in the process and in the aftermath.  All forks and other participation 
 efforts are welcome.
 
+# Coming Soon:  Plane Pilot
+
+A new program studying our breakthrough approach at the chromatic plane problem initiated by Huge Hadwiger and Edward Nelson in 1960.  It is fully classroom ready and optimized for multiple challenges in the field of geometry studies, beginner and advanced.
+
 # List of Programs
 
 # 1:  Advanced Torsion
