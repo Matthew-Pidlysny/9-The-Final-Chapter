@@ -18,26 +18,30 @@ A compelling look at the visualization of fractions along a unit circle through 
 
 Study philosophy via the Qur'an in this observational analyzer which studies the numerical harmony of the composition of a 1400 year old document, a statistical impossibility.
 
-# 3:  Diffusion Explorer
+# 3:  Caelum
+
+This mechanical explorer is a true observatory for the sciences, taking in a massive library of known scientific data and making it relate through an innovation in Relational Spheres.
+
+# 4:  Diffusion Explorer
 
 Explore our world using customizable 3D models and inputs.  Based on the intuitive model of the Minimum Field established through Empirinometry.
 
-# 4:  Gas Tech
+# 5:  Gas Tech
 
 Study the fuels as a consumer, office person, scientist, or Gas Technician using a wide variety of workshops meant to improve consumer safety and labour productivity.
 
-# 5:  Induction Ω
+# 6:  Induction Ω
 
 Study numerical induction and measure propensity with the capacity of a scientist.  Based on the science of Empirinometry.
 
-# 6:  Omni-Directional Compass
+# 7:  Omni-Directional Compass
 
 Composes a substantiation formula through workshops using special relations and a custom scheme of determining mathematical truths using "The Varian" as a conditional relapse of factors.
 
-# 7:  Peer (DEMO ONLY)
+# 8:  Peer (DEMO ONLY)
 
 We express our belief in the apparatus that is the Half Line, within contemplation of a Zeta Zero as that subject prevails to speak of in the nature of Primes.
 
-# 8:  Primer
+# 9:  Primer
 
 Primes can be distinct from other numbers for all sorts of reasons, but one most of all.  Find out what it is within this workshop loaded prestige of focus.
