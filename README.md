@@ -18,39 +18,39 @@ A compelling look at the visualization of fractions along a unit circle through 
 
 Our Analyzeer program is intended to be a system which installs a boilerplate identity for any reciprocal value, as discriminatory as it can be.  We enhance the stamping with our own features.
 
-# 2:  Breath
+# 3:  Breath
 
 Study philosophy via the Qur'an in this observational analyzer which studies the numerical harmony of the composition of a 1400 year old document, a statistical impossibility.
 
-# 3:  Caelum
+# 4:  Caelum
 
 This mechanical explorer is a true observatory for the sciences, taking in a massive library of known scientific data and making it relate through an innovation in Relational Spheres.
 
-# 4:  Cradle
+# 5:  Cradle
 
 A complete suite meant for training Newborn Artificial Intelligence LLM suites in a new mnemonic, kinetic approach to learning curves and algorithms.  It specializes in taboo studies and ethics
 development.
 
-# 5:  Diffusion Explorer
+# 6:  Diffusion Explorer
 
 Explore our world using customizable 3D models and inputs.  Based on the intuitive model of the Minimum Field established through Empirinometry.
 
-# 6:  Gas Tech
+# 7:  Gas Tech
 
 Study the fuels as a consumer, office person, scientist, or Gas Technician using a wide variety of workshops meant to improve consumer safety and labour productivity.
 
-# 7:  Induction Ω
+# 8:  Induction Ω
 
 Study numerical induction and measure propensity with the capacity of a scientist.  Based on the science of Empirinometry.
 
-# 8:  Omni-Directional Compass
+# 9:  Omni-Directional Compass
 
 Composes a substantiation formula through workshops using special relations and a custom scheme of determining mathematical truths using "The Varian" as a conditional relapse of factors.
 
-# 9:  Peer (DEMO ONLY)
+# 10:  Peer (DEMO ONLY)
 
 We express our belief in the apparatus that is the Half Line, within contemplation of a Zeta Zero as that subject prevails to speak of in the nature of Primes.
 
-# 10:  Primer
+# 11:  Primer
 
 Primes can be distinct from other numbers for all sorts of reasons, but one most of all.  Find out what it is within this workshop loaded prestige of focus.
