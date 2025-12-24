@@ -12,6 +12,10 @@ efforts are welcome.
 
 Taking a pause from Education itself, the founder of 9 Software has shared his private creation with AI, and together, the research processor and guide pair created this game.  No spoilers, but it's a 4 player board game software engine revolving around the concept of the "Trump Card".  Maybe education in strategy via force x force battle style.
 
+# Coming Soon:  Privanna
+
+By request we're doing a second game early.  This one features magical creatures fighting for their homeland.  We don't mean to make Devil nuisance a recurring them in our fantasy but it certainly is a potent figure in catastrophe.  The story, without spoilers, takes place on the Djinn Homeworld, and there are Humans exploring it guarded by a guardian.  All of a sudden, on the fateful turn, the Devils launch an 8 point invasion, inviting a total of 10 players if chosen, the minimum being 3.  Good rolls and excellent powers use will be the key in determining this fight!
+
 # List of Programs
 
 # 1:  Advanced Torsion
