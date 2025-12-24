@@ -8,10 +8,6 @@ Make sure all programs meet your criteria align properly.  These programs are pr
 do appreciate feedback.  Modify all programs as you need and deploy, we only require that our mention be made in the process and in the aftermath.  All forks and other participation 
 efforts are welcome.
 
-# Coming Soon:  Recipy
-
-Hey Kids!  Wanna learn something REAL neat over the rest of the year?  Well, you learned about 1, and 2, and the rest (I guess?) and then some adding and subtracting, but now it's time to learn the numbers on a different level.  We predict your brains will get SO HUGE (Not literally) that you'll be just, as they might say, Naturally Genius?  Come on over, let's see what we got!  And yes, the program is a Recipe!  It's a mix of Reciprocals (Yeah, resi-ho-huh?) and a language called Python!  And to make it even better, we mixed in C Plus Plus (Another language) for the construction of this project.  It's a good modeler, something you'll be learning to do after you finish this program!
-
 # List of Programs
 
 # 1:  Advanced Torsion
@@ -62,3 +58,7 @@ Primes can be distinct from other numbers for all sorts of reasons, but one most
 # 12:  Reciprocal-Integer Analyzer
 
 Our Analyzeer program is intended to be a system which installs a boilerplate identity for any reciprocal value, as discriminatory as it can be.  We enhance the stamping with our own features.
+
+# 13:  Recipy
+
+Hey Kids!  Wanna learn something REAL neat over the rest of the year?  Well, you learned about 1, and 2, and the rest (I guess?) and then some adding and subtracting, but now it's time to learn the numbers on a different level.  We predict your brains will get SO HUGE (Not literally) that you'll be just, as they might say, Naturally Genius?  Come on over, let's see what we got!  And yes, the program is a Recipe!  It's a mix of Reciprocals (Yeah, resi-ho-huh?) and a language called Python!  And to make it even better, we mixed in C Plus Plus (Another language) for the construction of this project.  It's a good modeler, something you'll be learning to do after you finish this program!
