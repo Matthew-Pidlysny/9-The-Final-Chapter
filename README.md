@@ -8,6 +8,10 @@ Make sure all programs meet your criteria align properly.  These programs are pr
 do appreciate feedback.  Modify all programs as you need and deploy, we only require that our mention be made in the process and in the aftermath.  All forks and other participation 
 efforts are welcome.
 
+# Coming Soon:  Basso-Riello Trainer Pro
+
+Basso Riello Trainer Pro is a cutting edge AI career training implement.  This program will help anyone seeking to enter the field of LLM training and covers other variants of models.  A 55-Lesson Plan is included in the suite for all necessary training augmentation purposes, and is fully AI enabled.
+
 # List of Programs
 
 # 1:  Advanced Torsion
