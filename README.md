@@ -8,6 +8,10 @@ Make sure all programs meet your criteria align properly.  These programs are pr
 do appreciate feedback.  Modify all programs as you need and deploy, we only require that our mention be made in the process and in the aftermath.  All forks and other participation 
 efforts are welcome.
 
+# Coming Soon:  Recipy
+
+Hey Kids!  Wanna learn something REAL neat over the rest of the year?  Well, you learned about 1, and 2, and the rest (I guess?) and then some adding and subtracting, but now it's time to learn the numbers on a different level.  We predict your brains will get SO HUGE (Not literally) that you'll be just, as they might say, Naturally Genius?  Come on over, let's see what we got!  And yes, the program is a Recipe!  It's a mix of Reciprocals (Yeah, resi-ho-huh?) and a language called Python!
+
 # List of Programs
 
 # 1:  Advanced Torsion
