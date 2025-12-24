@@ -1,0 +1,26 @@
+# The TransRational Airline Requirements
+
+# Core dependencies (minimal requirements)
+# tkinter - included with Python standard library
+
+# Optional dependencies for enhanced functionality
+# Uncomment if you want to use these features:
+
+# For enhanced mathematical calculations
+# numpy>=1.19.0
+# scipy>=1.5.0
+
+# For data export/import
+# pandas>=1.1.0
+
+# For advanced visualization
+# matplotlib>=3.3.0
+
+# For performance monitoring
+# psutil>=5.7.0
+
+# For enhanced GUI (alternative to tkinter)
+# PyQt5>=5.15.0
+
+# Note: The application runs with just Python standard library
+# Additional packages are optional and for enhanced features only
