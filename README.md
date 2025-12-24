@@ -12,6 +12,10 @@ efforts are welcome.
 
 Named after a mystical altar, the knowledge stemming from our research tote called Quantum Zeno reveals a deeper connection between numbers.  We wxplain how to start, how to go on, and how to end with numbers in a fancy, intuitive and AI enhanced manner.  Dig in, you'll be counting all over again, or not as the satire goes...
 
+# Coming Soon:  The Dark Continent
+
+Taking a pause from Education itself, the founder of 9 Software has shared his private creation with AI, and together, the research processor and guide pair created this game.  No spoilers, but it's a 4 player board game software engine revolving around the concept of the "Trump Card".  Maybe education in strategy via force x force battle style.
+
 # List of Programs
 
 # 1:  Advanced Torsion
