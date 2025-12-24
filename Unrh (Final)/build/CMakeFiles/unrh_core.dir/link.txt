@@ -1,0 +1,2 @@
+/usr/bin/ar qc libunrh_core.a CMakeFiles/unrh_core.dir/src/unrh_core.cpp.o
+/usr/bin/ranlib libunrh_core.a
