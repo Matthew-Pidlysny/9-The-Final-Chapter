@@ -1,0 +1,264 @@
+{
+  "summary": {
+    "total_subjects": 205,
+    "testing_duration": "0:00:00.012406",
+    "avg_discovery_potential": 2.463549041987358,
+    "max_discovery_potential": 4.582164175078769,
+    "domains_tested": 9
+  },
+  "domain_analysis": {
+    "Foundations and Logic": {
+      "count": 10,
+      "avg_tension": 0.2777143826475706,
+      "avg_bonding": 0.17828762081393099,
+      "avg_discovery": 3.365225690564567,
+      "max_discovery": 4.218670816747786
+    },
+    "Algebra and Number Theory": {
+      "count": 21,
+      "avg_tension": 0.21623832303707496,
+      "avg_bonding": 0.20569773655191356,
+      "avg_discovery": 2.8104972774300774,
+      "max_discovery": 3.626350310668369
+    },
+    "Analysis and Calculus": {
+      "count": 27,
+      "avg_tension": 0.10324388952421219,
+      "avg_bonding": 0.22684077774247058,
+      "avg_discovery": 1.2267197068966869,
+      "max_discovery": 1.6125874432407494
+    },
+    "Geometry and Topology": {
+      "count": 22,
+      "avg_tension": 0.14275871657118458,
+      "avg_bonding": 0.22269990157563938,
+      "avg_discovery": 1.5811835860397465,
+      "max_discovery": 1.9111946390164556
+    },
+    "Discrete Mathematics and Combinatorics": {
+      "count": 19,
+      "avg_tension": 0.12935717221670914,
+      "avg_bonding": 0.2272089644791715,
+      "avg_discovery": 1.2034886701067287,
+      "max_discovery": 1.2794770407434155
+    },
+    "Applied Mathematics": {
+      "count": 18,
+      "avg_tension": 0.2131442421534438,
+      "avg_bonding": 0.206181217513198,
+      "avg_discovery": 2.412822446574626,
+      "max_discovery": 3.44564440090399
+    },
+    "Computational Mathematics": {
+      "count": 22,
+      "avg_tension": 0.318847628127048,
+      "avg_bonding": 0.19920994923055757,
+      "avg_discovery": 4.042905591858761,
+      "max_discovery": 4.213193558082524
+    },
+    "Emerging Fields": {
+      "count": 58,
+      "avg_tension": 0.2085534512882695,
+      "avg_bonding": 0.16194157914420065,
+      "avg_discovery": 3.217856816489463,
+      "max_discovery": 4.582164175078769
+    },
+    "Quantum Mathematics": {
+      "count": 8,
+      "avg_tension": 0.0315415758448956,
+      "avg_bonding": 0.3958773388197495,
+      "avg_discovery": 0.32133446862416526,
+      "max_discovery": 0.7153575790284593
+    }
+  },
+  "top_discoveries": [
+    {
+      "subject": "Quantum Computing",
+      "domain": "Emerging Fields",
+      "discovery_potential": 4.582164175078769,
+      "tension": 0.24882101920494848,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Topological Quantum Computing",
+      "domain": "Emerging Fields",
+      "discovery_potential": 4.582164175078769,
+      "tension": 0.24882101920494848,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Quantum Information Theory",
+      "domain": "Emerging Fields",
+      "discovery_potential": 4.582164175078769,
+      "tension": 0.24882101920494848,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Quantum Groups",
+      "domain": "Emerging Fields",
+      "discovery_potential": 4.582164175078769,
+      "tension": 0.24882101920494848,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Higher Categories",
+      "domain": "Foundations and Logic",
+      "discovery_potential": 4.218670816747786,
+      "tension": 0.3030690816149693,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Scientific Computing",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Computational Mathematics",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Algorithm Design",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Complexity Theory",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Parallel Computing",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "High-Performance Computing",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Machine Learning Mathematics",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Data Science Mathematics",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Computational Statistics",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Monte Carlo Methods",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Finite Element Method",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Boundary Element Method",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Discrete Element Method",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Computational Fluid Dynamics",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    },
+    {
+      "subject": "Symbolic Computation",
+      "domain": "Computational Mathematics",
+      "discovery_potential": 4.213193558082524,
+      "tension": 0.32962058231399466,
+      "insights": [
+        "U-dominance indicates foundational mathematical stability"
+      ]
+    }
+  ],
+  "patterns": {
+    "high_tension_count": 0,
+    "high_bonding_count": 6,
+    "balanced_count": 6,
+    "tension_percentage": 0.0,
+    "bonding_percentage": 2.9268292682926833,
+    "balance_percentage": 2.9268292682926833
+  }
+}

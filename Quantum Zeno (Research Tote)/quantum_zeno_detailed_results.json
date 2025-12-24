@@ -1,0 +1,5139 @@
+[
+  {
+    "subject": "Set Theory",
+    "domain": "Foundations and Logic",
+    "reference_score": 0.7774005660916629,
+    "agitation_score": 0.23357493960784317,
+    "tension": 0.27489719387341516,
+    "bonding_strength": 0.1796099798999225,
+    "complexity": 7.0,
+    "discovery_potential": 3.2703984543219873,
+    "uv_ratio": 0.3004563538615392,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Set Theory) = 0.777401",
+      "V(Set Theory) = 0.233575",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.274897",
+      "Bonding = UV/(|U|+|V|) = 0.179610",
+      "U_V_Ratio = 0.300456",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.270398"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Mathematical Logic",
+    "domain": "Foundations and Logic",
+    "reference_score": 0.7774005660916629,
+    "agitation_score": 0.23357493960784317,
+    "tension": 0.27489719387341516,
+    "bonding_strength": 0.1796099798999225,
+    "complexity": 7.0,
+    "discovery_potential": 3.2703984543219873,
+    "uv_ratio": 0.3004563538615392,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Mathematical Logic) = 0.777401",
+      "V(Mathematical Logic) = 0.233575",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.274897",
+      "Bonding = UV/(|U|+|V|) = 0.179610",
+      "U_V_Ratio = 0.300456",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.270398"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Model Theory",
+    "domain": "Foundations and Logic",
+    "reference_score": 0.7774005660916629,
+    "agitation_score": 0.23357493960784317,
+    "tension": 0.27489719387341516,
+    "bonding_strength": 0.1796099798999225,
+    "complexity": 7.0,
+    "discovery_potential": 3.2703984543219873,
+    "uv_ratio": 0.3004563538615392,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Model Theory) = 0.777401",
+      "V(Model Theory) = 0.233575",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.274897",
+      "Bonding = UV/(|U|+|V|) = 0.179610",
+      "U_V_Ratio = 0.300456",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.270398"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Proof Theory",
+    "domain": "Foundations and Logic",
+    "reference_score": 0.7774005660916629,
+    "agitation_score": 0.23357493960784317,
+    "tension": 0.27489719387341516,
+    "bonding_strength": 0.1796099798999225,
+    "complexity": 7.0,
+    "discovery_potential": 3.2703984543219873,
+    "uv_ratio": 0.3004563538615392,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Proof Theory) = 0.777401",
+      "V(Proof Theory) = 0.233575",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.274897",
+      "Bonding = UV/(|U|+|V|) = 0.179610",
+      "U_V_Ratio = 0.300456",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.270398"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Recursion Theory",
+    "domain": "Foundations and Logic",
+    "reference_score": 0.7774005660916629,
+    "agitation_score": 0.23357493960784317,
+    "tension": 0.27489719387341516,
+    "bonding_strength": 0.1796099798999225,
+    "complexity": 7.0,
+    "discovery_potential": 3.2703984543219873,
+    "uv_ratio": 0.3004563538615392,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Recursion Theory) = 0.777401",
+      "V(Recursion Theory) = 0.233575",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.274897",
+      "Bonding = UV/(|U|+|V|) = 0.179610",
+      "U_V_Ratio = 0.300456",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.270398"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Computability Theory",
+    "domain": "Foundations and Logic",
+    "reference_score": 0.7774005660916629,
+    "agitation_score": 0.23357493960784317,
+    "tension": 0.27489719387341516,
+    "bonding_strength": 0.1796099798999225,
+    "complexity": 7.0,
+    "discovery_potential": 3.2703984543219873,
+    "uv_ratio": 0.3004563538615392,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Computability Theory) = 0.777401",
+      "V(Computability Theory) = 0.233575",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.274897",
+      "Bonding = UV/(|U|+|V|) = 0.179610",
+      "U_V_Ratio = 0.300456",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.270398"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Category Theory",
+    "domain": "Foundations and Logic",
+    "reference_score": 0.7774005660916629,
+    "agitation_score": 0.23357493960784317,
+    "tension": 0.27489719387341516,
+    "bonding_strength": 0.1796099798999225,
+    "complexity": 7.0,
+    "discovery_potential": 3.2703984543219873,
+    "uv_ratio": 0.3004563538615392,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Category Theory) = 0.777401",
+      "V(Category Theory) = 0.233575",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.274897",
+      "Bonding = UV/(|U|+|V|) = 0.179610",
+      "U_V_Ratio = 0.300456",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.270398"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Type Theory",
+    "domain": "Foundations and Logic",
+    "reference_score": 0.7774005660916629,
+    "agitation_score": 0.23357493960784317,
+    "tension": 0.27489719387341516,
+    "bonding_strength": 0.1796099798999225,
+    "complexity": 7.0,
+    "discovery_potential": 3.2703984543219873,
+    "uv_ratio": 0.3004563538615392,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Type Theory) = 0.777401",
+      "V(Type Theory) = 0.233575",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.274897",
+      "Bonding = UV/(|U|+|V|) = 0.179610",
+      "U_V_Ratio = 0.300456",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.270398"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Homotopy Type Theory",
+    "domain": "Foundations and Logic",
+    "reference_score": 0.7774005660916629,
+    "agitation_score": 0.23357493960784317,
+    "tension": 0.27489719387341516,
+    "bonding_strength": 0.1796099798999225,
+    "complexity": 7.0,
+    "discovery_potential": 3.2703984543219873,
+    "uv_ratio": 0.3004563538615392,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Homotopy Type Theory) = 0.777401",
+      "V(Homotopy Type Theory) = 0.233575",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.274897",
+      "Bonding = UV/(|U|+|V|) = 0.179610",
+      "U_V_Ratio = 0.300456",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.270398"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Higher Categories",
+    "domain": "Foundations and Logic",
+    "reference_score": 0.8062824733070529,
+    "agitation_score": 0.20965033635126804,
+    "tension": 0.3030690816149693,
+    "bonding_strength": 0.16638638904000752,
+    "complexity": 8.0,
+    "discovery_potential": 4.218670816747786,
+    "uv_ratio": 0.2600209520434729,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Higher Categories) = 0.806282",
+      "V(Higher Categories) = 0.209650",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.303069",
+      "Bonding = UV/(|U|+|V|) = 0.166386",
+      "U_V_Ratio = 0.260021",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.218671"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Group Theory",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.7390922671981318,
+    "agitation_score": 0.2620629204390851,
+    "tension": 0.2387902025815062,
+    "bonding_strength": 0.19346518940151206,
+    "complexity": 8.0,
+    "discovery_potential": 3.143292814251042,
+    "uv_ratio": 0.3545740255098289,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Group Theory) = 0.739092",
+      "V(Group Theory) = 0.262063",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.238790",
+      "Bonding = UV/(|U|+|V|) = 0.193465",
+      "U_V_Ratio = 0.354574",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.143293"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Ring Theory",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.7390922671981318,
+    "agitation_score": 0.2620629204390851,
+    "tension": 0.2387902025815062,
+    "bonding_strength": 0.19346518940151206,
+    "complexity": 8.0,
+    "discovery_potential": 3.143292814251042,
+    "uv_ratio": 0.3545740255098289,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Ring Theory) = 0.739092",
+      "V(Ring Theory) = 0.262063",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.238790",
+      "Bonding = UV/(|U|+|V|) = 0.193465",
+      "U_V_Ratio = 0.354574",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.143293"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Field Theory",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.7390922671981318,
+    "agitation_score": 0.2620629204390851,
+    "tension": 0.2387902025815062,
+    "bonding_strength": 0.19346518940151206,
+    "complexity": 8.0,
+    "discovery_potential": 3.143292814251042,
+    "uv_ratio": 0.3545740255098289,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Field Theory) = 0.739092",
+      "V(Field Theory) = 0.262063",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.238790",
+      "Bonding = UV/(|U|+|V|) = 0.193465",
+      "U_V_Ratio = 0.354574",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.143293"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Galois Theory",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.7390922671981318,
+    "agitation_score": 0.2620629204390851,
+    "tension": 0.2387902025815062,
+    "bonding_strength": 0.19346518940151206,
+    "complexity": 8.0,
+    "discovery_potential": 3.143292814251042,
+    "uv_ratio": 0.3545740255098289,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Galois Theory) = 0.739092",
+      "V(Galois Theory) = 0.262063",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.238790",
+      "Bonding = UV/(|U|+|V|) = 0.193465",
+      "U_V_Ratio = 0.354574",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.143293"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Commutative Algebra",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.6643151695281009,
+    "agitation_score": 0.3525941603080971,
+    "tension": 0.15849600129088867,
+    "bonding_strength": 0.23033877503551667,
+    "complexity": 8.0,
+    "discovery_potential": 1.8629450423673606,
+    "uv_ratio": 0.5307633732125785,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Commutative Algebra) = 0.664315",
+      "V(Commutative Algebra) = 0.352594",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.158496",
+      "Bonding = UV/(|U|+|V|) = 0.230339",
+      "U_V_Ratio = 0.530763",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.862945"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Homological Algebra",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.6643151695281009,
+    "agitation_score": 0.3525941603080971,
+    "tension": 0.15849600129088867,
+    "bonding_strength": 0.23033877503551667,
+    "complexity": 8.0,
+    "discovery_potential": 1.8629450423673606,
+    "uv_ratio": 0.5307633732125785,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Homological Algebra) = 0.664315",
+      "V(Homological Algebra) = 0.352594",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.158496",
+      "Bonding = UV/(|U|+|V|) = 0.230339",
+      "U_V_Ratio = 0.530763",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.862945"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Lie Algebras",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.6643151695281009,
+    "agitation_score": 0.3525941603080971,
+    "tension": 0.15849600129088867,
+    "bonding_strength": 0.23033877503551667,
+    "complexity": 8.0,
+    "discovery_potential": 1.8629450423673606,
+    "uv_ratio": 0.5307633732125785,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Lie Algebras) = 0.664315",
+      "V(Lie Algebras) = 0.352594",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.158496",
+      "Bonding = UV/(|U|+|V|) = 0.230339",
+      "U_V_Ratio = 0.530763",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.862945"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Representation Theory",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.7390922671981318,
+    "agitation_score": 0.2620629204390851,
+    "tension": 0.2387902025815062,
+    "bonding_strength": 0.19346518940151206,
+    "complexity": 8.0,
+    "discovery_potential": 3.143292814251042,
+    "uv_ratio": 0.3545740255098289,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Representation Theory) = 0.739092",
+      "V(Representation Theory) = 0.262063",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.238790",
+      "Bonding = UV/(|U|+|V|) = 0.193465",
+      "U_V_Ratio = 0.354574",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.143293"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Algebraic Geometry",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.6938472208827521,
+    "agitation_score": 0.358162065737722,
+    "tension": 0.1765719502966031,
+    "bonding_strength": 0.23622391653256833,
+    "complexity": 8.0,
+    "discovery_potential": 2.0959834853160513,
+    "uv_ratio": 0.5161973052661767,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Algebraic Geometry) = 0.693847",
+      "V(Algebraic Geometry) = 0.358162",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.176572",
+      "Bonding = UV/(|U|+|V|) = 0.236224",
+      "U_V_Ratio = 0.516197",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.095983"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Number Theory",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.7776249479664434,
+    "agitation_score": 0.25227476829128653,
+    "tension": 0.2705290004916958,
+    "bonding_strength": 0.1904798597862881,
+    "complexity": 8.0,
+    "discovery_potential": 3.626350310668369,
+    "uv_ratio": 0.32441701995102545,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Number Theory) = 0.777625",
+      "V(Number Theory) = 0.252275",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.270529",
+      "Bonding = UV/(|U|+|V|) = 0.190480",
+      "U_V_Ratio = 0.324417",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.626350"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Analytic Number Theory",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.7776249479664434,
+    "agitation_score": 0.25227476829128653,
+    "tension": 0.2705290004916958,
+    "bonding_strength": 0.1904798597862881,
+    "complexity": 8.0,
+    "discovery_potential": 3.626350310668369,
+    "uv_ratio": 0.32441701995102545,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Analytic Number Theory) = 0.777625",
+      "V(Analytic Number Theory) = 0.252275",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.270529",
+      "Bonding = UV/(|U|+|V|) = 0.190480",
+      "U_V_Ratio = 0.324417",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.626350"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Algebraic Number Theory",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.7776249479664434,
+    "agitation_score": 0.25227476829128653,
+    "tension": 0.2705290004916958,
+    "bonding_strength": 0.1904798597862881,
+    "complexity": 8.0,
+    "discovery_potential": 3.626350310668369,
+    "uv_ratio": 0.32441701995102545,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Algebraic Number Theory) = 0.777625",
+      "V(Algebraic Number Theory) = 0.252275",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.270529",
+      "Bonding = UV/(|U|+|V|) = 0.190480",
+      "U_V_Ratio = 0.324417",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.626350"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Diophantine Equations",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.7390922671981318,
+    "agitation_score": 0.2620629204390851,
+    "tension": 0.2387902025815062,
+    "bonding_strength": 0.19346518940151206,
+    "complexity": 8.0,
+    "discovery_potential": 3.143292814251042,
+    "uv_ratio": 0.3545740255098289,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Diophantine Equations) = 0.739092",
+      "V(Diophantine Equations) = 0.262063",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.238790",
+      "Bonding = UV/(|U|+|V|) = 0.193465",
+      "U_V_Ratio = 0.354574",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.143293"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Modular Forms",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.7390922671981318,
+    "agitation_score": 0.2620629204390851,
+    "tension": 0.2387902025815062,
+    "bonding_strength": 0.19346518940151206,
+    "complexity": 8.0,
+    "discovery_potential": 3.143292814251042,
+    "uv_ratio": 0.3545740255098289,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Modular Forms) = 0.739092",
+      "V(Modular Forms) = 0.262063",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.238790",
+      "Bonding = UV/(|U|+|V|) = 0.193465",
+      "U_V_Ratio = 0.354574",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.143293"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Elliptic Curves",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.7390922671981318,
+    "agitation_score": 0.2620629204390851,
+    "tension": 0.2387902025815062,
+    "bonding_strength": 0.19346518940151206,
+    "complexity": 8.0,
+    "discovery_potential": 3.143292814251042,
+    "uv_ratio": 0.3545740255098289,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Elliptic Curves) = 0.739092",
+      "V(Elliptic Curves) = 0.262063",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.238790",
+      "Bonding = UV/(|U|+|V|) = 0.193465",
+      "U_V_Ratio = 0.354574",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.143293"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Automorphic Forms",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.7390922671981318,
+    "agitation_score": 0.2620629204390851,
+    "tension": 0.2387902025815062,
+    "bonding_strength": 0.19346518940151206,
+    "complexity": 8.0,
+    "discovery_potential": 3.143292814251042,
+    "uv_ratio": 0.3545740255098289,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Automorphic Forms) = 0.739092",
+      "V(Automorphic Forms) = 0.262063",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.238790",
+      "Bonding = UV/(|U|+|V|) = 0.193465",
+      "U_V_Ratio = 0.354574",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.143293"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Real Analysis",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.5603553431806647,
+    "agitation_score": 0.43197848142790685,
+    "tension": 0.06369635110718003,
+    "bonding_strength": 0.24393147162779188,
+    "complexity": 8.5,
+    "discovery_potential": 0.6654575449416863,
+    "uv_ratio": 0.7709009766888975,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Real Analysis) = 0.560355",
+      "V(Real Analysis) = 0.431978",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.063696",
+      "Bonding = UV/(|U|+|V|) = 0.243931",
+      "U_V_Ratio = 0.770901",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.665458"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability"
+    ]
+  },
+  {
+    "subject": "Complex Analysis",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.5603553431806647,
+    "agitation_score": 0.43197848142790685,
+    "tension": 0.06369635110718003,
+    "bonding_strength": 0.24393147162779188,
+    "complexity": 8.5,
+    "discovery_potential": 0.6654575449416863,
+    "uv_ratio": 0.7709009766888975,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Complex Analysis) = 0.560355",
+      "V(Complex Analysis) = 0.431978",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.063696",
+      "Bonding = UV/(|U|+|V|) = 0.243931",
+      "U_V_Ratio = 0.770901",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.665458"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability"
+    ]
+  },
+  {
+    "subject": "Functional Analysis",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.5603553431806647,
+    "agitation_score": 0.43197848142790685,
+    "tension": 0.06369635110718003,
+    "bonding_strength": 0.24393147162779188,
+    "complexity": 8.5,
+    "discovery_potential": 0.6654575449416863,
+    "uv_ratio": 0.7709009766888975,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Functional Analysis) = 0.560355",
+      "V(Functional Analysis) = 0.431978",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.063696",
+      "Bonding = UV/(|U|+|V|) = 0.243931",
+      "U_V_Ratio = 0.770901",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.665458"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability"
+    ]
+  },
+  {
+    "subject": "Harmonic Analysis",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.5603553431806647,
+    "agitation_score": 0.43197848142790685,
+    "tension": 0.06369635110718003,
+    "bonding_strength": 0.24393147162779188,
+    "complexity": 8.5,
+    "discovery_potential": 0.6654575449416863,
+    "uv_ratio": 0.7709009766888975,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Harmonic Analysis) = 0.560355",
+      "V(Harmonic Analysis) = 0.431978",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.063696",
+      "Bonding = UV/(|U|+|V|) = 0.243931",
+      "U_V_Ratio = 0.770901",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.665458"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability"
+    ]
+  },
+  {
+    "subject": "Fourier Analysis",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.5603553431806647,
+    "agitation_score": 0.43197848142790685,
+    "tension": 0.06369635110718003,
+    "bonding_strength": 0.24393147162779188,
+    "complexity": 8.5,
+    "discovery_potential": 0.6654575449416863,
+    "uv_ratio": 0.7709009766888975,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Fourier Analysis) = 0.560355",
+      "V(Fourier Analysis) = 0.431978",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.063696",
+      "Bonding = UV/(|U|+|V|) = 0.243931",
+      "U_V_Ratio = 0.770901",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.665458"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability"
+    ]
+  },
+  {
+    "subject": "Measure Theory",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Measure Theory) = 0.609400",
+      "V(Measure Theory) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Integration Theory",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Integration Theory) = 0.609400",
+      "V(Integration Theory) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Differential Equations",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Differential Equations) = 0.609400",
+      "V(Differential Equations) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Partial Differential Equations",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Partial Differential Equations) = 0.609400",
+      "V(Partial Differential Equations) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Calculus of Variations",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Calculus of Variations) = 0.609400",
+      "V(Calculus of Variations) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Operator Theory",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Operator Theory) = 0.609400",
+      "V(Operator Theory) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Spectral Theory",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Spectral Theory) = 0.609400",
+      "V(Spectral Theory) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Banach Spaces",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Banach Spaces) = 0.609400",
+      "V(Banach Spaces) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Hilbert Spaces",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Hilbert Spaces) = 0.609400",
+      "V(Hilbert Spaces) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Distribution Theory",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Distribution Theory) = 0.609400",
+      "V(Distribution Theory) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Microlocal Analysis",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.5603553431806647,
+    "agitation_score": 0.43197848142790685,
+    "tension": 0.06369635110718003,
+    "bonding_strength": 0.24393147162779188,
+    "complexity": 8.5,
+    "discovery_potential": 0.6654575449416863,
+    "uv_ratio": 0.7709009766888975,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Microlocal Analysis) = 0.560355",
+      "V(Microlocal Analysis) = 0.431978",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.063696",
+      "Bonding = UV/(|U|+|V|) = 0.243931",
+      "U_V_Ratio = 0.770901",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.665458"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability"
+    ]
+  },
+  {
+    "subject": "Nonlinear Analysis",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.5603553431806647,
+    "agitation_score": 0.43197848142790685,
+    "tension": 0.06369635110718003,
+    "bonding_strength": 0.24393147162779188,
+    "complexity": 8.5,
+    "discovery_potential": 0.6654575449416863,
+    "uv_ratio": 0.7709009766888975,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Nonlinear Analysis) = 0.560355",
+      "V(Nonlinear Analysis) = 0.431978",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.063696",
+      "Bonding = UV/(|U|+|V|) = 0.243931",
+      "U_V_Ratio = 0.770901",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.665458"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability"
+    ]
+  },
+  {
+    "subject": "Convex Analysis",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.5603553431806647,
+    "agitation_score": 0.43197848142790685,
+    "tension": 0.06369635110718003,
+    "bonding_strength": 0.24393147162779188,
+    "complexity": 8.5,
+    "discovery_potential": 0.6654575449416863,
+    "uv_ratio": 0.7709009766888975,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Convex Analysis) = 0.560355",
+      "V(Convex Analysis) = 0.431978",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.063696",
+      "Bonding = UV/(|U|+|V|) = 0.243931",
+      "U_V_Ratio = 0.770901",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.665458"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability"
+    ]
+  },
+  {
+    "subject": "Differential Geometry",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6144156226923667,
+    "agitation_score": 0.41459469909375946,
+    "tension": 0.1028088964459019,
+    "bonding_strength": 0.24755189990877108,
+    "complexity": 7.5,
+    "discovery_potential": 1.0218338900248174,
+    "uv_ratio": 0.6747789016326267,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Differential Geometry) = 0.614416",
+      "V(Differential Geometry) = 0.414595",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.102809",
+      "Bonding = UV/(|U|+|V|) = 0.247552",
+      "U_V_Ratio = 0.674779",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.021834"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Algebraic Topology",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.5870160537367746,
+    "agitation_score": 0.40706257560775877,
+    "tension": 0.08944395344213675,
+    "bonding_strength": 0.24037561987497366,
+    "complexity": 7.5,
+    "discovery_potential": 0.8764767164703268,
+    "uv_ratio": 0.6934436851380327,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Algebraic Topology) = 0.587016",
+      "V(Algebraic Topology) = 0.407063",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.089444",
+      "Bonding = UV/(|U|+|V|) = 0.240376",
+      "U_V_Ratio = 0.693444",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.876477"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability"
+    ]
+  },
+  {
+    "subject": "Geometric Topology",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6538127363966593,
+    "agitation_score": 0.3072253997867273,
+    "tension": 0.16654182400018652,
+    "bonding_strength": 0.2090113511019783,
+    "complexity": 7.5,
+    "discovery_potential": 1.9111946390164556,
+    "uv_ratio": 0.46989815682230457,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Geometric Topology) = 0.653813",
+      "V(Geometric Topology) = 0.307225",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166542",
+      "Bonding = UV/(|U|+|V|) = 0.209011",
+      "U_V_Ratio = 0.469898",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.911195"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Riemannian Geometry",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6144156226923667,
+    "agitation_score": 0.41459469909375946,
+    "tension": 0.1028088964459019,
+    "bonding_strength": 0.24755189990877108,
+    "complexity": 7.5,
+    "discovery_potential": 1.0218338900248174,
+    "uv_ratio": 0.6747789016326267,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Riemannian Geometry) = 0.614416",
+      "V(Riemannian Geometry) = 0.414595",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.102809",
+      "Bonding = UV/(|U|+|V|) = 0.247552",
+      "U_V_Ratio = 0.674779",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.021834"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Symplectic Geometry",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6144156226923667,
+    "agitation_score": 0.41459469909375946,
+    "tension": 0.1028088964459019,
+    "bonding_strength": 0.24755189990877108,
+    "complexity": 7.5,
+    "discovery_potential": 1.0218338900248174,
+    "uv_ratio": 0.6747789016326267,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Symplectic Geometry) = 0.614416",
+      "V(Symplectic Geometry) = 0.414595",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.102809",
+      "Bonding = UV/(|U|+|V|) = 0.247552",
+      "U_V_Ratio = 0.674779",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.021834"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Complex Geometry",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6144156226923667,
+    "agitation_score": 0.41459469909375946,
+    "tension": 0.1028088964459019,
+    "bonding_strength": 0.24755189990877108,
+    "complexity": 7.5,
+    "discovery_potential": 1.0218338900248174,
+    "uv_ratio": 0.6747789016326267,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Complex Geometry) = 0.614416",
+      "V(Complex Geometry) = 0.414595",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.102809",
+      "Bonding = UV/(|U|+|V|) = 0.247552",
+      "U_V_Ratio = 0.674779",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.021834"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Algebraic Geometry",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6144156226923667,
+    "agitation_score": 0.41459469909375946,
+    "tension": 0.1028088964459019,
+    "bonding_strength": 0.24755189990877108,
+    "complexity": 7.5,
+    "discovery_potential": 1.0218338900248174,
+    "uv_ratio": 0.6747789016326267,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Algebraic Geometry) = 0.614416",
+      "V(Algebraic Geometry) = 0.414595",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.102809",
+      "Bonding = UV/(|U|+|V|) = 0.247552",
+      "U_V_Ratio = 0.674779",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.021834"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Toric Geometry",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6144156226923667,
+    "agitation_score": 0.41459469909375946,
+    "tension": 0.1028088964459019,
+    "bonding_strength": 0.24755189990877108,
+    "complexity": 7.5,
+    "discovery_potential": 1.0218338900248174,
+    "uv_ratio": 0.6747789016326267,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Toric Geometry) = 0.614416",
+      "V(Toric Geometry) = 0.414595",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.102809",
+      "Bonding = UV/(|U|+|V|) = 0.247552",
+      "U_V_Ratio = 0.674779",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.021834"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Tropical Geometry",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6144156226923667,
+    "agitation_score": 0.41459469909375946,
+    "tension": 0.1028088964459019,
+    "bonding_strength": 0.24755189990877108,
+    "complexity": 7.5,
+    "discovery_potential": 1.0218338900248174,
+    "uv_ratio": 0.6747789016326267,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Tropical Geometry) = 0.614416",
+      "V(Tropical Geometry) = 0.414595",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.102809",
+      "Bonding = UV/(|U|+|V|) = 0.247552",
+      "U_V_Ratio = 0.674779",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.021834"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Knot Theory",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6538127363966593,
+    "agitation_score": 0.3072253997867273,
+    "tension": 0.16654182400018652,
+    "bonding_strength": 0.2090113511019783,
+    "complexity": 7.5,
+    "discovery_potential": 1.9111946390164556,
+    "uv_ratio": 0.46989815682230457,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Knot Theory) = 0.653813",
+      "V(Knot Theory) = 0.307225",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166542",
+      "Bonding = UV/(|U|+|V|) = 0.209011",
+      "U_V_Ratio = 0.469898",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.911195"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Manifold Theory",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6538127363966593,
+    "agitation_score": 0.3072253997867273,
+    "tension": 0.16654182400018652,
+    "bonding_strength": 0.2090113511019783,
+    "complexity": 7.5,
+    "discovery_potential": 1.9111946390164556,
+    "uv_ratio": 0.46989815682230457,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Manifold Theory) = 0.653813",
+      "V(Manifold Theory) = 0.307225",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166542",
+      "Bonding = UV/(|U|+|V|) = 0.209011",
+      "U_V_Ratio = 0.469898",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.911195"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Morse Theory",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6538127363966593,
+    "agitation_score": 0.3072253997867273,
+    "tension": 0.16654182400018652,
+    "bonding_strength": 0.2090113511019783,
+    "complexity": 7.5,
+    "discovery_potential": 1.9111946390164556,
+    "uv_ratio": 0.46989815682230457,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Morse Theory) = 0.653813",
+      "V(Morse Theory) = 0.307225",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166542",
+      "Bonding = UV/(|U|+|V|) = 0.209011",
+      "U_V_Ratio = 0.469898",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.911195"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Catastrophe Theory",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6538127363966593,
+    "agitation_score": 0.3072253997867273,
+    "tension": 0.16654182400018652,
+    "bonding_strength": 0.2090113511019783,
+    "complexity": 7.5,
+    "discovery_potential": 1.9111946390164556,
+    "uv_ratio": 0.46989815682230457,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Catastrophe Theory) = 0.653813",
+      "V(Catastrophe Theory) = 0.307225",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166542",
+      "Bonding = UV/(|U|+|V|) = 0.209011",
+      "U_V_Ratio = 0.469898",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.911195"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Singularity Theory",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6538127363966593,
+    "agitation_score": 0.3072253997867273,
+    "tension": 0.16654182400018652,
+    "bonding_strength": 0.2090113511019783,
+    "complexity": 7.5,
+    "discovery_potential": 1.9111946390164556,
+    "uv_ratio": 0.46989815682230457,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Singularity Theory) = 0.653813",
+      "V(Singularity Theory) = 0.307225",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166542",
+      "Bonding = UV/(|U|+|V|) = 0.209011",
+      "U_V_Ratio = 0.469898",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.911195"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Index Theory",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6538127363966593,
+    "agitation_score": 0.3072253997867273,
+    "tension": 0.16654182400018652,
+    "bonding_strength": 0.2090113511019783,
+    "complexity": 7.5,
+    "discovery_potential": 1.9111946390164556,
+    "uv_ratio": 0.46989815682230457,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Index Theory) = 0.653813",
+      "V(Index Theory) = 0.307225",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166542",
+      "Bonding = UV/(|U|+|V|) = 0.209011",
+      "U_V_Ratio = 0.469898",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.911195"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "K-Theory",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6538127363966593,
+    "agitation_score": 0.3072253997867273,
+    "tension": 0.16654182400018652,
+    "bonding_strength": 0.2090113511019783,
+    "complexity": 7.5,
+    "discovery_potential": 1.9111946390164556,
+    "uv_ratio": 0.46989815682230457,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(K-Theory) = 0.653813",
+      "V(K-Theory) = 0.307225",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166542",
+      "Bonding = UV/(|U|+|V|) = 0.209011",
+      "U_V_Ratio = 0.469898",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.911195"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Cohomology Theory",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6538127363966593,
+    "agitation_score": 0.3072253997867273,
+    "tension": 0.16654182400018652,
+    "bonding_strength": 0.2090113511019783,
+    "complexity": 7.5,
+    "discovery_potential": 1.9111946390164556,
+    "uv_ratio": 0.46989815682230457,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Cohomology Theory) = 0.653813",
+      "V(Cohomology Theory) = 0.307225",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166542",
+      "Bonding = UV/(|U|+|V|) = 0.209011",
+      "U_V_Ratio = 0.469898",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.911195"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Homology Theory",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6538127363966593,
+    "agitation_score": 0.3072253997867273,
+    "tension": 0.16654182400018652,
+    "bonding_strength": 0.2090113511019783,
+    "complexity": 7.5,
+    "discovery_potential": 1.9111946390164556,
+    "uv_ratio": 0.46989815682230457,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Homology Theory) = 0.653813",
+      "V(Homology Theory) = 0.307225",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166542",
+      "Bonding = UV/(|U|+|V|) = 0.209011",
+      "U_V_Ratio = 0.469898",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.911195"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Combinatorics",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Combinatorics) = 0.629380",
+      "V(Combinatorics) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Graph Theory",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Graph Theory) = 0.629380",
+      "V(Graph Theory) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Design Theory",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Design Theory) = 0.629380",
+      "V(Design Theory) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Coding Theory",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Coding Theory) = 0.629380",
+      "V(Coding Theory) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Cryptography",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Cryptography) = 0.629380",
+      "V(Cryptography) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Discrete Mathematics",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Discrete Mathematics) = 0.629380",
+      "V(Discrete Mathematics) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Finite Mathematics",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Finite Mathematics) = 0.629380",
+      "V(Finite Mathematics) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Enumerative Combinatorics",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Enumerative Combinatorics) = 0.629380",
+      "V(Enumerative Combinatorics) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Algebraic Combinatorics",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.5656595687054833,
+    "agitation_score": 0.42685944975915197,
+    "tension": 0.0688808789096937,
+    "bonding_strength": 0.243277083594643,
+    "complexity": 6.5,
+    "discovery_potential": 0.5575875196948885,
+    "uv_ratio": 0.7546225208574853,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Algebraic Combinatorics) = 0.565660",
+      "V(Algebraic Combinatorics) = 0.426859",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.068881",
+      "Bonding = UV/(|U|+|V|) = 0.243277",
+      "U_V_Ratio = 0.754623",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.557588"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability"
+    ]
+  },
+  {
+    "subject": "Probabilistic Methods",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Probabilistic Methods) = 0.629380",
+      "V(Probabilistic Methods) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Ramsey Theory",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Ramsey Theory) = 0.629380",
+      "V(Ramsey Theory) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Extremal Combinatorics",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Extremal Combinatorics) = 0.629380",
+      "V(Extremal Combinatorics) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Matroid Theory",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Matroid Theory) = 0.629380",
+      "V(Matroid Theory) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Poset Theory",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Poset Theory) = 0.629380",
+      "V(Poset Theory) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Lattice Theory",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Lattice Theory) = 0.629380",
+      "V(Lattice Theory) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Boolean Algebra",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.5656595687054833,
+    "agitation_score": 0.42685944975915197,
+    "tension": 0.0688808789096937,
+    "bonding_strength": 0.243277083594643,
+    "complexity": 6.5,
+    "discovery_potential": 0.5575875196948885,
+    "uv_ratio": 0.7546225208574853,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Boolean Algebra) = 0.565660",
+      "V(Boolean Algebra) = 0.426859",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.068881",
+      "Bonding = UV/(|U|+|V|) = 0.243277",
+      "U_V_Ratio = 0.754623",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.557588"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability"
+    ]
+  },
+  {
+    "subject": "Network Theory",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Network Theory) = 0.629380",
+      "V(Network Theory) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Game Theory",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Game Theory) = 0.629380",
+      "V(Game Theory) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Information Theory",
+    "domain": "Discrete Mathematics and Combinatorics",
+    "reference_score": 0.6293804250194778,
+    "agitation_score": 0.350963899699159,
+    "tension": 0.13647203025282859,
+    "bonding_strength": 0.22531859752441016,
+    "complexity": 6.5,
+    "discovery_potential": 1.2794770407434155,
+    "uv_ratio": 0.5576339614193341,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Information Theory) = 0.629380",
+      "V(Information Theory) = 0.350964",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.136472",
+      "Bonding = UV/(|U|+|V|) = 0.225319",
+      "U_V_Ratio = 0.557634",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.279477"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Mathematical Physics",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Mathematical Physics) = 0.712617",
+      "V(Mathematical Physics) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Fluid Dynamics",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Fluid Dynamics) = 0.712617",
+      "V(Fluid Dynamics) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Solid Mechanics",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Solid Mechanics) = 0.712617",
+      "V(Solid Mechanics) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Quantum Mechanics",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7448227892204752,
+    "agitation_score": 0.2557079522185967,
+    "tension": 0.2446872152571701,
+    "bonding_strength": 0.1903560803182714,
+    "complexity": 8.5,
+    "discovery_potential": 3.44564440090399,
+    "uv_ratio": 0.34331381354736334,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Quantum Mechanics) = 0.744823",
+      "V(Quantum Mechanics) = 0.255708",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.244687",
+      "Bonding = UV/(|U|+|V|) = 0.190356",
+      "U_V_Ratio = 0.343314",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.445644",
+      "Quantum_UV_Factor = exp(-|U-V|/61) = 0.992014"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Statistical Mechanics",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Statistical Mechanics) = 0.712617",
+      "V(Statistical Mechanics) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Ergodic Theory",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Ergodic Theory) = 0.712617",
+      "V(Ergodic Theory) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Dynamical Systems",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Dynamical Systems) = 0.712617",
+      "V(Dynamical Systems) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Control Theory",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Control Theory) = 0.712617",
+      "V(Control Theory) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Optimization Theory",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Optimization Theory) = 0.712617",
+      "V(Optimization Theory) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Operations Research",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Operations Research) = 0.712617",
+      "V(Operations Research) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Mathematical Biology",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Mathematical Biology) = 0.712617",
+      "V(Mathematical Biology) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Biomathematics",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Biomathematics) = 0.712617",
+      "V(Biomathematics) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Econophysics",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Econophysics) = 0.712617",
+      "V(Econophysics) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Mathematical Finance",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Mathematical Finance) = 0.712617",
+      "V(Mathematical Finance) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Risk Theory",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Risk Theory) = 0.712617",
+      "V(Risk Theory) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Actuarial Mathematics",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Actuarial Mathematics) = 0.712617",
+      "V(Actuarial Mathematics) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Mathematical Economics",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Mathematical Economics) = 0.712617",
+      "V(Mathematical Economics) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Game Theory",
+    "domain": "Applied Mathematics",
+    "reference_score": 0.7126171855840246,
+    "agitation_score": 0.2919686745098039,
+    "tension": 0.21128877314734223,
+    "bonding_strength": 0.207112107936429,
+    "complexity": 7.0,
+    "discovery_potential": 2.3520682139670166,
+    "uv_ratio": 0.4097132098063983,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Game Theory) = 0.712617",
+      "V(Game Theory) = 0.291969",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.211289",
+      "Bonding = UV/(|U|+|V|) = 0.207112",
+      "U_V_Ratio = 0.409713",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.352068"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Numerical Analysis",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.7819086760827346,
+    "agitation_score": 0.3194026910095381,
+    "tension": 0.25468154935466014,
+    "bonding_strength": 0.22676941572049453,
+    "complexity": 7.5,
+    "discovery_potential": 3.039959751511785,
+    "uv_ratio": 0.4084910434411047,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Numerical Analysis) = 0.781909",
+      "V(Numerical Analysis) = 0.319403",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.254682",
+      "Bonding = UV/(|U|+|V|) = 0.226769",
+      "U_V_Ratio = 0.408491",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.039960"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Scientific Computing",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Scientific Computing) = 0.849957",
+      "V(Scientific Computing) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Computational Mathematics",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Computational Mathematics) = 0.849957",
+      "V(Computational Mathematics) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Algorithm Design",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Algorithm Design) = 0.849957",
+      "V(Algorithm Design) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Complexity Theory",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Complexity Theory) = 0.849957",
+      "V(Complexity Theory) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Parallel Computing",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Parallel Computing) = 0.849957",
+      "V(Parallel Computing) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "High-Performance Computing",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(High-Performance Computing) = 0.849957",
+      "V(High-Performance Computing) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Machine Learning Mathematics",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Machine Learning Mathematics) = 0.849957",
+      "V(Machine Learning Mathematics) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Data Science Mathematics",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Data Science Mathematics) = 0.849957",
+      "V(Data Science Mathematics) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Computational Statistics",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Computational Statistics) = 0.849957",
+      "V(Computational Statistics) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Monte Carlo Methods",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Monte Carlo Methods) = 0.849957",
+      "V(Monte Carlo Methods) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Finite Element Method",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Finite Element Method) = 0.849957",
+      "V(Finite Element Method) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Boundary Element Method",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Boundary Element Method) = 0.849957",
+      "V(Boundary Element Method) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Discrete Element Method",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Discrete Element Method) = 0.849957",
+      "V(Discrete Element Method) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Computational Fluid Dynamics",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Computational Fluid Dynamics) = 0.849957",
+      "V(Computational Fluid Dynamics) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Computational Geometry",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.7987403095000768,
+    "agitation_score": 0.3392138447130758,
+    "tension": 0.26146002478762587,
+    "bonding_strength": 0.23809726453907068,
+    "complexity": 7.5,
+    "discovery_potential": 3.0891122379771825,
+    "uv_ratio": 0.4246860220224989,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Computational Geometry) = 0.798740",
+      "V(Computational Geometry) = 0.339214",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.261460",
+      "Bonding = UV/(|U|+|V|) = 0.238097",
+      "U_V_Ratio = 0.424686",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.089112"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Computer Algebra",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.763120869857807,
+    "agitation_score": 0.33305119822452983,
+    "tension": 0.23571518068687047,
+    "bonding_strength": 0.23185987626717336,
+    "complexity": 7.5,
+    "discovery_potential": 2.7641734278358414,
+    "uv_ratio": 0.4364330885655692,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Computer Algebra) = 0.763121",
+      "V(Computer Algebra) = 0.333051",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.235715",
+      "Bonding = UV/(|U|+|V|) = 0.231860",
+      "U_V_Ratio = 0.436433",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.764173"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Symbolic Computation",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Symbolic Computation) = 0.849957",
+      "V(Symbolic Computation) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Quantum Computing",
+    "domain": "Emerging Fields",
+    "reference_score": 0.714463260724324,
+    "agitation_score": 0.11320650385440047,
+    "tension": 0.24882101920494848,
+    "bonding_strength": 0.09772241457969838,
+    "complexity": 10.0,
+    "discovery_potential": 4.582164175078769,
+    "uv_ratio": 0.15844972031702032,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Quantum Computing) = 0.714463",
+      "V(Quantum Computing) = 0.113207",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.248821",
+      "Bonding = UV/(|U|+|V|) = 0.097722",
+      "U_V_Ratio = 0.158450",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.582164",
+      "Quantum_UV_Factor = exp(-|U-V|/61) = 0.990192"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Topological Quantum Computing",
+    "domain": "Emerging Fields",
+    "reference_score": 0.714463260724324,
+    "agitation_score": 0.11320650385440047,
+    "tension": 0.24882101920494848,
+    "bonding_strength": 0.09772241457969838,
+    "complexity": 10.0,
+    "discovery_potential": 4.582164175078769,
+    "uv_ratio": 0.15844972031702032,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Topological Quantum Computing) = 0.714463",
+      "V(Topological Quantum Computing) = 0.113207",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.248821",
+      "Bonding = UV/(|U|+|V|) = 0.097722",
+      "U_V_Ratio = 0.158450",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.582164",
+      "Quantum_UV_Factor = exp(-|U-V|/61) = 0.990192"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Quantum Information Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.714463260724324,
+    "agitation_score": 0.11320650385440047,
+    "tension": 0.24882101920494848,
+    "bonding_strength": 0.09772241457969838,
+    "complexity": 10.0,
+    "discovery_potential": 4.582164175078769,
+    "uv_ratio": 0.15844972031702032,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Quantum Information Theory) = 0.714463",
+      "V(Quantum Information Theory) = 0.113207",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.248821",
+      "Bonding = UV/(|U|+|V|) = 0.097722",
+      "U_V_Ratio = 0.158450",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.582164",
+      "Quantum_UV_Factor = exp(-|U-V|/61) = 0.990192"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Machine Learning Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Machine Learning Theory) = 0.694170",
+      "V(Machine Learning Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Deep Learning Mathematics",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Deep Learning Mathematics) = 0.694170",
+      "V(Deep Learning Mathematics) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Neural Network Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Neural Network Theory) = 0.694170",
+      "V(Neural Network Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Topological Data Analysis",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6389883637738838,
+    "agitation_score": 0.2815591631051778,
+    "tension": 0.16451528335496857,
+    "bonding_strength": 0.19544132558645597,
+    "complexity": 9.0,
+    "discovery_potential": 2.308857790365921,
+    "uv_ratio": 0.4406326922734836,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Topological Data Analysis) = 0.638988",
+      "V(Topological Data Analysis) = 0.281559",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.164515",
+      "Bonding = UV/(|U|+|V|) = 0.195441",
+      "U_V_Ratio = 0.440633",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.308858"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Persistent Homology",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Persistent Homology) = 0.694170",
+      "V(Persistent Homology) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Algebraic Topology in Data Science",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6067211125785077,
+    "agitation_score": 0.3168097286959065,
+    "tension": 0.13387105212606415,
+    "bonding_strength": 0.2081307331155479,
+    "complexity": 9.0,
+    "discovery_potential": 1.7805515560794647,
+    "uv_ratio": 0.5221669760217809,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Algebraic Topology in Data Science) = 0.606721",
+      "V(Algebraic Topology in Data Science) = 0.316810",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.133871",
+      "Bonding = UV/(|U|+|V|) = 0.208131",
+      "U_V_Ratio = 0.522167",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.780552"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Information Geometry",
+    "domain": "Emerging Fields",
+    "reference_score": 0.650641033062813,
+    "agitation_score": 0.3013703168087155,
+    "tension": 0.16625484302582946,
+    "bonding_strength": 0.20596802156692157,
+    "complexity": 9.0,
+    "discovery_potential": 2.299519185452536,
+    "uv_ratio": 0.4631898411689971,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Information Geometry) = 0.650641",
+      "V(Information Geometry) = 0.301370",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166255",
+      "Bonding = UV/(|U|+|V|) = 0.205968",
+      "U_V_Ratio = 0.463190",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.299519"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Optimal Transport",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Optimal Transport) = 0.694170",
+      "V(Optimal Transport) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Mean Field Games",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Mean Field Games) = 0.694170",
+      "V(Mean Field Games) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Stochastic Analysis",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6389883637738838,
+    "agitation_score": 0.2815591631051778,
+    "tension": 0.16451528335496857,
+    "bonding_strength": 0.19544132558645597,
+    "complexity": 9.0,
+    "discovery_potential": 2.308857790365921,
+    "uv_ratio": 0.4406326922734836,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Stochastic Analysis) = 0.638988",
+      "V(Stochastic Analysis) = 0.281559",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.164515",
+      "Bonding = UV/(|U|+|V|) = 0.195441",
+      "U_V_Ratio = 0.440633",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.308858"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Rough Path Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Rough Path Theory) = 0.694170",
+      "V(Rough Path Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Fractional Calculus",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Fractional Calculus) = 0.694170",
+      "V(Fractional Calculus) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Noncommutative Geometry",
+    "domain": "Emerging Fields",
+    "reference_score": 0.653987805450033,
+    "agitation_score": 0.2430315144276923,
+    "tension": 0.1843178663361663,
+    "bonding_strength": 0.17718642534891144,
+    "complexity": 10.0,
+    "discovery_potential": 3.0014049497583635,
+    "uv_ratio": 0.37161474933510713,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Noncommutative Geometry) = 0.653988",
+      "V(Noncommutative Geometry) = 0.243032",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.184318",
+      "Bonding = UV/(|U|+|V|) = 0.177186",
+      "U_V_Ratio = 0.371615",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.001405"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Quantum Groups",
+    "domain": "Emerging Fields",
+    "reference_score": 0.714463260724324,
+    "agitation_score": 0.11320650385440047,
+    "tension": 0.24882101920494848,
+    "bonding_strength": 0.09772241457969838,
+    "complexity": 10.0,
+    "discovery_potential": 4.582164175078769,
+    "uv_ratio": 0.15844972031702032,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Quantum Groups) = 0.714463",
+      "V(Quantum Groups) = 0.113207",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.248821",
+      "Bonding = UV/(|U|+|V|) = 0.097722",
+      "U_V_Ratio = 0.158450",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.582164",
+      "Quantum_UV_Factor = exp(-|U-V|/61) = 0.990192"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Hopf Algebras",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6067211125785077,
+    "agitation_score": 0.3168097286959065,
+    "tension": 0.13387105212606415,
+    "bonding_strength": 0.2081307331155479,
+    "complexity": 9.0,
+    "discovery_potential": 1.7805515560794647,
+    "uv_ratio": 0.5221669760217809,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Hopf Algebras) = 0.606721",
+      "V(Hopf Algebras) = 0.316810",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.133871",
+      "Bonding = UV/(|U|+|V|) = 0.208131",
+      "U_V_Ratio = 0.522167",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.780552"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Noncommutative Algebra",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.6713663926511672,
+    "agitation_score": 0.29496176488559805,
+    "tension": 0.18186519521850716,
+    "bonding_strength": 0.20492770959459358,
+    "complexity": 9.5,
+    "discovery_potential": 2.69637308484421,
+    "uv_ratio": 0.4393454424742432,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Noncommutative Algebra) = 0.671366",
+      "V(Noncommutative Algebra) = 0.294962",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.181865",
+      "Bonding = UV/(|U|+|V|) = 0.204928",
+      "U_V_Ratio = 0.439345",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.696373"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Homotopical Algebra",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.6643151695281009,
+    "agitation_score": 0.3525941603080971,
+    "tension": 0.15849600129088867,
+    "bonding_strength": 0.23033877503551667,
+    "complexity": 8.0,
+    "discovery_potential": 1.8629450423673606,
+    "uv_ratio": 0.5307633732125785,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Homotopical Algebra) = 0.664315",
+      "V(Homotopical Algebra) = 0.352594",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.158496",
+      "Bonding = UV/(|U|+|V|) = 0.230339",
+      "U_V_Ratio = 0.530763",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.862945"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Derived Categories",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.7390922671981318,
+    "agitation_score": 0.2620629204390851,
+    "tension": 0.2387902025815062,
+    "bonding_strength": 0.19346518940151206,
+    "complexity": 8.0,
+    "discovery_potential": 3.143292814251042,
+    "uv_ratio": 0.3545740255098289,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Derived Categories) = 0.739092",
+      "V(Derived Categories) = 0.262063",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.238790",
+      "Bonding = UV/(|U|+|V|) = 0.193465",
+      "U_V_Ratio = 0.354574",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.143293"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Triangulated Categories",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Triangulated Categories) = 0.694170",
+      "V(Triangulated Categories) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Infinity Categories",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Infinity Categories) = 0.694170",
+      "V(Infinity Categories) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Higher Algebra",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.6673932238363585,
+    "agitation_score": 0.3168097286959065,
+    "tension": 0.1725226555131569,
+    "bonding_strength": 0.21483035141440363,
+    "complexity": 9.0,
+    "discovery_potential": 2.3683435265703503,
+    "uv_ratio": 0.47469725093600434,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Higher Algebra) = 0.667393",
+      "V(Higher Algebra) = 0.316810",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.172523",
+      "Bonding = UV/(|U|+|V|) = 0.214830",
+      "U_V_Ratio = 0.474697",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.368344"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Deformation Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Deformation Theory) = 0.694170",
+      "V(Deformation Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Intersection Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Intersection Theory) = 0.694170",
+      "V(Intersection Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Motive Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Motive Theory) = 0.694170",
+      "V(Motive Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Period Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Period Theory) = 0.694170",
+      "V(Period Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Anabelian Geometry",
+    "domain": "Emerging Fields",
+    "reference_score": 0.650641033062813,
+    "agitation_score": 0.3013703168087155,
+    "tension": 0.16625484302582946,
+    "bonding_strength": 0.20596802156692157,
+    "complexity": 9.0,
+    "discovery_potential": 2.299519185452536,
+    "uv_ratio": 0.4631898411689971,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Anabelian Geometry) = 0.650641",
+      "V(Anabelian Geometry) = 0.301370",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166255",
+      "Bonding = UV/(|U|+|V|) = 0.205968",
+      "U_V_Ratio = 0.463190",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.299519"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Arithmetic Geometry",
+    "domain": "Emerging Fields",
+    "reference_score": 0.650641033062813,
+    "agitation_score": 0.3013703168087155,
+    "tension": 0.16625484302582946,
+    "bonding_strength": 0.20596802156692157,
+    "complexity": 9.0,
+    "discovery_potential": 2.299519185452536,
+    "uv_ratio": 0.4631898411689971,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Arithmetic Geometry) = 0.650641",
+      "V(Arithmetic Geometry) = 0.301370",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166255",
+      "Bonding = UV/(|U|+|V|) = 0.205968",
+      "U_V_Ratio = 0.463190",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.299519"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Microlocal Analysis",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.5603553431806647,
+    "agitation_score": 0.43197848142790685,
+    "tension": 0.06369635110718003,
+    "bonding_strength": 0.24393147162779188,
+    "complexity": 8.5,
+    "discovery_potential": 0.6654575449416863,
+    "uv_ratio": 0.7709009766888975,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Microlocal Analysis) = 0.560355",
+      "V(Microlocal Analysis) = 0.431978",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.063696",
+      "Bonding = UV/(|U|+|V|) = 0.243931",
+      "U_V_Ratio = 0.770901",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.665458"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability"
+    ]
+  },
+  {
+    "subject": "Parabolic PDEs",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Parabolic PDEs) = 0.609400",
+      "V(Parabolic PDEs) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Hyperbolic PDEs",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Hyperbolic PDEs) = 0.609400",
+      "V(Hyperbolic PDEs) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Elliptic PDEs",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Elliptic PDEs) = 0.609400",
+      "V(Elliptic PDEs) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Nonlinear PDEs",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Nonlinear PDEs) = 0.609400",
+      "V(Nonlinear PDEs) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Stochastic PDEs",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Stochastic PDEs) = 0.609400",
+      "V(Stochastic PDEs) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Functional Integration",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Functional Integration) = 0.694170",
+      "V(Functional Integration) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Path Integrals",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Path Integrals) = 0.694170",
+      "V(Path Integrals) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Wiener Measure",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Wiener Measure) = 0.694170",
+      "V(Wiener Measure) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Malliavin Calculus",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Malliavin Calculus) = 0.694170",
+      "V(Malliavin Calculus) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Rough Analysis",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.5603553431806647,
+    "agitation_score": 0.43197848142790685,
+    "tension": 0.06369635110718003,
+    "bonding_strength": 0.24393147162779188,
+    "complexity": 8.5,
+    "discovery_potential": 0.6654575449416863,
+    "uv_ratio": 0.7709009766888975,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Rough Analysis) = 0.560355",
+      "V(Rough Analysis) = 0.431978",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.063696",
+      "Bonding = UV/(|U|+|V|) = 0.243931",
+      "U_V_Ratio = 0.770901",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.665458"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability"
+    ]
+  },
+  {
+    "subject": "Stochastic Calculus",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.6094004639076616,
+    "agitation_score": 0.3324203378841757,
+    "tension": 0.13043282218592178,
+    "bonding_strength": 0.2150909256963121,
+    "complexity": 8.5,
+    "discovery_potential": 1.6125874432407494,
+    "uv_ratio": 0.5454875037312023,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Stochastic Calculus) = 0.609400",
+      "V(Stochastic Calculus) = 0.332420",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.130433",
+      "Bonding = UV/(|U|+|V|) = 0.215091",
+      "U_V_Ratio = 0.545488",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.612587"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Quantum Geometry",
+    "domain": "Quantum Mathematics",
+    "reference_score": 0.44441811095575146,
+    "agitation_score": 0.5650319769018437,
+    "tension": 0.06087683878806351,
+    "bonding_strength": 0.24875964329487463,
+    "complexity": 8.5,
+    "discovery_potential": 0.657888500837748,
+    "uv_ratio": 1.2713972784762624,
+    "patterns": [
+      "V-Dominance - Agitation-Dynamics Pattern",
+      "Quantum-Coherent U-V Oscillation"
+    ],
+    "formulas": [
+      "U(Quantum Geometry) = 0.444418",
+      "V(Quantum Geometry) = 0.565032",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.060877",
+      "Bonding = UV/(|U|+|V|) = 0.248760",
+      "U_V_Ratio = 1.271397",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.657889",
+      "Quantum_UV_Factor = exp(-|U-V|/61) = 0.998025"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability",
+      "Quantum U-V patterns reveal fundamental mathematical reality structures"
+    ]
+  },
+  {
+    "subject": "Noncommutative Geometry",
+    "domain": "Emerging Fields",
+    "reference_score": 0.653987805450033,
+    "agitation_score": 0.2430315144276923,
+    "tension": 0.1843178663361663,
+    "bonding_strength": 0.17718642534891144,
+    "complexity": 10.0,
+    "discovery_potential": 3.0014049497583635,
+    "uv_ratio": 0.37161474933510713,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Noncommutative Geometry) = 0.653988",
+      "V(Noncommutative Geometry) = 0.243032",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.184318",
+      "Bonding = UV/(|U|+|V|) = 0.177186",
+      "U_V_Ratio = 0.371615",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.001405"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Derived Algebraic Geometry",
+    "domain": "Algebra and Number Theory",
+    "reference_score": 0.6938472208827521,
+    "agitation_score": 0.358162065737722,
+    "tension": 0.1765719502966031,
+    "bonding_strength": 0.23622391653256833,
+    "complexity": 8.0,
+    "discovery_potential": 2.0959834853160513,
+    "uv_ratio": 0.5161973052661767,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Derived Algebraic Geometry) = 0.693847",
+      "V(Derived Algebraic Geometry) = 0.358162",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.176572",
+      "Bonding = UV/(|U|+|V|) = 0.236224",
+      "U_V_Ratio = 0.516197",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.095983"
+    ],
+    "insights": []
+  },
+  {
+    "subject": "Stack Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Stack Theory) = 0.694170",
+      "V(Stack Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Moduli Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Moduli Theory) = 0.694170",
+      "V(Moduli Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Mirror Symmetry",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Mirror Symmetry) = 0.694170",
+      "V(Mirror Symmetry) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Tropical Geometry",
+    "domain": "Emerging Fields",
+    "reference_score": 0.650641033062813,
+    "agitation_score": 0.3013703168087155,
+    "tension": 0.16625484302582946,
+    "bonding_strength": 0.20596802156692157,
+    "complexity": 9.0,
+    "discovery_potential": 2.299519185452536,
+    "uv_ratio": 0.4631898411689971,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Tropical Geometry) = 0.650641",
+      "V(Tropical Geometry) = 0.301370",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166255",
+      "Bonding = UV/(|U|+|V|) = 0.205968",
+      "U_V_Ratio = 0.463190",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.299519"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Arithmetic Geometry",
+    "domain": "Emerging Fields",
+    "reference_score": 0.650641033062813,
+    "agitation_score": 0.3013703168087155,
+    "tension": 0.16625484302582946,
+    "bonding_strength": 0.20596802156692157,
+    "complexity": 9.0,
+    "discovery_potential": 2.299519185452536,
+    "uv_ratio": 0.4631898411689971,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Arithmetic Geometry) = 0.650641",
+      "V(Arithmetic Geometry) = 0.301370",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166255",
+      "Bonding = UV/(|U|+|V|) = 0.205968",
+      "U_V_Ratio = 0.463190",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.299519"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "p-adic Geometry",
+    "domain": "Emerging Fields",
+    "reference_score": 0.650641033062813,
+    "agitation_score": 0.3013703168087155,
+    "tension": 0.16625484302582946,
+    "bonding_strength": 0.20596802156692157,
+    "complexity": 9.0,
+    "discovery_potential": 2.299519185452536,
+    "uv_ratio": 0.4631898411689971,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(p-adic Geometry) = 0.650641",
+      "V(p-adic Geometry) = 0.301370",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166255",
+      "Bonding = UV/(|U|+|V|) = 0.205968",
+      "U_V_Ratio = 0.463190",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.299519"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Berkovich Spaces",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Berkovich Spaces) = 0.694170",
+      "V(Berkovich Spaces) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Rigid Geometry",
+    "domain": "Emerging Fields",
+    "reference_score": 0.650641033062813,
+    "agitation_score": 0.3013703168087155,
+    "tension": 0.16625484302582946,
+    "bonding_strength": 0.20596802156692157,
+    "complexity": 9.0,
+    "discovery_potential": 2.299519185452536,
+    "uv_ratio": 0.4631898411689971,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Rigid Geometry) = 0.650641",
+      "V(Rigid Geometry) = 0.301370",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166255",
+      "Bonding = UV/(|U|+|V|) = 0.205968",
+      "U_V_Ratio = 0.463190",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.299519"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Formal Geometry",
+    "domain": "Emerging Fields",
+    "reference_score": 0.650641033062813,
+    "agitation_score": 0.3013703168087155,
+    "tension": 0.16625484302582946,
+    "bonding_strength": 0.20596802156692157,
+    "complexity": 9.0,
+    "discovery_potential": 2.299519185452536,
+    "uv_ratio": 0.4631898411689971,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Formal Geometry) = 0.650641",
+      "V(Formal Geometry) = 0.301370",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166255",
+      "Bonding = UV/(|U|+|V|) = 0.205968",
+      "U_V_Ratio = 0.463190",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.299519"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Persistent Homology",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Persistent Homology) = 0.694170",
+      "V(Persistent Homology) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Computational Topology",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Computational Topology) = 0.849957",
+      "V(Computational Topology) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Applied Topology",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6538127363966593,
+    "agitation_score": 0.3072253997867273,
+    "tension": 0.16654182400018652,
+    "bonding_strength": 0.2090113511019783,
+    "complexity": 7.5,
+    "discovery_potential": 1.9111946390164556,
+    "uv_ratio": 0.46989815682230457,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Applied Topology) = 0.653813",
+      "V(Applied Topology) = 0.307225",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166542",
+      "Bonding = UV/(|U|+|V|) = 0.209011",
+      "U_V_Ratio = 0.469898",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.911195"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Topological Data Analysis",
+    "domain": "Analysis and Calculus",
+    "reference_score": 0.5603553431806647,
+    "agitation_score": 0.43197848142790685,
+    "tension": 0.06369635110718003,
+    "bonding_strength": 0.24393147162779188,
+    "complexity": 8.5,
+    "discovery_potential": 0.6654575449416863,
+    "uv_ratio": 0.7709009766888975,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Analytical U-V Continuum Behavior"
+    ],
+    "formulas": [
+      "U(Topological Data Analysis) = 0.560355",
+      "V(Topological Data Analysis) = 0.431978",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.063696",
+      "Bonding = UV/(|U|+|V|) = 0.243931",
+      "U_V_Ratio = 0.770901",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.665458"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability"
+    ]
+  },
+  {
+    "subject": "Discrete Morse Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Discrete Morse Theory) = 0.694170",
+      "V(Discrete Morse Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Morse Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Morse Theory) = 0.694170",
+      "V(Morse Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Surgery Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Surgery Theory) = 0.694170",
+      "V(Surgery Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Cobordism Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Cobordism Theory) = 0.694170",
+      "V(Cobordism Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Index Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Index Theory) = 0.694170",
+      "V(Index Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "K-Theory",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6538127363966593,
+    "agitation_score": 0.3072253997867273,
+    "tension": 0.16654182400018652,
+    "bonding_strength": 0.2090113511019783,
+    "complexity": 7.5,
+    "discovery_potential": 1.9111946390164556,
+    "uv_ratio": 0.46989815682230457,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(K-Theory) = 0.653813",
+      "V(K-Theory) = 0.307225",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166542",
+      "Bonding = UV/(|U|+|V|) = 0.209011",
+      "U_V_Ratio = 0.469898",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.911195"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Elliptic Cohomology",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6538127363966593,
+    "agitation_score": 0.3072253997867273,
+    "tension": 0.16654182400018652,
+    "bonding_strength": 0.2090113511019783,
+    "complexity": 7.5,
+    "discovery_potential": 1.9111946390164556,
+    "uv_ratio": 0.46989815682230457,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Elliptic Cohomology) = 0.653813",
+      "V(Elliptic Cohomology) = 0.307225",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166542",
+      "Bonding = UV/(|U|+|V|) = 0.209011",
+      "U_V_Ratio = 0.469898",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.911195"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Motivic Cohomology",
+    "domain": "Geometry and Topology",
+    "reference_score": 0.6538127363966593,
+    "agitation_score": 0.3072253997867273,
+    "tension": 0.16654182400018652,
+    "bonding_strength": 0.2090113511019783,
+    "complexity": 7.5,
+    "discovery_potential": 1.9111946390164556,
+    "uv_ratio": 0.46989815682230457,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "Topological U-V Morphing Structure"
+    ],
+    "formulas": [
+      "U(Motivic Cohomology) = 0.653813",
+      "V(Motivic Cohomology) = 0.307225",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166542",
+      "Bonding = UV/(|U|+|V|) = 0.209011",
+      "U_V_Ratio = 0.469898",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 1.911195"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Quantum Groups",
+    "domain": "Quantum Mathematics",
+    "reference_score": 0.4739781385948477,
+    "agitation_score": 0.4091327235497547,
+    "tension": 0.02863284519329833,
+    "bonding_strength": 0.43917468358042133,
+    "complexity": 8.5,
+    "discovery_potential": 0.2766761296031931,
+    "uv_ratio": 0.8631890168528612,
+    "patterns": [
+      "U-V Equilibrium - Plastic Identity Manifestation",
+      "Quantum-Coherent U-V Oscillation"
+    ],
+    "formulas": [
+      "U(Quantum Groups) = 0.473978",
+      "V(Quantum Groups) = 0.409133",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.028633",
+      "Bonding = UV/(|U|+|V|) = 0.219587",
+      "U_V_Ratio = 0.863189",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.276676",
+      "Quantum_UV_Factor = exp(-|U-V|/61) = 0.998938"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability",
+      "Strong U-V bonding reveals deep mathematical unity and plastic identity",
+      "Balanced U-V ratio indicates mathematical completeness",
+      "Quantum U-V patterns reveal fundamental mathematical reality structures"
+    ]
+  },
+  {
+    "subject": "Quantum Algebras",
+    "domain": "Quantum Mathematics",
+    "reference_score": 0.42548103884672794,
+    "agitation_score": 0.5565246946283694,
+    "tension": 0.0643428106565545,
+    "bonding_strength": 0.2411296564962759,
+    "complexity": 8.5,
+    "discovery_potential": 0.7153575790284593,
+    "uv_ratio": 1.3079894135965215,
+    "patterns": [
+      "V-Dominance - Agitation-Dynamics Pattern",
+      "Quantum-Coherent U-V Oscillation"
+    ],
+    "formulas": [
+      "U(Quantum Algebras) = 0.425481",
+      "V(Quantum Algebras) = 0.556525",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.064343",
+      "Bonding = UV/(|U|+|V|) = 0.241130",
+      "U_V_Ratio = 1.307989",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.715358",
+      "Quantum_UV_Factor = exp(-|U-V|/61) = 0.997854"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability",
+      "Quantum U-V patterns reveal fundamental mathematical reality structures"
+    ]
+  },
+  {
+    "subject": "Quantum Topology",
+    "domain": "Quantum Mathematics",
+    "reference_score": 0.4739781385948477,
+    "agitation_score": 0.4091327235497547,
+    "tension": 0.02863284519329833,
+    "bonding_strength": 0.43917468358042133,
+    "complexity": 8.5,
+    "discovery_potential": 0.2766761296031931,
+    "uv_ratio": 0.8631890168528612,
+    "patterns": [
+      "U-V Equilibrium - Plastic Identity Manifestation",
+      "Quantum-Coherent U-V Oscillation"
+    ],
+    "formulas": [
+      "U(Quantum Topology) = 0.473978",
+      "V(Quantum Topology) = 0.409133",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.028633",
+      "Bonding = UV/(|U|+|V|) = 0.219587",
+      "U_V_Ratio = 0.863189",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.276676",
+      "Quantum_UV_Factor = exp(-|U-V|/61) = 0.998938"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability",
+      "Strong U-V bonding reveals deep mathematical unity and plastic identity",
+      "Balanced U-V ratio indicates mathematical completeness",
+      "Quantum U-V patterns reveal fundamental mathematical reality structures"
+    ]
+  },
+  {
+    "subject": "Quantum Field Theory Mathematics",
+    "domain": "Quantum Mathematics",
+    "reference_score": 0.4739781385948477,
+    "agitation_score": 0.4091327235497547,
+    "tension": 0.02863284519329833,
+    "bonding_strength": 0.43917468358042133,
+    "complexity": 8.5,
+    "discovery_potential": 0.2766761296031931,
+    "uv_ratio": 0.8631890168528612,
+    "patterns": [
+      "U-V Equilibrium - Plastic Identity Manifestation",
+      "Quantum-Coherent U-V Oscillation"
+    ],
+    "formulas": [
+      "U(Quantum Field Theory Mathematics) = 0.473978",
+      "V(Quantum Field Theory Mathematics) = 0.409133",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.028633",
+      "Bonding = UV/(|U|+|V|) = 0.219587",
+      "U_V_Ratio = 0.863189",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.276676",
+      "Quantum_UV_Factor = exp(-|U-V|/61) = 0.998938"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability",
+      "Strong U-V bonding reveals deep mathematical unity and plastic identity",
+      "Balanced U-V ratio indicates mathematical completeness",
+      "Quantum U-V patterns reveal fundamental mathematical reality structures"
+    ]
+  },
+  {
+    "subject": "String Theory Mathematics",
+    "domain": "Quantum Mathematics",
+    "reference_score": 0.4534836635534701,
+    "agitation_score": 0.46714987921568635,
+    "tension": 0.006290788270676746,
+    "bonding_strength": 0.46021533822258004,
+    "complexity": 7.0,
+    "discovery_potential": 0.04536257535717136,
+    "uv_ratio": 1.0301360702877695,
+    "patterns": [
+      "U-V Equilibrium - Plastic Identity Manifestation",
+      "Quantum-Coherent U-V Oscillation"
+    ],
+    "formulas": [
+      "U(String Theory Mathematics) = 0.453484",
+      "V(String Theory Mathematics) = 0.467150",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.006291",
+      "Bonding = UV/(|U|+|V|) = 0.230108",
+      "U_V_Ratio = 1.030136",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.045363"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability",
+      "Strong U-V bonding reveals deep mathematical unity and plastic identity",
+      "Balanced U-V ratio indicates mathematical completeness",
+      "Quantum U-V patterns reveal fundamental mathematical reality structures"
+    ]
+  },
+  {
+    "subject": "M-Theory Mathematics",
+    "domain": "Quantum Mathematics",
+    "reference_score": 0.4534836635534701,
+    "agitation_score": 0.46714987921568635,
+    "tension": 0.006290788270676746,
+    "bonding_strength": 0.46021533822258004,
+    "complexity": 7.0,
+    "discovery_potential": 0.04536257535717136,
+    "uv_ratio": 1.0301360702877695,
+    "patterns": [
+      "U-V Equilibrium - Plastic Identity Manifestation",
+      "Quantum-Coherent U-V Oscillation"
+    ],
+    "formulas": [
+      "U(M-Theory Mathematics) = 0.453484",
+      "V(M-Theory Mathematics) = 0.467150",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.006291",
+      "Bonding = UV/(|U|+|V|) = 0.230108",
+      "U_V_Ratio = 1.030136",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.045363"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability",
+      "Strong U-V bonding reveals deep mathematical unity and plastic identity",
+      "Balanced U-V ratio indicates mathematical completeness",
+      "Quantum U-V patterns reveal fundamental mathematical reality structures"
+    ]
+  },
+  {
+    "subject": "Conformal Field Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Conformal Field Theory) = 0.694170",
+      "V(Conformal Field Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Topological Quantum Field Theory",
+    "domain": "Quantum Mathematics",
+    "reference_score": 0.4739781385948477,
+    "agitation_score": 0.4091327235497547,
+    "tension": 0.02863284519329833,
+    "bonding_strength": 0.43917468358042133,
+    "complexity": 8.5,
+    "discovery_potential": 0.2766761296031931,
+    "uv_ratio": 0.8631890168528612,
+    "patterns": [
+      "U-V Equilibrium - Plastic Identity Manifestation",
+      "Quantum-Coherent U-V Oscillation"
+    ],
+    "formulas": [
+      "U(Topological Quantum Field Theory) = 0.473978",
+      "V(Topological Quantum Field Theory) = 0.409133",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.028633",
+      "Bonding = UV/(|U|+|V|) = 0.219587",
+      "U_V_Ratio = 0.863189",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 0.276676",
+      "Quantum_UV_Factor = exp(-|U-V|/61) = 0.998938"
+    ],
+    "insights": [
+      "Low U-V tension suggests mathematical harmony and stability",
+      "Strong U-V bonding reveals deep mathematical unity and plastic identity",
+      "Balanced U-V ratio indicates mathematical completeness",
+      "Quantum U-V patterns reveal fundamental mathematical reality structures"
+    ]
+  },
+  {
+    "subject": "Chern-Simons Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Chern-Simons Theory) = 0.694170",
+      "V(Chern-Simons Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Seiberg-Witten Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Seiberg-Witten Theory) = 0.694170",
+      "V(Seiberg-Witten Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Donaldson Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Donaldson Theory) = 0.694170",
+      "V(Donaldson Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Machine Learning Theory",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Machine Learning Theory) = 0.849957",
+      "V(Machine Learning Theory) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Deep Learning Mathematics",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Deep Learning Mathematics) = 0.694170",
+      "V(Deep Learning Mathematics) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Neural Network Theory",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Neural Network Theory) = 0.849957",
+      "V(Neural Network Theory) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Computational Learning Theory",
+    "domain": "Computational Mathematics",
+    "reference_score": 0.8499565573156572,
+    "agitation_score": 0.25136623618914045,
+    "tension": 0.32962058231399466,
+    "bonding_strength": 0.19399433297608043,
+    "complexity": 7.5,
+    "discovery_potential": 4.213193558082524,
+    "uv_ratio": 0.2957400987097908,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern",
+      "High U-V Tension - Breakthrough Potential"
+    ],
+    "formulas": [
+      "U(Computational Learning Theory) = 0.849957",
+      "V(Computational Learning Theory) = 0.251366",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.329621",
+      "Bonding = UV/(|U|+|V|) = 0.193994",
+      "U_V_Ratio = 0.295740",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 4.213194"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Statistical Learning Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Statistical Learning Theory) = 0.694170",
+      "V(Statistical Learning Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Information Geometry",
+    "domain": "Emerging Fields",
+    "reference_score": 0.650641033062813,
+    "agitation_score": 0.3013703168087155,
+    "tension": 0.16625484302582946,
+    "bonding_strength": 0.20596802156692157,
+    "complexity": 9.0,
+    "discovery_potential": 2.299519185452536,
+    "uv_ratio": 0.4631898411689971,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Information Geometry) = 0.650641",
+      "V(Information Geometry) = 0.301370",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.166255",
+      "Bonding = UV/(|U|+|V|) = 0.205968",
+      "U_V_Ratio = 0.463190",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 2.299519"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Optimal Transport Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Optimal Transport Theory) = 0.694170",
+      "V(Optimal Transport Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Mean Field Games",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Mean Field Games) = 0.694170",
+      "V(Mean Field Games) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "High-Dimensional Statistics",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(High-Dimensional Statistics) = 0.694170",
+      "V(High-Dimensional Statistics) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Random Matrix Theory",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Random Matrix Theory) = 0.694170",
+      "V(Random Matrix Theory) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  },
+  {
+    "subject": "Free Probability",
+    "domain": "Emerging Fields",
+    "reference_score": 0.6941698601466804,
+    "agitation_score": 0.19707943085899168,
+    "tension": 0.22151574633417884,
+    "bonding_strength": 0.15349981461130047,
+    "complexity": 9.0,
+    "discovery_potential": 3.421275317810088,
+    "uv_ratio": 0.28390663747480693,
+    "patterns": [
+      "U-Dominance - Reference-Stability Pattern"
+    ],
+    "formulas": [
+      "U(Free Probability) = 0.694170",
+      "V(Free Probability) = 0.197079",
+      "Tension = |U-V|\u00b7(U+V)/2 = 0.221516",
+      "Bonding = UV/(|U|+|V|) = 0.153500",
+      "U_V_Ratio = 0.283907",
+      "Discovery_Potential = Tension\u00b7Complexity\u00b7(1+|1-U_V_Ratio|) = 3.421275"
+    ],
+    "insights": [
+      "U-dominance indicates foundational mathematical stability"
+    ]
+  }
+]
