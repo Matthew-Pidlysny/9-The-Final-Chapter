@@ -1,1 +1,0 @@
-# Workshops package for Recipy
