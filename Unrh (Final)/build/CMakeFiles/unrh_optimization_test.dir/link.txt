@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp  -fopenmp CMakeFiles/unrh_optimization_test.dir/tests/optimization_test.cpp.o -o unrh_optimization_test  libunrh_core.a 

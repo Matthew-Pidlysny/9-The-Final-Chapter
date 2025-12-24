@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp  -fopenmp CMakeFiles/unrh_main.dir/src/main.cpp.o -o unrh_main  libunrh_core.a 
