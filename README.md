@@ -8,6 +8,10 @@ Make sure all programs meet your criteria align properly.  These programs are pr
 do appreciate feedback.  Modify all programs as you need and deploy, we only require that our mention be made in the process and in the aftermath.  All forks and other participation 
 efforts are welcome.
 
+# Coming Soon:  Unrh
+
+Named after a mystical altar, the knowledge stemming from our research tote called Quantum Zeno reveals a deeper connection between numbers.  We wxplain how to start, how to go on, and how to end with numbers in a fancy, intuitive and AI enhanced manner.  Dig in, you'll be counting all over again, or not as the satire goes...
+
 # List of Programs
 
 # 1:  Advanced Torsion
