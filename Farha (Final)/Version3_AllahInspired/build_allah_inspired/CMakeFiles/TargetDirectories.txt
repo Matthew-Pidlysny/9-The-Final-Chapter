@@ -1,0 +1,7 @@
+/workspace/farha_version3/build_allah_inspired/CMakeFiles/farha_v3.dir
+/workspace/farha_version3/build_allah_inspired/CMakeFiles/edit_cache.dir
+/workspace/farha_version3/build_allah_inspired/CMakeFiles/rebuild_cache.dir
+/workspace/farha_version3/build_allah_inspired/CMakeFiles/list_install_components.dir
+/workspace/farha_version3/build_allah_inspired/CMakeFiles/install.dir
+/workspace/farha_version3/build_allah_inspired/CMakeFiles/install/local.dir
+/workspace/farha_version3/build_allah_inspired/CMakeFiles/install/strip.dir
