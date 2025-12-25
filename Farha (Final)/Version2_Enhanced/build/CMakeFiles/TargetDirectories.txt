@@ -1,0 +1,8 @@
+/workspace/farha_version2/build/CMakeFiles/farha_enhanced.dir
+/workspace/farha_version2/build/CMakeFiles/clean-all.dir
+/workspace/farha_version2/build/CMakeFiles/edit_cache.dir
+/workspace/farha_version2/build/CMakeFiles/rebuild_cache.dir
+/workspace/farha_version2/build/CMakeFiles/list_install_components.dir
+/workspace/farha_version2/build/CMakeFiles/install.dir
+/workspace/farha_version2/build/CMakeFiles/install/local.dir
+/workspace/farha_version2/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O3 -DNDEBUG CMakeFiles/farha_enhanced.dir/main.cpp.o CMakeFiles/farha_enhanced.dir/farha_enhanced.cpp.o -o bin/farha_enhanced 

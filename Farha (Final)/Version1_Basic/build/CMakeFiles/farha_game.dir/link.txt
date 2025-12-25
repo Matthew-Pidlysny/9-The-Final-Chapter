@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O3 -DNDEBUG CMakeFiles/farha_game.dir/main.cpp.o CMakeFiles/farha_game.dir/farha_game.cpp.o -o bin/farha_game 
