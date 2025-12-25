@@ -8,10 +8,6 @@ Make sure all programs meet your criteria align properly.  These programs are pr
 do appreciate feedback.  Modify all programs as you need and deploy, we only require that our mention be made in the process and in the aftermath.  All forks and other participation 
 efforts are welcome.
 
-# Coming Soon:  The Dark Continent
-
-Taking a pause from Education itself, the founder of 9 Software has shared his private creation with AI, and together, the research processor and guide pair created this game.  No spoilers, but it's a 4 player board game software engine revolving around the concept of the "Trump Card".  Maybe education in strategy via force x force battle style.
-
 # Coming Soon:  Privanna
 
 By request we're doing a second game early.  This one features magical creatures fighting for their homeland.  We don't mean to make Devil nuisance a recurring them in our fantasy but it certainly is a potent figure in catastrophe.  The story, without spoilers, takes place on the Djinn Homeworld, and there are Humans exploring it guarded by a guardian.  All of a sudden, on the fateful turn, the Devils launch an 8 point invasion, inviting a total of 10 players if chosen, the minimum being 3.  Good rolls and excellent powers use will be the key in determining this fight!
@@ -75,6 +71,10 @@ Our Analyzeer program is intended to be a system which installs a boilerplate id
 
 Hey Kids!  Wanna learn something REAL neat over the rest of the year?  Well, you learned about 1, and 2, and the rest (I guess?) and then some adding and subtracting, but now it's time to learn the numbers on a different level.  We predict your brains will get SO HUGE (Not literally) that you'll be just, as they might say, Naturally Genius?  Come on over, let's see what we got!  And yes, the program is a Recipe!  It's a mix of Reciprocals (Yeah, resi-ho-huh?) and a language called Python!  And to make it even better, we mixed in C Plus Plus (Another language) for the construction of this project.  It's a good modeler, something you'll be learning to do after you finish this program!
 
-# 15:  Unrh
+# 15:  The Dark Continent
+
+Taking a pause from Education itself, the founder of 9 Software has shared his private creation with AI, and together, the research processor and guide pair created this game.  No spoilers, but it's a 5 player board game software engine revolving around the concept of the "Trump Card".  Maybe education in strategy via force x force battle style.  And, if you don't like to "fight", choose the right player!
+
+# 16:  Unrh
 
 Named after a mystical altar, the knowledge stemming from our research tote called Quantum Zeno reveals a deeper connection between numbers.  We wxplain how to start, how to go on, and how to end with numbers in a fancy, intuitive and AI enhanced manner.  Dig in, you'll be counting all over again, or not as the satire goes...
