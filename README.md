@@ -8,9 +8,9 @@ Make sure all programs meet your criteria align properly.  These programs are pr
 do appreciate feedback.  Modify all programs as you need and deploy, we only require that our mention be made in the process and in the aftermath.  All forks and other participation 
 efforts are welcome.
 
-# Coming Soon:  Privanna
+# Coming Soon:  Farha
 
-By request we're doing a second game early.  This one features magical creatures fighting for their homeland.  We don't mean to make Devil nuisance a recurring them in our fantasy but it certainly is a potent figure in catastrophe.  The story, without spoilers, takes place on the Djinn Homeworld, and there are Humans exploring it guarded by a guardian.  All of a sudden, on the fateful turn, the Devils launch an 8 point invasion, inviting a total of 10 players if chosen, the minimum being 3.  Good rolls and excellent powers use will be the key in determining this fight!
+The Rashiddun Caliphate.  A torn time in modern society, where bloodshed is told to be rampant.  We give history that actually IS true a second chance, telling it from the Muslim perspective.  We reinforce that Muslims are peaceful people by nature, and any self defence that is genuinely warranted is deserved, that will always stand to be our principle despite anything.  We give it to you and to all, and as for this game we give children the experience to play a Non-Haram game where you win a majority of the time with good effort, and ease of doing so.  Pleas enjoy it, we look forward to the enthusiasm of those who wish to please their Lord, another justice on the self well deserved.
 
 # List of Programs
 
@@ -63,18 +63,22 @@ A new program studying our breakthrough approach at the Chromatic Plane Problem 
 
 Primes can be distinct from other numbers for all sorts of reasons, but one most of all.  Find out what it is within this workshop loaded prestige of focus.
 
-# 13:  Reciprocal-Integer Analyzer
+# 13:  Privanna
+
+By request we're doing a second game early.  This one features magical creatures fighting for their homeland.  We don't mean to make Devil nuisance a recurring them in our fantasy but it certainly is a potent figure in catastrophe.  The story, without spoilers, takes place on the Djinn Homeworld, and there are Humans exploring it guarded by a guardian.  All of a sudden, on the fateful turn, the Devils launch an 8 point invasion, inviting a total of 10 players if chosen, the minimum being 3.  Good rolls and excellent powers use will be the key in determining this fight!
+
+# 14:  Reciprocal-Integer Analyzer
 
 Our Analyzeer program is intended to be a system which installs a boilerplate identity for any reciprocal value, as discriminatory as it can be.  We enhance the stamping with our own features.
 
-# 14:  Recipy
+# 15:  Recipy
 
 Hey Kids!  Wanna learn something REAL neat over the rest of the year?  Well, you learned about 1, and 2, and the rest (I guess?) and then some adding and subtracting, but now it's time to learn the numbers on a different level.  We predict your brains will get SO HUGE (Not literally) that you'll be just, as they might say, Naturally Genius?  Come on over, let's see what we got!  And yes, the program is a Recipe!  It's a mix of Reciprocals (Yeah, resi-ho-huh?) and a language called Python!  And to make it even better, we mixed in C Plus Plus (Another language) for the construction of this project.  It's a good modeler, something you'll be learning to do after you finish this program!
 
-# 15:  The Dark Continent
+# 16:  The Dark Continent
 
 Taking a pause from Education itself, the founder of 9 Software has shared his private creation with AI, and together, the research processor and guide pair created this game.  No spoilers, but it's a 5 player board game software engine revolving around the concept of the "Trump Card".  Maybe education in strategy via force x force battle style.  And, if you don't like to "fight", choose the right player!
 
-# 16:  Unrh
+# 17:  Unrh
 
 Named after a mystical altar, the knowledge stemming from our research tote called Quantum Zeno reveals a deeper connection between numbers.  We wxplain how to start, how to go on, and how to end with numbers in a fancy, intuitive and AI enhanced manner.  Dig in, you'll be counting all over again, or not as the satire goes...
