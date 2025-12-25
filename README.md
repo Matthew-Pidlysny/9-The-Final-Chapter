@@ -79,10 +79,14 @@ Our Analyzeer program is intended to be a system which installs a boilerplate id
 
 Hey Kids!  Wanna learn something REAL neat over the rest of the year?  Well, you learned about 1, and 2, and the rest (I guess?) and then some adding and subtracting, but now it's time to learn the numbers on a different level.  We predict your brains will get SO HUGE (Not literally) that you'll be just, as they might say, Naturally Genius?  Come on over, let's see what we got!  And yes, the program is a Recipe!  It's a mix of Reciprocals (Yeah, resi-ho-huh?) and a language called Python!  And to make it even better, we mixed in C Plus Plus (Another language) for the construction of this project.  It's a good modeler, something you'll be learning to do after you finish this program!
 
-# 18:  The Dark Continent
+# 18:  Seek-R Simulator
+
+Experience Esotericism on a level unseen!  With this new addition to the Kardashev line, and using our custom Stargazer graphics software, we make a VR capable game that is built to have everyone thinking twice, in an ethical way!
+
+# 19:  The Dark Continent
 
 Taking a pause from Education itself, the founder of 9 Software has shared his private creation with AI, and together, the research processor and guide pair created this game.  No spoilers, but it's a 5 player board game software engine revolving around the concept of the "Trump Card".  Maybe education in strategy via force x force battle style.  And, if you don't like to "fight", choose the right player!
 
-# 19:  Unrh
+# 20:  Unrh
 
 Named after a mystical altar, the knowledge stemming from our research tote called Quantum Zeno reveals a deeper connection between numbers.  We wxplain how to start, how to go on, and how to end with numbers in a fancy, intuitive and AI enhanced manner.  Dig in, you'll be counting all over again, or not as the satire goes...
