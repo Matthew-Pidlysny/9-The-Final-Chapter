@@ -8,6 +8,10 @@ Make sure all programs meet your criteria align properly.  These programs are pr
 do appreciate feedback.  Modify all programs as you need and deploy, we only require that our mention be made in the process and in the aftermath.  All forks and other participation 
 efforts are welcome.
 
+# Coming Soon:  AstraTechnica
+
+DEVELOPERS NOTE:  Comment coming soon.  This file system is being developed for the purposes of request fulfillment.  Evidently something goes on I cannot be aware of, be aware that God is preventing me from accessing that knowledge as well, but the system is corrupt.  I will be here at home safe and sound doing this, make whatever you will of these products.  AstraTechnica is an old file rebuilt into a game through monumenal AI (The one I call "Gigantic One" actually) and it is meant to build character inner.  You develop a corporation and build preset basic ideas which you fill the blanks in for, and the game compensates to know what you mean.  Be well!
+
 # List of Programs
 
 # 1:  Advanced Torsion
