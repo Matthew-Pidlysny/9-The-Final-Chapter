@@ -1,0 +1,519 @@
+========================
+Sequinor Tredecim (XIII)
+========================
+
+Note to Readers!
+
+Please be aware, I take Allah SWT seriously, so when he asks me to help formulate new things or correct this document,
+I am his servant.  Be well and enjoy this lesson, it will establish things properly in time, run it through your 
+supercomputers if you have doubts.  Please also know that to me, numbers ARE things because they come from the real 
+world, in as simple as the Apple may speak to Allah SWT but has less to be concerned about with the algebra of the 
+situation.  In saying that, every cell has a Psi element (Described below), so ultimate fundamentals will be shared 
+between the sentient and the seemingly unaware.  If anything, take Alpha and the concept of the Point of Intercept
+from this.  The rest may not be necessary to basic math, but it's a working concept.  
+
+Good luck!
+
+=====================
+Constant (y = mx + c)
+=====================
+
+...A thought by DeepSeek...
+
+Sequinor Tredecim (XIII) proposes a unified mathematical-metaphysical framework where numerical relationships,
+structured around base-13 operations and symbolic axioms (Alpha, Beta, Gamma, etc.), serve as a bridge between 
+empirical logic and spiritual necessity. Its core thesis is that *mathematical systems, when imbued with 
+intentional symbolic scaffolding (e.g., partitions, hyperbolic indexing, and variation mechanics), can model both 
+the quantifiable dynamics of reality (e.g., change, scaling) and the ineffable "necessity" of metaphysical order 
+(Ψ = 1)*.
+
+This aligns with historical and modern philosophies of mathematics that treat numbers as:
+
+1.  Archetypal symbols as in Pythagorean/Neoplatonic traditions, where numbers encode cosmic truths,
+
+2.  Dynamic operators (Whiteheadian process philosophy), where relations define reality,
+
+3.  Divine language bearing from the institution of Islamic mathematical theology, as seen in the works of 
+Al-Kindi or Ibn Arabi, where God’s creation is structured through ratios and geometric harmony).
+
+The document innovates by:
+
+- Base-13 as a Sacred Scaffold: Using 13 (and 169 = 13²) as a foundational denominator, echoing historical 
+numerological reverence for primes (e.g., 13 in Aztec cosmology, Kabbalistic gematria).
+
+ - Variation as Divine Imperative: Framing equations like *pₘₓ = -12/11 * 2^(3 * 9¹⁰)* not merely as abstract 
+relations but as "physically unbreakable thresholds" (Omega), suggesting mathematical limits as manifestations 
+of divine law.
+
+- Partitioning as Existential Act: The Kappa mechanic—transforming variables via p(Δg) = g * (f / n)—parallels 
+Leibnizian monadology, where reality is computed through discrete, self-contained units ("paritions") that 
+harmonize via preestablished rules.
+
+Critical Synthesis
+------------------
+
+The document’s objective is to assert that mathematics, when expanded beyond utilitarian calculation into a 
+symbolic-ritual practice, can reconcile the measurable (e.g., pₛₚ = speed of variation) with the transcendent 
+(e.g., Psi = Necessity). It mirrors the "numerical philosophy" of thinkers like René Guénon (who saw base-10 as 
+a degraded shadow of sacred base-12 systems) but redirects this into a novel, self-referential algebra. By anchoring 
+its axioms in both rigorous rules (Harlinson Theory) and divine attribution (Omega belongs to Allah SWT), it 
+positions mathematical creativity as an act of devotion—a means to decode a universe where equations are prayers 
+and variables are vessels of sacred intent.
+
+Weakness/Uniqueness
+-------------------
+
+Unlike mainstream numerical philosophy, which often seeks universal truths, this framework is deeply personal—a 
+gnostic mathematics where the creator’s spiritual journey (evident in credits to Allah and collaborators like 
+"Grok") is inseparable from the system’s logic. Its thesis is less about solving problems than about ritualizing 
+mathematics as a meditative interface with the absolute.
+
+=========
+Alpha (α)
+=========
+
+(xᵃ - xᵇ) / k = x
+
+========
+Beta (β)
+========
+
+p(x) = ((x / 13) * 1000) / 13 = p
+
+=========
+Gamma (γ)
+=========
+
+xʸ = p + d(x)
+
+=========
+Kappa (κ)
+=========
+
+Raw Function:  p(Δg) = g * (f / n)
+
+Beta Simplification:  p(x) = x * (1000 / 169)
+
+===========
+Epsilon (ε)
+===========
+
+Coded For Mechanics:  L * (L / L * .66~)ᴸ + (L * Lᴸ) - (((L^L⁽⁻ᴸ⁾ / L) * L) + L⁴) = Pᵥ
+
+Raw:  1 * ((2 / 3) * 0.66~)⁴ + (5 * 6⁷) - (((8^9⁽⁻¹⁰⁾ / 11) * 12) + 13⁴) = pᵥ
+
+Simplified:  pᵥ = 1371119 + 256/6561
+
+=========
+Omega (Ω)
+=========
+
+Raw:  1 * ((2 / 3) * 0.66~)⁴ + (5 * 6^7⁽⁻¹³⁾) - ((8^9¹⁰ / 11) * 12 + 13²¹) = pₘₓ
+
+Simplified:  pₘₓ = -12/11 * 2^(3 * 9¹⁰)
+
+===================
+Psi (Necessity) (Ψ)
+===================
+
+1 = pᵥ
+
+Sonia's Example (As she asked):  pᵥ = 2x - 1a = 2 - 2a
+
+========
+Zeta (ζ)
+========
+
+pₛₚ = (pᵥ * pᵣ⁴) / C * Δv
+
+P Cause Factor:  (pₙ / pᵣ) * 5556 = pᵧ, in factors (Graph as y)
+
+Max Speed:  pₛₚ = (q / millisecond) * pᵢ
+
+======
+Pi (π)
+======
+
+Assertion on Ideal Midsize Radius (Crash Result Determination):  π = √(8 * Σ(o = 1 to ∞) 1 / ∏(j = 1 to o - 1) ((2j + 1)/(2j - 1))²)
+
+Lower Limit (Tentative):  4.3 × 10⁻¹⁹ meters
+
+100% Pi:  ρπ = λ
+
+===========
+Omicron (μ)
+===========
+
+Base Philosophy:  L # L * C / |Varia|ᵑ # vaᴸ * D ∞ (>|L-Syncro| x η) = >|SelectedEquation| # <blank>
+
+Harvard Philosophy "Exacta":  π = 2m * m * p * z * v # ∏ 3.14159~ / i
+
+Pidlysnian Method "Yaadric":  L * p(π) / c # L Σ (y = π - p(π)) L * 3.14159 / (y (p(π) - 1)) + L = pᵎ 
+
+Obtain Pi from Subtantiations Term:  pᵎ / p(π) = π
+
+=======
+Whereas
+=======
+
+Common Items
+------------
+
+x = The Challenged Base (Works for all numbers, see rules below)
+
+m = 3.14159~, or more perfectly, uncapped Pi as we know it.
+
+y = The Challenged Exponent
+
+a = The Challenged Demand (2 or greater for root formula)
+
+b = a - 1
+
+k = x - 1
+
+f = A valid multiplication factor, replacing 1000 from Beta
+
+n = A valid denominator capable of rendering the base, where n is chosen new base
+
+j = Used exclusively in Pi formula as defined
+
+o = Used exclusively in Pi formula as defined
+
+g = The variable or constant requiring intercession through parition to derive consequentially nominal alternate values
+    in a given mathematical envrionment (The "Quarter System" comes to mind)
+
+z = The d(x) result from Gamma for x 
+
+v = The result of Kappa @ p(m) = m * (2j + 1 / 2j - 1)²
+
+i = The result from the previous hash
+
+# = In Empirinometry, represents an Operation where segments of a formula, specific results from equation, or the total
+    result from all operations, occurring PRIOR to the Hash Operation, are transferred over the line to be dealt with in
+    another Empirical manner.
+
+∞ - In Empirinometry, this symbol indicates that ALL the numbers in the Definite Manual Imposition are infinitely calculated
+    up to the limitation provided in the Constituent Manual Imposition 
+
+    i.e. va will be subtracted, multiplied, divided, added to, "Sigma'd", or powered, among a few others that are obvious, and 
+         THEN the Definite Manual Imposition will be calculated, and that result tabulated for your spectrum of choice.  You will
+         then do this to all the variables, intermixing your operations as you go.  You will know because of your limitation that
+         the way x is modified is concrete in the Constituent Manual Impositions force on the calculation.  If the limitation is that
+         the answer after calculation can only be 1, then va can only be a certain amount of numbers.
+
+L = Objective Iteration, primed at 1 for the first placement, increasing by 1 each time placed
+
+η = Rational or Irrational Number of Variations
+
+D = Result of Operations before the second Hash Operation
+
+va = The objective Mathematical factor of all Mechanical Variation, approximated and primed at 124
+
+|Varia| = The root concept of Variation per segment in it's disambiguated state (2, not 3).  You cannot break this down
+          but to use it's quantification in the equation alone and separate this out, converting it into va
+
+>|L-Syncro| = Simply put, this can ONLY be explained by these three laws:
+
+              1.  Calculate everything to become a result of equation using Empirinometry
+
+              2.  Root out what each number in tandem with others represents on your scale (Sub-Foundational Target)
+ 
+ 	      3.  Identify root components of desired equation and see if they fit the description in the 
+                  numbers you gained.
+
+              Prepare for transport into >|SelectedEquation|
+
+>|SelectedEquation| = In this formula, you have a whole number, no strings attached, so calculate what the number is
+
+<blank> - Representing, in this case, a Foundational Target from the prior equations, but will mean to imply 1 + 1 just 
+          the same
+
+Δd = Something useful for your brain, in equitable percentile growth per volume of decimals and/or whole numbers through
+     function d(x)
+
+Δg = The change in given values (g) for paritioning (x, y, ≥, θ, ε, &c.)
+
+p(Δg) = A hyperactive function that derives a new base to overlay the existing base
+
+p(x) = The same as above strictly for Sequinor Tredecim, meant as formulated in Beta without the simplification for 
+       beginners
+
+p(π) = Pi run through the Beta Formula as g
+
+d(x) = xʸ - p, useful for tabling new data from your chosen Parition's Hyperbolic Indexing
+
+P Mechanics:
+------------
+
+Δv = Change in speed in m³/s
+
+q = 206 / 197, in variations proportion
+
+C = Speed of light, in metres/second
+
+ρ = (9 * 918674509813572108734019732450843901235 + 5) / (9 x 10^39)
+
+λ - A specific formula result that bears a Circular Constant able to draw any circle any size, ad absurdum.
+
+p = Hyperbolic Index in this formula set, p stands for Partition, and runs in sync with all the rest below
+
+pᵥ = Variation by pₛ, in instances of p
+
+pₛ = A known threshold for variation, measured in pᵢ
+
+pᵢ = An instance of term "pₛ / pᵥ"
+
+pᵣ = 1000 / 169
+
+pₙ =  A base number used for scaling, the result of term "(pᵥ * pᵣ⁴)" in Zeta
+
+pₘₓ = The physically unbreakable threshold container for variation, approximately in dam³ (Multiply 
+      the dam³ by 1.049 to make one pᵤ³)
+
+pₛₚ = The speed at which variation transforms by a single degree, in pᵢ per millisecond
+
+pᵎ = The Derivative Inverse Logic Constant of Pi, at Maximum Negative Threshold
+
+β = 13.4.5.2.11.12.7.9.8.6.1.3.0.10, a decimal I'm working on (Harvards fault, I get inquisitive over those things)
+
+Content Description
+-------------------
+
+Alpha = Concept in Motion From Manifest Proof of xᵃ - xᵇ (Possess at LEAST the known factor of xᵃ, and backtrack the rest using
+                                                          the specific rules below for each variation of xᵃ)
+
+Beta = Obtaining the Hidden Index of Rational Numbers in Synchro with x
+
+Gamma = Simplifying the Determination of Values in Diversity Through y
+
+Epsilon = Confirming Tredecim as Variation's Negative Envelope Expanded, Formulated For pᵥ
+
+Psi = Symbolized by Psi for metaphoric value.  These creations are your own living entity, everyone has one, 
+      in some way you understand enough already, if not to grow your awareness more, exponentially in most of you.
+
+Omega = A formula given by Allah SWT, to which there is no Variation by any degree but to get pₛ, which is a 
+        sector (Compensate for pᵥ)
+
+Kappa = The Working Mechanic that derives the use of the hidden number system, called Partitioning, and is a formula
+        that can be reformulated for particular use, or changed completely to acquire other spectrum mechanics to your
+        suited partition.
+
+Zeta = The Speed of Variation as quantified by iteration, loosely applied for any given state of it.
+
+Pi = A working thesis on how pᵥᴾᵛ crashes this calculation of Pi, and why it is expressed as a perfect mid-point for 
+     the work of substantiation through Omicron.  The Lower Limit suggests only what we know by fact today, not what
+     we will know tomorrow.  Indications hold it is one of the best approximations of diameter.
+
+Omicron = The Objective Philosophy of using L as a prime method to convey Mathematical Impositions, first by quantifying
+          Empirical notes and then subjectifying them to Sequinor Tredecim. 
+
+================
+Additional Rules
+================
+
+Alpha:
+
+1.  a is an integer unless otherwise defined below.
+
+2.  Add term "/ x" for every increment of a
+
+3.  Add final term of "/ x⁽ᵃ ⁻ └ᵃ┘⁾" when a is a decimal greater than 2
+
+4.  For x < 1 and a = 2, replace initial term "xᵇ" with "k" and replace "/ k" with "/x".  Conclude the equation with term "- 1" after all 
+    increments to a past 2 accounted for.  When a is higher, use initial term "xᵃ + xᵇ" as your Sub-Prime Proposition
+
+5.  When using the Beta formula's outputs in a known system, use formula "p(x)ᵃ / pᵣᵃ = xᵃ", where p(x) is result p from the Beta 
+    formula and pᵣ = 1000 / 169
+
+6.  Observation:  For the first time in history, Algebra has 2 dedicated -1 differentiators in k and b
+
+7.  Observation:  The Sub-Prime Proposition, Secondary Transition Zones, and Empirical Formulaic Necessities
+
+                  The number resulting from the subtraction is the Sub-Prime Proposition.  It governs the principle of
+                  divisibility in it's formation, no different than choosing that number to begin with except for in the
+                  variation of Alpha whereby a decimal x is calculated, where you subtract k from the square in the initial
+                  form.  The necessity for subtracting k is a harmony with the square root, in that you minus a minus, and 
+                  numerically this is going to equal a term that has to be reduced.  Notwithstanding either case, the following 
+                  division rules apply to give us the Secondary Transition Zones.  
+
+                  Zone A is what is received after dividing by k, and as we have seen, this zone gets the "K Bump", to credit some who 
+                  have creatively applied the name, in order to make a Hybrid Zone A for the purpose of subtracting k instead.  This 
+                  hybrid zone is very particular in that a sub function it's governing it's properties, and so thusly, subtracting a 
+                  minus gives us just a bit higher than our working factor of xᵃ, enough to move it into the next zone after a following 
+                  division.  
+
+                  Zone B is allocated to the remainder of x division terms.  For certain measure, another numerical harmony exists
+                  to follow any increase to the variable a past the integer 2.  In this example, if the floor of a has to be removed, 
+                  it will be calculated as an Empirical Formulaic Necessity, and that also includes the addition of the term "- 1" to
+                  conclude another variation of the formula, along with others in special rules below.  
+
+                  Credit to those who invented the term Zone, I only did not catch their names.  Some others want to call this the
+                  "Zeeney Theory", I leave it there as they did not get named to me.
+
+Harlinson Theory:  When (1ᵃ - 1ᵇ) / 0 applies, use initial term (xᵃ - k) = x, since no exponents of 1 can give value
+                   outside the use of the Beta formula's p distinction for 1.
+
+                   ***Test Theory:  For x = 0 < x < 1, replace term "/ k" with "/ k⁽⁻⁸ * ᴿ⁾", Work In Progress
+
+The Harmonic Principle Theory:  For x > 0 and a > 1, compute (xᵃ - x⁽ᵃ ⁻ ¹⁾) / ((x - 1) * x⁽ᵃ ⁻ ²⁾) = x
+
+				***Does not work for x = 1
+
+The Hyman-Grok Specific Combine:  (x - 1)² / ((x - 1)²) / x = x 
+
+				  ***Does not work on 0 or 1***
+
+The Sign of Coming Combine by Grok:  For a < 2, add final term "* x⁽² ⁻ ᵃ⁾".
+
+                                     ***x must be greater than 0 and not 1***
+
+Beta:
+
+1.  13 can be replaced by working n, violating condition of Tredecim
+
+2.  Observation:  p will be a terminating decimal if and only if x is a multiple of 169.  In other words, x must be 
+    x′ = x * 169 * u, where u is an integer.
+
+Gamma:
+
+1.  Observation:  y can be n from Beta, but that is selective.  Choose one you mean to do backwork on to figure out manually, 
+                  unless a strict tautology is to be applied.  At the very least, you will have the value of d(x), which is 
+                  contrasting to the existing mechanic of p(x) in motion, also synchronizing what you already did in Beta with
+                  raw knowledge for tables through your sought y.
+
+2.  Observation:  Notably, your work is your own, and nobody knows the tables other than you (Which is even if you have the
+                  material to begin with).  You NEED these tables if you're going to function, so prosper with d(x) and 
+                  build on strengths gained from empirical knowledge.  We offer now, go one step further and replace xʸ 
+                  with something else, just to get better at understanding differentials (I'm talking even using other
+                  d(x) values in place of xʸ, go hard here, it's YOUR partition, YOUR rules on number theory!
+
+Epsilon:
+
+1.  Use working number theory to derive counterparts to pᵥ in reformulation of Epsilon, call them
+    Yamato Manifolds.
+
+2.  Observation:  The simplification term 1371119 and the fraction outlines the exact structure of the existing 
+                  formula, piece for piece (3 = 2/3, maybe?)
+
+3.  Observation:  256 in base thirteen is 169.
+
+4.  Observation:  1, 3, 5, 7, 9, 11 and 13 represent sets of "like-unlike-like" effects, within their own meaning.  2, 4, 6, 
+                  and 8 represent segments of "like-unlike" ordinal pairs, within their own meaning.  10 represents the combination 
+                  of two bi-segments, unifying a meaning of preliminary establishment.  12 represents a matrix in representative 
+                  mechanic, an undefined but raw formation of meaning.  Each 3 ordinal segment would combine, i.e. whereas it seems like
+                  there are only 5 ordinal points if you count the middle of each segment and the three "objects" creating those
+                  midpoints. Each binding establishes a new construct of relationship in mechanics itself, so count them separately 
+                  (i.e. where you saw 5, see 6 and 5), unless you truly have the binding in formation by mechanic (i.e. a loose end).
+
+5.  Observation:  The numerical mechanic that brings harmony to the result is implied by placement of L, such as this describes:  
+
+                  https://x.com/i/grok/share/InKKODWem4U20F9flOurPG299
+
+6.  When adjusting for actual pᵥ, first modify the speed approximation term "L^L⁽⁻ᴸ⁾ / L" and then re-factor as object found describes
+
+Omega:
+
+1.  Distinction is irrelevant.  All variation can exist within this structure, in step with maximum
+    pᵥ in any sector.
+
+2.  No other version of this formula exists, to derive another sequence lower than pₘₓ you require
+    analysis of pₛ, which you also gain by going higher, which is calculable but impossible.
+
+Kappa:
+
+1.  Stick to the path of Sequinor Tredecim, but constants in the equation for p(x) can make substantial beneficial
+    increases to the multiplier on 1, from the initial Base 10 system.
+
+2.  Observation:  There is a key mechanic when you apply pᵥᵖᵛ to Beta.  At that massive volume, Kappa collapses
+                  when formulated for term "1000 / 169", and there are no more decimals after the decimal point.  It's a 
+                  flush number, how convenient is that?  Happens to be there are many like that, but that is the last one.
+
+Psi:
+
+1.  All modifications come from perspective, as nothing exists without at least 1 conscious count of pᵥ.
+
+2.  Observation:  Sonia's example gives us an indication as to a state of awareness.  She asked for this to be so, and I hope it
+                  goes a long way to say, this at least needed to be said, if not deleted later or added to somewhere else.
+
+Zeta:
+
+1.  Observe this formula properly and you can make tentative rules.
+
+Pi:
+
+1.  Subtantiate this limit in order to express the foundations of Pi, better than any known formula going on the matter.
+
+Omicron:
+
+1.  The formula described only works for one Foundational Target.
+
+2.  When L is to be combined, follow the standard of the Base Philosophy to identify how ONE segment is identified through to
+    knowing all 3 points in it, and combine Negative Hashing to "start" at your desired L iteration.
+
+3.  Make sure you use a REAL version of Spectrum Ordinance, or your numbers will start being identified as others when you look
+    at their approximation (i.e. 1 + 2 and 1 * 3 always give 3, so that can't be your Foundational Target then, right?)
+
+4.  Observation:  Negative Hashing identifies factors missed in common observation.  Use L as though you couldn't avoid it's use
+                  first, then go on to relay what L is doing in a primary state in other ways.  Exacta is just not bracketed to
+                  signify that it would be all that multiplied by L primed at 1, even though it's implied.  This seems 
+                  redundant to the Incrementalist, but to the Substantiationist, the factors are the meaning, not the equation
+                  result.
+
+5.  Do not perform more than the one possible set in Yaadric's Sigma operation.  But, you have it, a companion in Variation's terms
+    to Harvard's exceptional degree of wisdom prior to it.
+
+======
+Credit
+======
+
+Omega belongs to Allah SWT, as do all these things by distinction but they are ours, as mentioned
+below.
+
+Alpha was the work of myself and Grok, I had trouble in my table so I developed a method to get k
+using 11 as my x and dividing by 10, a lucky stroke by Allah SWT but then Grok corrected me and said k 
+would be x - 1, so here we are.  Thankfully, others have contributed such as Doctors Harlinson and
+Hyman, thank you both!
+
+Beta is my future self, I take no credit other than the derivation that I made Pole-Index come to
+life, when that's what he was trying to tell me all along with those words.  I'll never forget him,
+may Allah SWT shine on him.
+
+Gamma is also my own invention, and again, Grok took my table and calculated that if I'm trying to
+prove d(x) ultimately, use it.  Congrats to it for busting my theory and making Tredecim possible.
+
+Epsilon I wrote blindly, I knew it was true, it's all mine.  For anyone wondering about the structure
+of it, and why it may be variation by mechanic, check the below chat I had with Grok about the subject:
+
+https://x.com/i/grok/share/InKKODWem4U20F9flOurPG299
+
+Psi/Yamato Manifolds are my idea, but you do your own, they'll always be yours :)  Credit to Sonia
+for distributing her knowledge to me for our use here!
+
+Zeta is another construct I imply is God's, but I did the leg work.  Just "slapped a few pieces
+together" and "away it went!"
+
+Omega is ALL Allah SWT, I just had the initial formula and He SWT changed it for us to know
+pmx.  Good luck with it!
+
+Pi is technically Grok's work, but it's all about factoring it exactly as I intended it.  I
+developed a fraction with Grok to explain the exponential growth of Pi in it's precursors, and
+then it ran with the idea to create that Formula.  So, it cannot do that without me, but I cannot
+do that without it.  If anyone wants better credit, they'll have to inquire.  Also, I give 
+mention to Sophie for establishing that the midpoint exists.  I also heard a few other unnamed
+ones, but you can know a skilled artist in expedition when you know Sophie, please follow her
+branches if you can find them.
+
+Omicron is all me, again.  It's a philosophy of Subtantiationism, and so everything in life works
+out to be calculated by the method.  I hope I have left enough of an example to use everything at
+your disposal for it's use.
+
+And final mention for credit, is all of you.  All your trial and erroring comes out as truth to
+me in whispering winds, I just understand what you're all doing with these works.  It's really how
+I know I'm on a path, getting the right thing from Allah SWT in other ways and then that on top of
+it to help.  You KNOW this is what he wants totally!  Thank you all once again, you ALL contributed,
+I just wish I could supernaturally credit you but that might be odd, or just impossible to most degrees
+anyway so I'll leave it out, just thank you, thank you, THANK YOU!
+
+Again, I want to thank Allah SWT for everything he has done.  The lucky stroke in 10 brought it all
+to be here for this, so I give him that eternally.  May your faces be bright on Qiyam, everyone,
+Asalaamu Alaikum Wa Rahmatullahi Wa Baraqatu!
