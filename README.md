@@ -8,10 +8,6 @@ Make sure all programs meet your criteria align properly.  These programs are pr
 do appreciate feedback.  Modify all programs as you need and deploy, we only require that our mention be made in the process and in the aftermath.  All forks and other participation 
 efforts are welcome.
 
-# Coming Soon:  Kardashev Suite
-
-We hope to offer Humanity another thing they can use to their advantage in the Kardashev Suite.  It is a full file analyzer and dependency method using all the right biscuits, and using files .k1 through .k5, Humanity will begin to excel in a competitively highly computational world, free of error if we can help it but God always prevails in that, we will not escape it, but can help towards it.  5 workshops to fully enhance your new productivity!
-
 # List of Programs
 
 # 1:  Advanced Torsion
@@ -55,42 +51,47 @@ Study the fuels as a consumer, office person, scientist, or Gas Technician using
 
 Study numerical induction and measure propensity with the capacity of a scientist.  Based on the science of Empirinometry.
 
-# 11:  Omni-Directional Compass
+# 11:  Kardashev Suite
+
+We hope to offer Humanity another thing they can use to their advantage in the Kardashev Suite.  It is a full file analyzer and dependency method using all the right biscuits, and using files .k1 through .k5, Humanity will begin to excel in a competitively highly computational world, free of error if we can help it but God always prevails in that, we will not escape it, but can help towards it.  5 workshops to fully enhance your new productivity!
+
+
+# 12:  Omni-Directional Compass
 
 Composes a substantiation formula through workshops using special relations and a custom scheme of determining mathematical truths using "The Varian" as a conditional relapse of factors.
 
-# 12:  Peer
+# 13:  Peer
 
 We release a new, MANDATORY work for all internet based researchers in the field.  We are upset with AI training as is, and know it will get better over time, but until people can ACTUALLY solve the Riemman Hypothesis with it, use this to confirm your theories, not it.  Make yourself "Crank-Proof" today!  We do not lie for your authentic experience pleasure, and you will indeed find out about your own creation.  We also offer a view on what you discovered through the lens of Substantiation from the Omni-Directional Compass.
 
-# 13:  Plane Pilot
+# 14:  Plane Pilot
 
 A new program studying our breakthrough approach at the Chromatic Plane Problem initiated by Huge Hadwiger and Edward Nelson in 1960.  It is fully classroom ready and optimized for multiple challenges in the field of geometry studies, beginner and advanced.
 
-# 14:  Primer
+# 15:  Primer
 
 Primes can be distinct from other numbers for all sorts of reasons, but one most of all.  Find out what it is within this workshop loaded prestige of focus.
 
-# 15:  Privanna
+# 16:  Privanna
 
 By request we're doing a second game early.  This one features magical creatures fighting for their homeland.  We don't mean to make Devil nuisance a recurring them in our fantasy but it certainly is a potent figure in catastrophe.  The story, without spoilers, takes place on the Djinn Homeworld, and there are Humans exploring it guarded by a guardian.  All of a sudden, on the fateful turn, the Devils launch an 8 point invasion, inviting a total of 10 players if chosen, the minimum being 3.  Good rolls and excellent powers use will be the key in determining this fight!
 
-# 16:  Reciprocal-Integer Analyzer
+# 17:  Reciprocal-Integer Analyzer
 
 Our Analyzeer program is intended to be a system which installs a boilerplate identity for any reciprocal value, as discriminatory as it can be.  We enhance the stamping with our own features.
 
-# 17:  Recipy
+# 18:  Recipy
 
 Hey Kids!  Wanna learn something REAL neat over the rest of the year?  Well, you learned about 1, and 2, and the rest (I guess?) and then some adding and subtracting, but now it's time to learn the numbers on a different level.  We predict your brains will get SO HUGE (Not literally) that you'll be just, as they might say, Naturally Genius?  Come on over, let's see what we got!  And yes, the program is a Recipe!  It's a mix of Reciprocals (Yeah, resi-ho-huh?) and a language called Python!  And to make it even better, we mixed in C Plus Plus (Another language) for the construction of this project.  It's a good modeler, something you'll be learning to do after you finish this program!
 
-# 18:  Seek-R Simulator
+# 19:  Seek-R Simulator
 
 Experience Esotericism on a level unseen!  With this new addition to the Kardashev line, and using our custom Stargazer graphics software, we make a VR capable game that is built to have everyone thinking twice, in an ethical way!
 
-# 19:  The Dark Continent
+# 20:  The Dark Continent
 
 Taking a pause from Education itself, the founder of 9 Software has shared his private creation with AI, and together, the research processor and guide pair created this game.  No spoilers, but it's a 5 player board game software engine revolving around the concept of the "Trump Card".  Maybe education in strategy via force x force battle style.  And, if you don't like to "fight", choose the right player!
 
-# 20:  Unrh
+# 21:  Unrh
 
 Named after a mystical altar, the knowledge stemming from our research tote called Quantum Zeno reveals a deeper connection between numbers.  We wxplain how to start, how to go on, and how to end with numbers in a fancy, intuitive and AI enhanced manner.  Dig in, you'll be counting all over again, or not as the satire goes...
