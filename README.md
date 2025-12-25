@@ -8,6 +8,10 @@ Make sure all programs meet your criteria align properly.  These programs are pr
 do appreciate feedback.  Modify all programs as you need and deploy, we only require that our mention be made in the process and in the aftermath.  All forks and other participation 
 efforts are welcome.
 
+# Coming Soon:  Kardashev Suite
+
+We hope to offer Humanity another thing they can use to their advantage in the Kardashev Suite.  It is a full file analyzer and dependency method using all the right biscuits, and using files .k1 through .k5, Humanity will begin to excel in a competitively highly computational world, free of error if we can help it but God always prevails in that, we will not escape it, but can help towards it.  5 workshops to fully enhance your new productivity!
+
 # List of Programs
 
 # 1:  Advanced Torsion
