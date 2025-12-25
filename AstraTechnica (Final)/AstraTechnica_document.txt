@@ -1,0 +1,589 @@
+AstraTechnica
+Pave the way for a greater tomorrow!
+
+Table of Contents
+1. Introduction
+2. Characters
+3. Character Sheets
+4. Crew and Crew Sheet
+5. Company Board
+6. Map Boards
+7. Units and Tokens
+8. Overlay Tiles
+9. Server Room
+10. The Ghazarkhan
+11. Domicile and Company Premises
+12. Mining Rigs
+13. Money and Items
+14. Starting the Company
+15. Investment
+16. Digital Security Technologies
+17. Law Enforcement
+18. Government and Laws
+19. Hackers
+20. Card Decks
+21. Phone Application
+22. Assassinations
+23. Game Time Management
+
+Introduction
+AstraTechnica, a game of enthusiasm and valor in skills. This one player game focuses on a Character
+of choice, all of whom have different personalities, friends, starting items and money, as well as
+different ambitions. Some of them want to start a grand company, but just need the right motivation.
+Others do not want anything to do with the established world, and wish to work their projects in the
+background. There are multiple ways to win this game, and you will have to choose the right courses
+of action in order to get to a successful end.
+In order to win this game, you must complete your project and have it developed in all parts of the
+World. Whether it's big or small, it's the global aspiration that counts!
+
+Characters
+There are a number of Characters, their descriptions will be found below:
+1. Col. Miles O'Brien [@Looper] – This man is an National Security Agency agent in charge of
+assisting with the Director of the agency in the Cyber Command. He lives in a 2 bedroom
+Semidetached unit in the Fort George G. Meade residential area with another Soldier named Lt.
+Herbert Stimreck. Herbert is a Crew Member belonging to the Colonel, as they both engage in a
+Mining operation and trade Cryptocurrency on the side. He has a car, a TV, a Computer, a
+Laptop, an AI powered assistant, a Printer, and a Smartphone. He starts off with lots of food
+and little hunger. He is also very proficient at Coding, and Herbert is good at Hardware and
+Server Repair.
+2. Yousef Feldtstein [@GrumpyDad76] – A Jewish man working for the Nexus Cybersecurity
+Agency, this talented individual has many skills others do not. A little bit of a jack of all trades,
+he specializes in Project Management, and wants to express it as best he can. He lives in a 3
+bedroom house on Long Island in New York City with a wife, Yolanda, and 2 children, Ham
+and Shiloh, the latter of whom is a teenager and is a part of your Crew. You play video games
+together, and help him with his school projects. Yousef has a Car, 3 TV's, a Movie Player, 2
+Game Consoles, 6 Security Cameras, 3 Computers, 2 Laptops, 3 Smartphones, a Rolex Watch, a
+Server, a Printer and a Home Internet Security Device. He has no trouble with food and starts
+off not hungry at all.
+3. Sherry Lorne [@FeliciaX] – A woman who works at a Grocery Store full time, living in a 1
+bedroom apartment in Southeast LA. She has no crew, but she has skills in Cybersecurity that
+will help her greatly in the future. She offers her services on the side as a white hat hacker,
+making a fair killing in order to afford her daily needs. She has a Car, a TV, 2 Computers, 3
+Servers, 1 Mining Rig, 1 Laptop, and 1 Smartphone. She wants to develop a real Cybersecurity
+firm but just doesn't know where to start.
+4. Deborah Casunaga [@RealDebCas] – Deborah the famous owner of the Beta Company, which
+runs a social media platform and other things. She visits the government often, reporting on the
+various activities done by big tech. But she has issues. Her husband, Mark, left her 1 year ago,
+and ever since she has been drawing weird feelings with her co-workers over the smallest
+things. She has global aspirations for a new company, but doesn't know if she can manage both
+jobs at once. Lives in a 2 bedroom condo unit in Atlanta, Georgia by herself. She has a Car, a
+TV, a Movie Player, a Laptop, a Computer, a Printer, a Security Camera and a Smartphone.
+5. Johnathan Savworthy [@Diablo1] – This man is a hacker extraordinaire. He pirates personal
+information and the like, as well as completely locking out peoples Computers as he sees fit. He
+has a crew of 4, whose names are @Candyman, @Crookshank, @Misfit334, and
+@KittenLauncherXD. They all excel at some form of computer or person manipulation, and
+each have a Mining Rig that partially benefits Johnathan. He has a Bike, a 4 Computers, 5
+Servers, a Home Internet Security Device, 2 Security Cameras, a Printer, 2 Laptops, and 3
+Smartphones. He has little food to start, and is very hungry. He lives in Stamford, Connecticut
+in a 1 bedroom apartment.
+
+Character Sheets
+Character Sheets determine variables in the game that will be activated by Cards and Tiles, and the
+overall progression of the game in general. These go hand in hand with the Crew Sheet, as the Dice
+value indicated will activate certain abilities that the player can do at various times in the game. The
+Character Sheet tracks are as follows:
+1. Intelligence
+2. Literacy
+3. Rationale
+4. Science
+5. Mathematics
+6. Obesity
+7. Wounds
+8. Happiness
+9. Entertainment
+10. Depression
+11. Stubbornness
+12. Computers: Legacy Hardware
+13. Computers: Modern Hardware
+14. Computers: Mobile Hardware
+15. Computers: Coding Protocols
+16. Computers: Network Configurations
+17. Computers: Server Management
+18. Computers: Virus Technology
+19. Computers: Laws & Regulations
+20. Computers: Dark Web Knowledge
+21. Computers: Firewall & VPN Knowledge
+22. Computers: Hacker Techniques
+
+Crew and Crew Sheets
+Occasionally, there will be a call to check information on the Crew Sheet to determine the results of
+game interactions. This Crew Sheet has the following components:
+1.
+2.
+3.
+4.
+
+Name of Crew
+Threat Rating
+Crew Member Handle
+Crew Unity
+
+Beside items 2-4 is a Die that represents a value. Each Crewmate gets his or her own set of Dice to
+place on this sheet, some right away, some at a later time. Beside item 3, there are 4 slots to place a
+Die in. Beside items 2 and 4, there is only one Die to place, unique to it's spot on the Crew Sheet.
+Move the Die in the proper direction when told to, and activate the bonus/deduction when the
+instructions call for it.
+Item 2 has the following slots for Dice (6 Sides Each):
+1. Rating
+Item 3 has the following slots for Dice (4 Sides each):
+1.
+2.
+3.
+4.
+
+Spirit
+Action
+Health
+Skill
+
+Item 4 has the following slots for Dice (6 Sides each):
+1. Rating
+Different Crewmates have different symbols on their Dice, make sure to place them in the right spot
+when setting up a new Crewmate. Rating Dice are straightfoward. Each number on the Die represents
+a different level of interaction (For example, a 6 on Item 2 would indicate the highest threat level,
+whereas 1 on the same Die is a minimal rating). When the Die reads a blank value, nothing is done for
+that particular instruction.
+
+Company Board
+This board represents your newly founded Company. All stats and values representing the Company
+will be here, as well as pools for various tokens to be used (These tokens are called “Assets” when used
+by the Company). The various items on the Company Board are as follows:
+1.
+2.
+3.
+4.
+
+5.
+6.
+7.
+8.
+
+Name of Company/Organization
+Online Handle
+Capital
+Systems
+1. Server Health
+2. IT Infrastructure
+3. AI Processing Level
+Assets Pool
+Contracts Pool
+Active Orders
+Number of Employees
+
+The Company Board will try it's best to represent the building that is occupied by the Company,
+whether large or small. Sometimes, Active Orders will authorize the infiltration of certain facilities in
+secret, and these boards will have to be spawned in the situation according to the scenario at hand.
+There will be no stats board required for these places, but when Servers or Hardware are being
+manipulated there will be cards drawn from the appropriate decks and placed in play somewhere
+nearby. To successfully infiltrate you will need to satisfy 2 of these cards and then do your trick. When
+the task is done and escape made successfully, remove the Active Order token from the pool.
+Hopefully Law Enforcement doesn't catch you!
+
+Map Boards
+These boards are spawned into play at different times in the game's playing. For example, the World
+Map board is in play for the entire game, whereas Domiciles are not. In either case, every Character
+starts with a Domicile, some of which are custom to the player. For example, one Character has an
+escape route in his 1 Bedroom Apartment, but another Character does not, though they both use the
+same Map Board for their Domicile. A token is placed in a spot on the board to represent the escape
+route.
+As for the World Map board, when you have certain influence generated by the organization you are in,
+it will be represented on this board. When you are promoting your final project, the success of it will
+be represented on this board. Gaining the ability to have your project installed in all countries on this
+Map Board will win the game. Failing to achieve this will be the end of the game as well.
+
+Units and Tokens
+Units are objects that are moved around on the various Map Boards in the game. They represent
+various actors in the game, such as yourself, a Crewmate or an enemy Hacker. When you are in a
+place, a Map Board will be spawned, and you interact with the things inside to generate different
+effects on the Character Sheet, among other things like facilitating the ends of a Card played. When
+Units interact with the Map Board, they are required to plug in different variables on the Game App.
+Follow the instructions on the Game App after inputting the variables to determine the next course of
+action. Sometimes, your Crewmates will appear on the Map Boards, but they are removed from play
+when not in use.
+Tokens are used to represent various things in the game. Some of them go into the Pools located on the
+Character Sheets and Company Boards, some of them are placed on the Map Boards in play. They are
+as follows:
+1. Pools Tokens
+1. Contract Token
+2. Sofa Token
+3. TV Token
+4. Smartphone Token
+5. Laptop Token
+6. Computer Token
+7. Server Token
+8. Security Camera Token
+9. Vehicle Token
+10. Weapon Token
+11. Chair Token
+12. Bed Token
+13. Bike Token
+14. AI Assistant Token
+15. Webcam Token
+16. Microphone Token
+17. Headset Token
+18. Game System Token
+19. Movie Player Token
+20. Mining Rig Token
+21. VR Headset Token
+22. Bookshelf Token
+2. Map Board Tokens
+1. Project Injection Token
+2. Company Token
+3. Law Enforcement Threat Token
+4. Government Office Token
+5. Government Assembly Building Token
+
+Overlay Tiles
+Overlay Tiles represent different scenario's that are occurring in the world and must be noted at many
+times during gameplay. Sometimes these Tiles will never change for you, and that is normal. Other
+times, these Tiles will be exchanged for others or added to the count of placed Tiles. They are all
+numbered for clarity's sake. Their descriptions can be found below.
+
+Server Room
+This room is very important. Somewhere, either on Company premises or in the Domicile, there will
+be one or more Server Rooms. These areas contain any number of Servers or Mining Rigs that are
+owned by the Character through the Company or otherwise. These areas become targets of Hackers
+and Law Enforcement Agencies for various in game things, and they can become your target as well.
+To engage with a Server Room, you must complete the tasks that are required to gain entry into it.
+These tasks can be found in the Server Room Deck, choosing the appropriate Server Room conditions
+as is required by the task you are completing. The difficulty of manipulating this Server Room will be
+indicated on the Card. When you deploy a Map Board that represents the floor or building the Server
+Room is located in, a Server Token will be placed in the rooms where there are Servers located. You
+must move to this room and use the Game App to interact with the Server.
+When you place Malware on the Server, the Game App will notify you when the Malware has become
+detected by the Company or Law Enforcement Agencies, or when certain activity that you flag has
+occurred. You can use this information to develop your Company in some way, gaining intelligence on
+your target. Also, sometimes larger Adults cannot fit into various spaces to do the job, whereas
+younger people might be able to slip in between small spaces to install Malware.
+
+The Ghazarkhan
+This game features a controlling entity called The Ghazarkhan. They are a corrupt society secretly
+ruling the world from the shadows, and this you discover through certain events in the game. You can
+decide to fight them or ignore them, but if you are invited into their circle other things will happen if
+you refuse to join. There is no requirement to join, only that the game difficulty gets harder.
+The Ghazarkhan do not have any tokens but will appear randomly throughout the game as an internal
+mechanic. The Game App will report any of this activity for you, according to your Gameplay Seed.
+This enemy can send Hackers, Government Agents or Law Enforcement Officers to your Domicile or
+Company Premises to do various things. Sometimes they will appear as regular inspectors, sometimes
+as other types of agents. Occasionally, a Hacker might be sent to manipulate your Servers, but you can
+be paranoid in advance if you see the signs that something may or may not happen. The Game App wil
+notify you of all events that are suspect enough to warrant the chance that a Hacker will appear on the
+right Map Board. You must control the Hacker Unit yourself and make it do the tasks required by the
+Game App or in game rules.
+
+Domicile and Company Premises
+There are two Map Boards which are permanent once placed, but can be changed when the game calls
+for it. They are the Domicile Map Board, and the Company Premises Map Board. Sometimes game
+instructions will tell you what to do on each of these Map Boards, sometimes the Game App will do
+that. Let's go over the individual Map Boards here:
+1. Domicile – There are a variety of these, from rooming houses, 1 bedroom apartments and
+trailers to luxurious mansions and Country Villa's. They are usually 1 floor or more, depending
+on the structure. This is where the Character sleeps, and he or she will have to come here at
+some point to rest and entertain.
+2. Company Premises – There are multiple single level buildings in this set, some of which are
+offsite locations, and many are multi-floor establishments that span many floors (Only relevant
+ones will be shown in the set). Eventually, this is where most of the work for your Company
+will be done, and is where many of the Units that represent people will be housed for use in
+game.
+
+Mining Rigs
+Mining Rigs are items you can buy that add to your pool of Assets, either on the Character Sheet, the
+Company Board or the relevant Map Board. The Game App will tell you when they become
+overheated, suddenly go offline, or generate a successful guess in the blockchain. Bitcoin will be
+added to your overall total, and you will be able to exchange it for cash at a time of choosing. The
+Game App will determine the current value of the individual Bitcoin or Satoshi's you own.
+
+Money and Items
+Money itself has an entertainment value that increases Satisfaction, which will increase Happiness
+overall at various points in the game. It can be used to buy Items, which add to your Asset Pool on
+either the Character Sheet or the Company Board. The item you own may or may not be represented
+with a Token on the respective Map Board currently spawned, in a fixed position or having multiple
+positions which do different things.
+Items can be bought at shops, just draw a few Shop Cards to see what you looked at and choose from
+the selection for the amount of money requested. Notify the Game App that this happened so that Law
+Enforcement and other variables can be generated in it for use later.
+
+Starting the Company
+Most of the Characters have a Job, and some in fact own a Company of their own already. This
+Company Board will be spawned at the beginning of the game, but if your employees cannot relate to
+your new ambition of making a worldwide IT security project, then you will be forced to concede and
+resign your position in favour of the new venture, otherwise you're just kicking the rock down the road
+for no reason (Not even an entertaining one).
+The Game App will know what to do when you declare the formation of a new Company. Firstly, you
+will have to register the Company Name with the registry, and if the Company Name has already been
+taken in the system you will have to choose a different one. This is generated at random by the Game
+App, but once you have a Company Name it will be added to the registry for future games.
+Sometimes, the Company will fail, and this does not lose you the game. You must make it to the end of
+the Turn Counter in order to beat the game, as well as have your project installed in all countries on the
+World Map Board. At the End of the Turn Counter, the Ghazarkhan will have launched a massive Debt
+Reset scheme that included the takedown of several major banks across the world, forcing the hand of
+nations to do exactly that. There is intelligence in the game that can be found to point to this, but you
+cannot use that knowledge until that comes your way. In that way, this knowledge is not enough to
+save you from that ignorance when it comes to what the Game App will do about it. At any rate, you
+are able to start a new company from scratch again if time permits.
+Once a Company has been started, the Project Idea cards can be drawn when you initiate a Company
+Meeting. Tell the Game App that you have sent an email to your employees regarding the meeting, if it
+is the first meeting, and follow the steps provided by it on the respective boards. You will have to
+choose the E-mail from a List, unless you have the ability to draw Skilled Writing cards, in which case
+you choose from the deck for the appropriate card and play it, informing the Game App which card you
+used. This tactic will be employed many times.
+When the meeting is established, you search for a Project Idea for each employee at the meeting. You
+can choose any number of Cards to investigate afterwards, but they will all have a cost printed on the
+Card and that will have to be compensated for. Unused ideas will be placed to the side for use in future
+meetings, opting to have discussion on an existing idea or coming up with another one (Drawing
+another card of choice per employee at the meeting). All Cards drawn must be registered in the Game
+App by the number printed in the bottom right of the Card so that the game knows how to interact with
+that newly formed knowledge, in the event of espionage.
+You can also take time to buy Asset Pool Tokens, and place them either in the Domicile or Company
+Premises Map Board(s). In the case of the Former, doing this in the name of the Company might be
+seen as corruption, and so the Corruption counter is increased on the Company Board by 1 point each
+time this happens. The Game App will replicate real world events that simulate the outcome of this
+evidence against the Company through a variety of methods. In the case that you used company funds
+appropriately, do no such thing. This will keep Law Enforcement at bay as well, not just the
+Ghazarkhan, though they will only do a different thing knowing what you did when you register the
+Asset Pool Token.
+Finally, when Project Idea's are selected, you may have meetings with specialists in the Company to
+execute the tasks on the card. Select the Constructive Concept card that matches the outcome of the
+Project Idea card, and continue to build on it for the cost of the task at hand. Eventually, you will have
+
+to draw a Server Status card, which you will place in the Server pool on Server 1 on the Company
+Board. Add Server Slots from the pool for each additional Server you own. When you draw this card,
+increase the total amount of money gained per turn as per the Capital slot on the Company Board.
+When you have 1 or more Project Ideas fully grown, you can choose to launch your company
+worldwide. The amount of Project Ideas that you constructed will have an impact on your overall
+success, and you will have to sustain your success through the turbulent winds of regulation and
+investigation into all your affairs once the project is installed in certain countries on the World Map
+Board. The Game App will tell you when to replicate these events, and which Card to draw from the
+appropriate decks.
+If the game ends and your project is installed worldwide, it will stop the incursion generated by the end
+game sequence in a small or large way. That amount does not matter, but it will just be a novelty
+knowledge which is generated for use in future games of the AstraTechnica type. We will choose the
+best attempts, and try to fit them into one timeline for a new expansion, to be determined later. This
+expansion will be multiplayer.
+
+Investment
+At times, you can be an investor to generate funds or gather investment funds from other companies,
+even others who are currently playing the same game as you in other areas. The Game App will help
+you determine both, but lets describe them below.
+Firstly, as for being an investor, you draw from the Investment Deck a card of your choice, as they all
+have benefits and risks. Register this choice with the Game App so that it can determine what to do at
+the right time. It will send you a notification as to the progress you glean through phone calls and
+emails or texts and reports. Eventually your investment will come to fruition, and you will reap the
+benefits or losses of your investment as per game variables, not by random.
+As for generating Investment, you must register your Project Ideas that you have with the Investor you
+choose at a meeting, and depending on how you interact with the Game App at this time, you will gain
+Investment Capital. You can use this to sustain new Project Ideas or Constructed Concepts in the
+Company, and pay back the Investor plus gaining a profit. If you do not, you go into debt and this will
+be solved by the seizing of assets. Remove X number of Asset Pool Tokens as per the requirement to
+pay back the loan, or suffer a collection agency howling down your throat every so many turns, as well
+as a potential lawsuit if you do not respond to the Investor.
+
+Digital Security Technologies
+When you draw Server Event Cards, there will be a check made. If you have any DST Cards in play,
+each event taking place on the Server, Computer, Laptop, Smartphone or Mining Rig in question will
+have to interact with the variables on the DST Card that takes precedent. For example, in the case of an
+attack, the DST card will mitigate the effects in some way, or nullify the attack completely. In the case
+of normal traffic, the DST card will modify the variables in the Game App which will determine the
+overheating or general wear on the Asset Pool Token that accumulates over time.
+These DST cards, once registered with an investor, might even open up doors for more investment, if
+the current one can be paid back in an expedient manner. It all depends on the game variables set by
+the Investment Company chosen to make investment deals with.
+
+Law Enforcement
+Law Enforcement can either be with you or against you. For example, since you cannot be maliciously
+attacking companies for any other reason than to investigate and counter the moves made by the
+Ghazarkhan, these actions might be interpreted differently by different people. The Ghazarkhan might
+notice and ignore you, whereas Law Enforcement, once catching a whiff of you, will investigate you,
+and you may have to clean up and ditch your Domicile or Company Premises board entirely. They will
+remain in play until the Game App notifies you that all relevant game events have been resolved with
+it.
+Law Enforcement investigations also determine certain laws that will be passed. Draw the relevant
+card called for by the Game App from the Investigations deck, and resolve the issues therein. If it
+deems that you draw a Law type card, draw from the appropriate deck as determined by the country, or
+countries, you are operating in and keep it in play until resolved over time by the Game App, which
+will replicate a proceedings in the Government Assembly buildings for you to check on when
+completed. If you are called to testify at such a proceeding, you will have to respond in situ with the
+Game App, which will read the text of the Representatives statements. You will have to respond via
+speech somehow so that the Game App can detect live whether you are deflecting from the subject or
+getting to the meat and potatoes of the argument. Some Representatives will lash out for that, others
+will stand still and some will have your back. Inevitably, your responses will have to be reflective of
+the game variables in every way, and if that cannot be done then the Game App will tell you whether it
+could be understood by the AI or not. If not, select try again and the Representative will repeat their
+statement, at which point you respond again. If too many attempts are made, the Representative will
+treat it as though you deflected again with nonsense, but you can petition the game that you made every
+statement validly and there was no error based on it's results generated upon demand at the time of the
+problem. If that happens and you still defer the Game App decision, another Representative will come
+to your aid and that Representatives statements will take priority in the game itself, helping you in this
+time of difficulty.
+If you fail to appear for a proceeding, Law Enforcement will try to apprehend you, and this attempt at
+hiding from them will only add to the Corruption track on the Company Board. If you fight them, they
+may certainly kill you, and the game will end, depending on what you did. When they do take you into
+custody, the location you are housed in will be spawned in the game, and your Unit will be placed there
+in the appropriate spot. The belongings on your person will be collected, some not represented by
+Asset Pool Tokens, and be stored nearby for access. If the corruption level of a country is high, there is
+a chance that your goods will be stolen, to be emulated in game. Sometimes you will not be detained
+for long, so this may not take place in full every time.
+
+Government and Laws
+The game features many governments and legislative bodies that you will interact with on a daily basis.
+There are only Federal Governments represented by pieces placed on the World Map Board, but
+certainly some Law cards will act to represent times when local laws apply, as selected by the Game
+App at the right time.
+The Federal Government will be continuously acting on in game variables to determine it's next course
+of action, and is meant to be an additional form of challenge for the player. Using the new rules, he or
+she may have to abandon current Tasks underway in the company to become compliant with new laws
+issued.
+
+Hackers
+There is a unique challenge to the game as you start your Company, in the form of Hackers attempting
+to steal information and do damage to your Asset Pool Tokens. Sometimes their Unit spawns on an
+appropriate Map Board, and you have to play out the actions dictated by the Game App. The Unit will
+try to interact with a Server Room and hide their actions the best they can, but they always leave
+evidence for Law Enforcement.
+
+Card Decks
+This game relies on the use of drawing Cards to complete certain functions of the game. All Card
+decks are searched through for the card desired, and no card requires the roll of a die to complete it's
+task. If variables beyond the scope of the board need to be introduced, they will be done so through the
+Game App.
+The Card Decks and their descriptions are as follows:
+1. Project Idea Cards – These cards have a colour coding which makes them compatible with other
+Constructed Concept and/or Server Status Cards. They contain basic ideas which will generate
+revenue and have a cost associated with them as well. Play these cards and keep them in play
+until the Constructed Concept Cards have been played on it, at which time the two sets of cards
+will be removed from play and a Server Status card will be drawn to your hand for future use.
+2. Constructed Concept Cards – These cards are also colour coded so that you can combine
+different types together in certain ways to execute a function. When the task has been
+completed on the Card for the cost provided, remove these Cards and the Project Idea Card(s)
+from play and take a Server Status card into your hand.
+3. Server Status Cards – These are the final products of your tasks. They are colour coded to
+match the various Constructed Concept and Project Idea Cards. Once taken into hand, they can
+be played on a Server of choice. Remove the Constructed Concept and Project Idea Cards from
+play when you redeem this card.
+4. Law Cards – At certain times, Government Assembly Buildings will host sessions where laws
+are passed, and the appropriate Law Card will be drawn at the right time and placed somewhere
+nearby, in play. Instructions on the card must be obeyed, and the Game App will tell you when
+to place a Law Card into play. There are multiple Law Decks representing each country in the
+game with a Government Assembly Building
+5. Action Cards – These cards are used to proceed across various Map Boards in the game, and
+will exercise various functions like Entertainment, Hacking, Stealth and Noise, as well as other
+things. A player will draw these cards before all actions taken on a Map Board, and cannot be
+drawn unless otherwise provided for by Creativity. At any rate, play the Card on the board and
+inform the Game App that the Action card is in play. You may choose to use this action once
+per turn in the round generated on the Map Board.
+6. Investor Cards – These cards are chosen from like any other, in that you must select the
+appropriate investor with the right requirements and benefit ratio in order to progress your
+company further. You must pay back all loans incurred, so these cards will remain in play until
+the loan is paid back, at which time you can borrow from the same Investor or discard the card
+in favour of another.
+7. Venture Cards – These are little bonuses to your stats which are generated by ventures outside
+of the Domicile. So, as for choosing a food shop from the cards, you will remove some Hunger
+points from the tracker for using this card. You may only choose 2 Venture cards per turn, as
+you choose them. Let the Game App know which card you drew so it can calculate it's
+variables.
+
+8. Internal Investigation Cards – These cards are used when Corruption in the company goes up.
+You can determine various things from the cards chosen, and gain bonuses for resolving certain
+issues that come up with your selected card. Sometimes, you can choose these cards in relation
+to other Action Cards chosen, at which point you continue the chain if necessary.
+9. Event Cards – These are drawn at the beginning of the game, and as the Game App determines
+them to be drawn. When it tells you to draw a Card of this type, place it in play but do not
+resolve it until the others have been. Proceed to resolve them in order, as you place them in
+order. If there is ever a conflict with two event cards proceeding one after the other, then the
+Game App is petitioned for a new Event Card, and the current one discarded.
+
+Phone Application
+In this game there is a Game App which helps you and dictates certain functions of the game. There
+are multiple ways to interact with this Game App, and it's responses will be described below:
+1. Start a Company – You can start a Company at any time, but whether you have the right
+resources to do it will determine your success overall. Initiate the Start Company function in
+the Game App, then begin to fill in the Fields provided to register it. This will load the
+Company into the current world of Companies, and you can interact with them if they are on the
+same Game Server. Use the Market function to see which Asset Pool Tokens are available for
+sale, or post your own. Other Companies can also be Investors if chosen, take the Investor
+Wildcard from the deck for each Investor chosen in this way, placing a General Counter token
+numbered 1-7 on it representing the Investor chosen. Tell the Game App which Token was used
+for each Investor.
+2. Manage Company – Start meetings, generate impromptu Project Ideas, provide Government
+Reports, do internal Investigations with Internal Investigation Cards, install your idea in other
+Countries, hire/fire Employees, generate Investor capital.
+3. Market – Interact with other players in the same Game Server to buy or sell, and also generate
+Investor deals.
+4. Government – See Government discourse, reports, full text of laws, Government liasons,
+Internal conflict status, as well as attend meetings generated by the Game App.
+5. Servers – All active servers either in the Domicile or in the Company Premises Map Boards will
+be registered here, and all activity that you can access will be posted here as well in the form of
+internal reports. Internal reports must be generated by active Employees, or yourself when the
+time comes up. The Game App will notify you when it is time to compile a report from the
+available data. Registering all Server Status cards of all types will be done here as well.
+6. Map Boards – Register and look at certain events taking place on your Map Boards as they
+proceed to emerge. Some things do not have to be registered in the Game App, but you can
+freely report about these things in reports. Place noise and other tokens in the appropriate spots
+when dictated by the Game App.
+7. Other Internal Mechanics – Nothing is secretly done in this game, but there are limits to what
+you can know overall at certain times given your investigation status. Any game mechanics
+which dictated something ALREADY done in the game will be posted here, so that there is no
+discrepancy with randomness being generated by the game. Everything is simulated and
+controlled by the Game App.
+
+Assassinations
+Occasionally, certain Units placed on Map Boards or elsewhere for the meantime will be subject to the
+rule of Assassination. Place the Assassin unit and spawn the appropriate Map Board when told to, as
+well as any Asset Pool Tokens on the Map Board, and complete the tasks instituted by the Game App.
+Sometimes the sender will be Ghazarkhan, sometimes it will be rival companies, or even the
+Government of a country if you are in disfavour with them enough. You cannot send Assassins
+yourself in this game, but you can certainly defend against them with illegal traps. You will have to
+sanitize the scene if you do this but it can be done.
+When you get Assassinated, you can start again with another Character, setting up the appropriate
+boards and informing the Game App that you died and selected a new character. The turn counter will
+not change it's position unless you abandon the game completely. There will be lessons that can be
+learned from the prior Company's attempt at project management, and you might even potentially be
+seen as a candidate for that Company's management in the aftermath of that attack.
+
+Game Time Management
+Firstly, the game materials will need to be set up. The steps to do this are as follows:
+1. Place the World Map Board in a central location.
+2. Take the Government Assembly Buildings and place them on the World Map Board.
+3. Choose a Character and place his or her Domicile Board and/or Company Premises Board next
+to the World Map Board.
+4. Place a Character Sheet belonging to your character nearby within reach.
+5. Place all the Card Decks in a row above the World map Board, making room for discard piles.
+6. Place all Asset Pool Tokens and unused Units in a spot near the Card Decks.
+7. Register all game starting variables with the Game App.
+8. Follow the instructions for the placement of your Characters Unit.
+9. Draw 3 Event Cards, choose an order for them to be played in, and place them in play
+somewhere nearby.
+10. Register the Event Cards chosen for play in the Game App.
+Following this, there are steps for normal gameplay and steps when you are running a company. The
+step procedures will be described below:
+•
+
+Normal Gameplay (No Company)
+1. Follow the immediate instructions of the current Event Card.
+2. Choose one of the following:
+1. Resolve an Event Card
+2. Move your Unit
+3. Interact with Asset Pool Tokens
+4. Draw a Project Idea Card to your hand.
+5. Draw a Venture Card and play it.
+3. Choose any of the following:
+1. Start a Company.
+2. Choose an Investor Card and fill it's requirements.
+3. Use the Market function on the Game App to buy/sell Asset Pool Tokens.
+4. Review Government and Company reports.
+5. Load/Unload Server Status Cards onto active Servers.
+6. Apply to place a Project Token on the World Map Board.
+
+•
+
+Special Gameplay (With Company)
+1. Add Step 4, Select “Investigate Ghazarkhan” in the Game App. Place the appropriate
+
+Map Boards into play, and place all required Units and Asset Pool Tokens on them.
+Complete the objective given by the Game App and discard all pieces.
+2. Add another option to Step 3, Select “Review Investigations” in the Game App.
+The Turn Counter will be adjusted every time all required Game Components have been emulated by
+the Game App. It will notify you when to adjust the Turn Counter, and these actions can only be done
+once per turn. You must wait until the Turn Counter has been increased to do more of the same.
+
+
