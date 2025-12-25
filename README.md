@@ -8,6 +8,20 @@ Make sure all programs meet your criteria align properly.  These programs are pr
 do appreciate feedback.  Modify all programs as you need and deploy, we only require that our mention be made in the process and in the aftermath.  All forks and other participation 
 efforts are welcome.
 
+#  List of Research Document Types
+
+#  Technical Manilla
+
+These are document folders meant to be like a dossier that the creator of 9 Software would like to publish.  They are all upon request.  All documents may be distributed under GPL but not modified; extracting, however, or citing can happen.
+
+#  Research Tote
+
+These are mixed document/software packages, use them to your benefit as they only try to prove certain things.  All software is free to modify and distribute with credit, same rules as the Manilla documents.
+
+#  Demo
+
+These are products which are not full version and also do a number of things, but are mostly research materials that convey the full meaning of their intent.  GPL rules apply.
+
 # List of Programs
 
 # 1:  Advanced Torsion
