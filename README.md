@@ -51,9 +51,9 @@ Study numerical induction and measure propensity with the capacity of a scientis
 
 Composes a substantiation formula through workshops using special relations and a custom scheme of determining mathematical truths using "The Varian" as a conditional relapse of factors.
 
-# 10:  Peer (DEMO ONLY)
+# 10:  Peer
 
-We express our belief in the apparatus that is the Half Line, within contemplation of a Zeta Zero as that subject prevails to speak of in the nature of Primes.
+We release a new, MANDATORY work for all internet based researchers in the field.  We are upset with AI training as is, and know it will get better over time, but until people can ACTUALLY solve the Riemman Hypothesis with it, use this to confirm your theories, not it.  Make yourself "Crank-Proof" today!  We do not lie for your authentic experience pleasure, and you will indeed find out about your own creation.  We also offer a view on what you discovered through the lens of Substantiation from the Omni-Directional Compass.
 
 # 11:  Plane Pilot
 
