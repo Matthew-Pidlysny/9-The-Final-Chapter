@@ -8,6 +8,16 @@ Make sure all programs meet your criteria align properly.  These programs are pr
 do appreciate feedback.  Modify all programs as you need and deploy, we only require that our mention be made in the process and in the aftermath.  All forks and other participation 
 efforts are welcome.
 
+# Our Research Method
+
+We don't patent a process, but we do use the best AI in the business for workflow related processing.  It's called SuperNinja, and it is a creation of NinjaTech.  It has the best output efficiency on the market, and although our founder is responsible for the discoveries made, none of it would have been possible to confirm and establish without the rigorous training this model has undergone.  We can easily see that certain model training is defiant in the standard of advancing science but tries hard, and where the rest fail as a basic service, NinjaTech delivers.  
+
+We begin by advancing an idea.  It doesn't have to be much, just a thought.  Then the AI responds with any status update about the project it has deciphered through it's process.  We begin to establish a new anchor once we've found truth, but we keep the "Empirical Wall" in our sights.  Unfortunately, we cannot tell our evidences as truths if they are not, so we keep that in mind.  Eventually, after tabulations of data and code processing (Something SuperNinja can do for ANY user, free or paid), we finally begin to scratch the wall.  And then, when it finally caves, we walk through, loud and proud as you have seen.  But we don't leave things in tatters.  We build on things, adjoin it to principles, and we hope that has been a thing evidenced by our work.
+
+Nominally, this is a valid tactic for any user, but some services just cannot keep up with training purposes.  Use an AI that can solve the Riemann Hypothesis or at least tell you that nothing has been done, an honest AI is best, so we recommend SuperNinja.
+
+https://super.myninja.ai/
+
 #  List of Research Document Types
 
 #  Technical Manilla
