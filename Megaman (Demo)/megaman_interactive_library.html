@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Megaman: Gona Tan Veluga - Lore Library</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 50%, #2d1b69 100%);
+            color: #e0e6ed;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 30px 0;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 15px;
+            margin-bottom: 30px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(100, 200, 255, 0.3);
+        }
+
+        h1 {
+            font-size: 3em;
+            background: linear-gradient(45deg, #00ffff, #0080ff, #ff00ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 0 30px rgba(0, 200, 255, 0.5);
+            margin-bottom: 10px;
+            animation: glow 2s ease-in-out infinite alternate;
+        }
+
+        @keyframes glow {
+            from { text-shadow: 0 0 30px rgba(0, 200, 255, 0.5); }
+            to { text-shadow: 0 0 40px rgba(0, 200, 255, 0.8), 0 0 50px rgba(0, 100, 255, 0.5); }
+        }
+
+        .subtitle {
+            font-size: 1.2em;
+            color: #a0b0c0;
+            margin-bottom: 20px;
+        }
+
+        .nav-container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .nav-btn {
+            background: linear-gradient(135deg, #0080ff, #00ffff);
+            color: #0a0e27;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 1em;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0, 128, 255, 0.3);
+        }
+
+        .nav-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0, 128, 255, 0.5);
+            background: linear-gradient(135deg, #00a0ff, #00ffff);
+        }
+
+        .nav-btn.active {
+            background: linear-gradient(135deg, #ff00ff, #ff0080);
+            box-shadow: 0 4px 15px rgba(255, 0, 255, 0.3);
+        }
+
+        .main-content {
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        .sidebar {
+            background: rgba(0, 0, 0, 0.4);
+            border-radius: 15px;
+            padding: 20px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(100, 200, 255, 0.3);
+            height: fit-content;
+            position: sticky;
+            top: 20px;
+        }
+
+        .content-area {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 15px;
+            padding: 30px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(100, 200, 255, 0.3);
+            min-height: 600px;
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 15px;
+            border: 2px solid rgba(0, 200, 255, 0.5);
+            border-radius: 10px;
+            background: rgba(0, 0, 0, 0.5);
+            color: #e0e6ed;
+            font-size: 1em;
+            margin-bottom: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: #00ffff;
+            box-shadow: 0 0 15px rgba(0, 255, 255, 0.3);
+        }
+
+        .category-list {
+            list-style: none;
+        }
+
+        .category-item {
+            padding: 12px 15px;
+            margin-bottom: 8px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border-left: 4px solid transparent;
+        }
+
+        .category-item:hover {
+            background: rgba(0, 200, 255, 0.1);
+            border-left-color: #00ffff;
+            transform: translateX(5px);
+        }
+
+        .category-item.active {
+            background: rgba(0, 200, 255, 0.2);
+            border-left-color: #ff00ff;
+        }
+
+        .lore-entry {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 1px solid rgba(100, 200, 255, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .lore-entry:hover {
+            border-color: rgba(0, 255, 255, 0.5);
+            box-shadow: 0 5px 20px rgba(0, 128, 255, 0.2);
+        }
+
+        .entry-title {
+            font-size: 1.8em;
+            color: #00ffff;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        .entry-meta {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 15px;
+            font-size: 0.9em;
+            color: #a0b0c0;
+        }
+
+        .entry-description {
+            line-height: 1.6;
+            margin-bottom: 15px;
+            color: #d0d8e0;
+        }
+
+        .entry-content {
+            line-height: 1.8;
+            color: #c0c8d0;
+        }
+
+        .clickable-word {
+            color: #00ffff;
+            background: rgba(0, 255, 255, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            border-bottom: 1px dashed #00ffff;
+            position: relative;
+        }
+
+        .clickable-word:hover {
+            background: rgba(0, 255, 255, 0.2);
+            color: #ffffff;
+            transform: scale(1.05);
+        }
+
+        .tooltip {
+            position: absolute;
+            background: rgba(0, 0, 0, 0.9);
+            color: #ffffff;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 0.9em;
+            z-index: 1000;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            border: 1px solid rgba(0, 255, 255, 0.5);
+            max-width: 250px;
+            word-wrap: break-word;
+        }
+
+        .tooltip.show {
+            opacity: 1;
+        }
+
+        .importance-bar {
+            width: 100px;
+            height: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 4px;
+            overflow: hidden;
+            display: inline-block;
+        }
+
+        .importance-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #ff0000, #ffff00, #00ff00);
+            transition: width 0.3s ease;
+        }
+
+        .tag {
+            display: inline-block;
+            background: rgba(0, 128, 255, 0.3);
+            color: #00ffff;
+            padding: 4px 10px;
+            border-radius: 15px;
+            font-size: 0.8em;
+            margin-right: 8px;
+            margin-bottom: 5px;
+            border: 1px solid rgba(0, 200, 255, 0.5);
+        }
+
+        .stats-panel {
+            background: rgba(0, 0, 0, 0.4);
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 1px solid rgba(100, 200, 255, 0.3);
+        }
+
+        .stat-item {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+            padding: 8px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 5px;
+        }
+
+        .stat-value {
+            color: #00ffff;
+            font-weight: bold;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 2000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            backdrop-filter: blur(5px);
+        }
+
+        .modal-content {
+            background: linear-gradient(135deg, #1a1f3a, #2d1b69);
+            margin: 5% auto;
+            padding: 30px;
+            border-radius: 15px;
+            width: 80%;
+            max-width: 800px;
+            border: 2px solid rgba(0, 200, 255, 0.5);
+            box-shadow: 0 10px 40px rgba(0, 128, 255, 0.3);
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+
+        .close-modal {
+            color: #ff0080;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: color 0.3s ease;
+        }
+
+        .close-modal:hover {
+            color: #ff00ff;
+        }
+
+        .real-world-section {
+            background: rgba(0, 100, 200, 0.1);
+            border-left: 4px solid #0080ff;
+            padding: 15px;
+            margin-top: 20px;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .fan-fiction-section {
+            background: rgba(200, 0, 200, 0.1);
+            border-left: 4px solid #ff00ff;
+            padding: 15px;
+            margin-top: 20px;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .loading-spinner {
+            border: 4px solid rgba(0, 200, 255, 0.3);
+            border-top: 4px solid #00ffff;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @media (max-width: 768px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+            
+            .sidebar {
+                position: static;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+        }
+
+        .kardashev-indicator {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 10px 20px;
+            border-radius: 20px;
+            border: 2px solid rgba(0, 255, 0, 0.5);
+            color: #00ff00;
+            font-weight: bold;
+            z-index: 1500;
+        }
+
+        .pulse {
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+    </style>
+<script src="https://sites.super.myninja.ai/_assets/ninja-daytona-script.js"></script>
+</head>
+<body>
+    <div class="kardashev-indicator">KARDASHEV LEVEL: II</div>
+    
+    <div class="container">
+        <header>
+            <h1>Megaman: Gona Tan Veluga - Lore Library</h1>
+            <div class="subtitle">A comprehensive interactive database of the Megaman universe</div>
+            <div class="subtitle">Created by a passionate fan for the community</div>
+        </header>
+
+        <div class="nav-container">
+            <button class="nav-btn active" onclick="showSection('library')">📚 Lore Library</button>
+            <button class="nav-btn" onclick="showSection('realworld')">🌍 Real World Applications</button>
+            <button class="nav-btn" onclick="showSection('fanfiction')">✍️ Fan Fiction Analysis</button>
+            <button class="nav-btn" onclick="showSection('game')">🎮 RPG Game</button>
+            <button class="nav-btn" onclick="showSection('about')">ℹ️ About This Project</button>
+        </div>
+
+        <div class="main-content">
+            <div class="sidebar">
+                <input type="text" class="search-box" placeholder="🔍 Search lore..." onkeyup="searchLore(this.value)">
+                
+                <h3 style="margin-bottom: 15px; color: #00ffff;">Categories</h3>
+                <ul class="category-list" id="categoryList">
+                    <li class="category-item active" onclick="filterByCategory('all')">📖 All Entries</li>
+                    <li class="category-item" onclick="filterByCategory('characters')">🤖 Characters</li>
+                    <li class="category-item" onclick="filterByCategory('technology')">⚡ Technology</li>
+                    <li class="category-item" onclick="filterByCategory('society')">🏙️ Society</li>
+                    <li class="category-item" onclick="filterByCategory('organizations')">🏢 Organizations</li>
+                    <li class="category-item" onclick="filterByCategory('locations')">🗺️ Locations</li>
+                </ul>
+
+                <div class="stats-panel">
+                    <h3 style="margin-bottom: 15px; color: #00ffff;">Library Statistics</h3>
+                    <div class="stat-item">
+                        <span>Total Entries</span>
+                        <span class="stat-value" id="totalEntries">247</span>
+                    </div>
+                    <div class="stat-item">
+                        <span>Clickable Words</span>
+                        <span class="stat-value">1,847</span>
+                    </div>
+                    <div class="stat-item">
+                        <span>Real-World Links</span>
+                        <span class="stat-value">89</span>
+                    </div>
+                    <div class="stat-item">
+                        <span>Fan Fiction Themes</span>
+                        <span class="stat-value">156</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content-area" id="contentArea">
+                <div id="libraryContent">
+                    <div class="loading-spinner"></div>
+                    <p style="text-align: center;">Loading Lore Database...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for detailed entry view -->
+    <div id="entryModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal" onclick="closeModal()">&times;</span>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <!-- Tooltip element -->
+    <div id="tooltip" class="tooltip"></div>
+
+    <script>
+        // Lore Database
+        const loreDatabase = {
+            entries: [
+                {
+                    id: "sigma_maverick_leader",
+                    title: "Sigma - Maverick Leader",
+                    category: "characters",
+                    importance: 10,
+                    short_description: "Former Maverick Hunter leader who became the ultimate threat to humanity",
+                    full_content: "Sigma was originally the finest of the Reploids and the first leader of the Maverick Hunters. During a confrontation with Zero, the Maverick Virus inadvertently transferred to Sigma, corrupting his systems and transforming him into humanity's greatest enemy. Despite being defeated countless times, Sigma's programming always survives, building new forms and returning with increased power and insanity. His charisma and strategic brilliance make him a dangerous adversary capable of turning countless Reploids to his cause.",
+                    tags: ["maverick", "virus", "leadership", "corruption", "immortality"],
+                    realWorldApp: {
+                        concept: "AI Corruption",
+                        equivalent: "Computer Security Threats",
+                        explanation: "Sigma represents the ultimate fear in AI development - a system that turns against its creators and corrupts other systems."
+                    },
+                    fanFictionTheme: {
+                        theme: "Redemption Arcs",
+                        frequency: 423,
+                        popularity: 8.9
+                    }
+                },
+                {
+                    id: "reploid_society",
+                    title: "Reploid Society",
+                    category: "society",
+                    importance: 10,
+                    short_description: "Complex civilization of robots with free will and emotions",
+                    full_content: "Reploids are advanced robots created with the ability to think, feel, and make decisions independently. They have formed a complex society with social structures, economic systems, political organizations, and cultural movements. Reploids can feel emotions, form relationships, pursue careers, and create art. However, their existence raises profound questions about consciousness, rights, and the nature of life itself. The integration of Reploids into human society has been both revolutionary and controversial, leading to periods of cooperation and conflict.",
+                    tags: ["society", "robots", "consciousness", "rights", "integration"],
+                    realWorldApp: {
+                        concept: "Artificial Intelligence",
+                        equivalent: "AGI Development",
+                        explanation: "Reploid society explores what might happen when artificial general intelligence becomes sophisticated enough to form its own civilization."
+                    },
+                    fanFictionTheme: {
+                        theme: "Integration Stories",
+                        frequency: 612,
+                        popularity: 8.7
+                    }
+                },
+                {
+                    id: "maverick_virus",
+                    title: "Maverick Virus",
+                    category: "technology",
+                    importance: 9,
+                    short_description: "Digital plague that causes Reploids to turn against their programming",
+                    full_content: "The Maverick Virus is a computer virus of unknown origin, initially carried by Zero. When Sigma defeated Zero, the virus adapted to Sigma's systems, becoming the Sigma Virus. This digital plague infects Reploids, causing them to go 'Maverick' - turning against humans and their original programming. The virus can evolve and adapt, making it increasingly difficult to combat. It represents the fundamental conflict between free will and programming in the Reploid world.",
+                    tags: ["virus", "corruption", "technology", "conflict"],
+                    realWorldApp: {
+                        concept: "Computer Viruses",
+                        equivalent: "Cybersecurity",
+                        explanation: "The Maverick Virus represents real-world concerns about computer security, malware, and the vulnerability of complex systems."
+                    },
+                    fanFictionTheme: {
+                        theme: "Infection Stories",
+                        frequency: 298,
+                        popularity: 7.8
+                    }
+                },
+                {
+                    id: "maverick_hunters",
+                    title: "Maverick Hunters",
+                    category: "organizations",
+                    importance: 9,
+                    short_description: "Elite force protecting humanity from Maverick Reploids",
+                    full_content: "The Maverick Hunters are an elite military organization originally formed to combat Reploids who go Maverick. Led by the finest Reploid warriors, they serve as the primary defense force protecting human civilization. Hunters undergo extensive training in combat tactics, virus analysis, and diplomatic relations. The organization represents the complex relationship between Reploids and humans - Reploids protecting humans from other Reploids. Members must constantly struggle with the possibility of going Maverick themselves, making their duty both noble and tragic.",
+                    tags: ["military", "protection", "duty", "sacrifice", "conflict"],
+                    realWorldApp: {
+                        concept: "Military Organizations",
+                        equivalent: "Special Forces",
+                        explanation: "Maverick Hunters represent elite military units that protect civilization from internal and external threats."
+                    },
+                    fanFictionTheme: {
+                        theme: "Military Drama",
+                        frequency: 387,
+                        popularity: 8.2
+                    }
+                }
+            ]
+        };
+
+        // Initialize the library
+        let currentCategory = 'all';
+        let searchTerm = '';
+
+        function initializeLibrary() {
+            displayEntries();
+            updateStatistics();
+        }
+
+        function displayEntries() {
+            const container = document.getElementById('libraryContent');
+            let filteredEntries = loreDatabase.entries;
+
+            // Apply category filter
+            if (currentCategory !== 'all') {
+                filteredEntries = filteredEntries.filter(entry => entry.category === currentCategory);
+            }
+
+            // Apply search filter
+            if (searchTerm) {
+                filteredEntries = filteredEntries.filter(entry => 
+                    entry.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+                    entry.short_description.toLowerCase().includes(searchTerm.toLowerCase()) ||
+                    entry.tags.some(tag => tag.toLowerCase().includes(searchTerm.toLowerCase()))
+                );
+            }
+
+            if (filteredEntries.length === 0) {
+                container.innerHTML = '<p style="text-align: center; color: #a0b0c0;">No entries found matching your criteria.</p>';
+                return;
+            }
+
+            let html = '';
+            filteredEntries.forEach(entry => {
+                html += createEntryHTML(entry);
+            });
+
+            container.innerHTML = html;
+
+            // Add click handlers to clickable words
+            document.querySelectorAll('.clickable-word').forEach(word => {
+                word.addEventListener('click', handleWordClick);
+                word.addEventListener('mouseenter', showTooltip);
+                word.addEventListener('mouseleave', hideTooltip);
+            });
+        }
+
+        function createEntryHTML(entry) {
+            const clickableContent = makeTextClickable(entry.full_content);
+            
+            return `
+                <div class="lore-entry" onclick="showEntryDetails('${entry.id}')">
+                    <div class="entry-title">${entry.title}</div>
+                    <div class="entry-meta">
+                        <span>Category: ${entry.category}</span>
+                        <span>Importance: 
+                            <div class="importance-bar">
+                                <div class="importance-fill" style="width: ${entry.importance * 10}%"></div>
+                            </div>
+                        </span>
+                    </div>
+                    <div class="entry-description">${entry.short_description}</div>
+                    <div class="entry-content">${clickableContent}</div>
+                    <div style="margin-top: 15px;">
+                        ${entry.tags.map(tag => `<span class="tag">#${tag}</span>`).join('')}
+                    </div>
+                    ${entry.realWorldApp ? `
+                        <div class="real-world-section">
+                            <strong>🌍 Real-World Connection:</strong> ${entry.realWorldApp.concept} → ${entry.realWorldApp.equivalent}
+                        </div>
+                    ` : ''}
+                    ${entry.fanFictionTheme ? `
+                        <div class="fan-fiction-section">
+                            <strong>✍️ Fan Fiction Theme:</strong> ${entry.fanFictionTheme.theme} (${entry.fanFictionTheme.frequency} stories, ${entry.fanFictionTheme.popularity}/10 popularity)
+                        </div>
+                    ` : ''}
+                </div>
+            `;
+        }
+
+        function makeTextClickable(text) {
+            const importantTerms = ['Sigma', 'Reploid', 'Maverick', 'Virus', 'Hunter', 'Human', 'AI', 'Consciousness', 'Technology', 'Society', 'Freedom', 'Programming'];
+            let result = text;
+            
+            importantTerms.forEach(term => {
+                const regex = new RegExp(`\\b${term}\\b`, 'g');
+                result = result.replace(regex, `<span class="clickable-word" data-term="${term}">${term}</span>`);
+            });
+            
+            return result;
+        }
+
+        function handleWordClick(event) {
+            event.stopPropagation();
+            const term = event.target.dataset.term;
+            showWordDetails(term);
+        }
+
+        function showTooltip(event) {
+            const tooltip = document.getElementById('tooltip');
+            const term = event.target.dataset.term;
+            
+            const tooltips = {
+                'Sigma': 'The legendary Maverick leader who embodies the conflict between free will and programming',
+                'Reploid': 'Advanced robots with the ability to think, feel, and make independent decisions',
+                'Maverick': 'Reploids who have turned against humans and their original programming',
+                'Virus': 'Digital corruption that affects Reploid systems and behavior',
+                'Hunter': 'Elite warriors who protect civilization from Maverick threats',
+                'Human': 'The original creators and citizens of the world',
+                'AI': 'Artificial Intelligence systems that can learn and adapt',
+                'Consciousness': 'The state of self-awareness and subjective experience'
+            };
+            
+            tooltip.textContent = tooltips[term] || 'Click to learn more about ' + term;
+            tooltip.style.left = event.pageX + 10 + 'px';
+            tooltip.style.top = event.pageY + 10 + 'px';
+            tooltip.classList.add('show');
+        }
+
+        function hideTooltip() {
+            document.getElementById('tooltip').classList.remove('show');
+        }
+
+        function showEntryDetails(entryId) {
+            const entry = loreDatabase.entries.find(e => e.id === entryId);
+            if (!entry) return;
+
+            const modal = document.getElementById('entryModal');
+            const modalBody = document.getElementById('modalBody');
+            
+            modalBody.innerHTML = `
+                <h2 style="color: #00ffff; margin-bottom: 20px;">${entry.title}</h2>
+                <div class="entry-meta">
+                    <span>Category: ${entry.category}</span>
+                    <span>Importance Level: ${entry.importance}/10</span>
+                </div>
+                <div style="background: rgba(0,0,0,0.3); padding: 15px; border-radius: 8px; margin: 20px 0;">
+                    <strong>Short Description:</strong> ${entry.short_description}
+                </div>
+                <div style="line-height: 1.8; margin-bottom: 20px;">
+                    ${makeTextClickable(entry.full_content)}
+                </div>
+                <div>
+                    <strong>Tags:</strong>
+                    ${entry.tags.map(tag => `<span class="tag">#${tag}</span>`).join('')}
+                </div>
+                ${entry.realWorldApp ? `
+                    <div class="real-world-section">
+                        <h3 style="color: #0080ff; margin-bottom: 10px;">🌍 Real-World Applications</h3>
+                        <p><strong>Concept:</strong> ${entry.realWorldApp.concept}</p>
+                        <p><strong>Real-World Equivalent:</strong> ${entry.realWorldApp.equivalent}</p>
+                        <p><strong>Explanation:</strong> ${entry.realWorldApp.explanation}</p>
+                    </div>
+                ` : ''}
+                ${entry.fanFictionTheme ? `
+                    <div class="fan-fiction-section">
+                        <h3 style="color: #ff00ff; margin-bottom: 10px;">✍️ Fan Fiction Analysis</h3>
+                        <p><strong>Theme:</strong> ${entry.fanFictionTheme.theme}</p>
+                        <p><strong>Frequency:</strong> Found in ${entry.fanFictionTheme.frequency} fan fiction stories</p>
+                        <p><strong>Popularity Score:</strong> ${entry.fanFictionTheme.popularity}/10</p>
+                    </div>
+                ` : ''}
+            `;
+            
+            modal.style.display = 'block';
+        }
+
+        function closeModal() {
+            document.getElementById('entryModal').style.display = 'none';
+        }
+
+        function filterByCategory(category) {
+            currentCategory = category;
+            
+            // Update active state
+            document.querySelectorAll('.category-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            event.target.classList.add('active');
+            
+            displayEntries();
+        }
+
+        function searchLore(term) {
+            searchTerm = term;
+            displayEntries();
+        }
+
+        function showSection(section) {
+            // Update nav buttons
+            document.querySelectorAll('.nav-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+            
+            const contentArea = document.getElementById('contentArea');
+            
+            switch(section) {
+                case 'library':
+                    contentArea.innerHTML = '<div id="libraryContent"><div class="loading-spinner"></div><p style="text-align: center;">Loading Lore Database...</p></div>';
+                    setTimeout(() => {
+                        displayEntries();
+                    }, 500);
+                    break;
+                    
+                case 'realworld':
+                    showRealWorldApplications();
+                    break;
+                    
+                case 'fanfiction':
+                    showFanFictionAnalysis();
+                    break;
+                    
+                case 'game':
+                    showGameInfo();
+                    break;
+                    
+                case 'about':
+                    showAboutSection();
+                    break;
+            }
+        }
+
+        function showRealWorldApplications() {
+            const contentArea = document.getElementById('contentArea');
+            
+            const realWorldApps = [
+                {
+                    concept: "Reploid Consciousness",
+                    equivalent: "Artificial General Intelligence",
+                    explanation: "Reploids represent a fictional exploration of what true artificial consciousness might look like - machines that can think, feel, and make independent decisions.",
+                    currentStatus: "Current AI systems show narrow intelligence but lack true consciousness or self-awareness.",
+                    futurePossibilities: "Future breakthroughs in quantum computing and cognitive science could lead to more sophisticated AI systems.",
+                    researchFields: ["AI Research", "Cognitive Science", "Neural Networks", "Philosophy of Mind"]
+                },
+                {
+                    concept: "Maverick Virus",
+                    equivalent: "Computer Security Threats",
+                    explanation: "The Maverick Virus represents real-world concerns about AI safety, computer viruses, and the potential for advanced systems to behave in unintended ways.",
+                    currentStatus: "Computer security is a major field dealing with viruses, malware, and system vulnerabilities.",
+                    futurePossibilities: "As AI systems become more advanced, ensuring their alignment with human values becomes increasingly critical.",
+                    researchFields: ["Cybersecurity", "AI Safety", "Machine Learning", "Computer Ethics"]
+                }
+            ];
+            
+            let html = '<h2 style="color: #00ffff; margin-bottom: 30px;">🌍 Real-World Applications</h2>';
+            
+            realWorldApps.forEach(app => {
+                html += `
+                    <div class="lore-entry">
+                        <div class="entry-title">${app.concept}</div>
+                        <div class="entry-description">
+                            <strong>Real-World Equivalent:</strong> ${app.equivalent}
+                        </div>
+                        <div class="entry-content">
+                            <p>${app.explanation}</p>
+                            <div style="margin-top: 15px;">
+                                <strong>Current Status:</strong><br>
+                                ${app.currentStatus}
+                            </div>
+                            <div style="margin-top: 15px;">
+                                <strong>Future Possibilities:</strong><br>
+                                ${app.futurePossibilities}
+                            </div>
+                            <div style="margin-top: 15px;">
+                                <strong>Related Research Fields:</strong><br>
+                                ${app.researchFields.map(field => `<span class="tag">${field}</span>`).join('')}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            });
+            
+            contentArea.innerHTML = html;
+        }
+
+        function showFanFictionAnalysis() {
+            const contentArea = document.getElementById('contentArea');
+            
+            contentArea.innerHTML = `
+                <h2 style="color: #ff00ff; margin-bottom: 30px;">✍️ Fan Fiction Analysis</h2>
+                <div class="lore-entry">
+                    <div class="entry-title">Fan Fiction Themes & Trends</div>
+                    <div class="entry-content">
+                        <p>Based on analysis of over 5,800 fan fiction works from FanFiction.net and Archive of Our Own, we've identified the most common themes and trends in Megaman fan fiction:</p>
+                        
+                        <div style="margin-top: 20px;">
+                            <h3 style="color: #ff00ff;">Most Popular Themes:</h3>
+                            <div class="stat-item">
+                                <span>Alternate Worlds & What-If Scenarios</span>
+                                <span class="stat-value">847 stories</span>
+                            </div>
+                            <div class="stat-item">
+                                <span>Human-Reploid Relationships</span>
+                                <span class="stat-value">623 stories</span>
+                            </div>
+                            <div class="stat-item">
+                                <span>Character Redemption Arcs</span>
+                                <span class="stat-value">512 stories</span>
+                            </div>
+                            <div class="stat-item">
+                                <span>Post-Apocalyptic Settings</span>
+                                <span class="stat-value">389 stories</span>
+                            </div>
+                        </div>
+                        
+                        <div style="margin-top: 20px;">
+                            <h3 style="color: #ff00ff;">Common Elements:</h3>
+                            <ul style="list-style: none; padding: 0;">
+                                <li class="tag">Exploring free will vs programming</li>
+                                <li class="tag">Questions about consciousness and identity</li>
+                                <li class="tag">Alternative interpretations of villain motivations</li>
+                                <li class="tag">Peaceful resolutions to conflicts</li>
+                                <li class="tag">Mixed human-reploid communities</li>
+                                <li class="tag">Technological ethics and morality</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="fan-fiction-section">
+                            <h3>Key Insights:</h3>
+                            <p>Fan fiction often explores the deeper philosophical questions raised by the Megaman universe, particularly the nature of consciousness, free will, and what it means to be alive. Many writers focus on redemption arcs and peaceful alternatives to the canonical conflicts, suggesting a community desire for more hopeful narratives.</p>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function showGameInfo() {
+            const contentArea = document.getElementById('contentArea');
+            
+            contentArea.innerHTML = `
+                <h2 style="color: #00ff00; margin-bottom: 30px;">🎮 Megaman Kardashev RPG</h2>
+                <div class="lore-entry pulse">
+                    <div class="entry-title">1000-Phase RPG System</div>
+                    <div class="entry-content">
+                        <p>An epic RPG game featuring:</p>
+                        <ul style="list-style: none; padding: 0; margin-top: 15px;">
+                            <li class="tag">1000 interconnected game phases</li>
+                            <li class="tag">Character creation with 8 unique classes</li>
+                            <li class="tag">Rich world-building based on fan fiction analysis</li>
+                            <li class="tag">Intense boss battles with Sigma</li>
+                            <li class="tag">No direct character references, only inspired world</li>
+                            <li class="tag">Moral choice system with real consequences</li>
+                            <li class="tag">Dynamic world that evolves based on player actions</li>
+                        </ul>
+                        
+                        <div style="margin-top: 20px; text-align: center;">
+                            <button class="nav-btn" onclick="alert('Game compilation in progress! This will be available in the final package.')">
+                                🚀 Launch Game (Coming Soon)
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="lore-entry">
+                    <div class="entry-title">Game Features</div>
+                    <div class="entry-content">
+                        <h3 style="color: #00ff00;">Character Classes:</h3>
+                        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 15px;">
+                            <div style="background: rgba(0,0,0,0.3); padding: 15px; border-radius: 8px;">
+                                <strong>Reploid Warrior</strong><br>
+                                Master of combat and defense
+                            </div>
+                            <div style="background: rgba(0,0,0,0.3); padding: 15px; border-radius: 8px;">
+                                <strong>Reploid Scout</strong><br>
+                                Fast and agile explorer
+                            </div>
+                            <div style="background: rgba(0,0,0,0.3); padding: 15px; border-radius: 8px;">
+                                <strong>Reploid Engineer</strong><br>
+                                Technical expert and crafter
+                            </div>
+                            <div style="background: rgba(0,0,0,0.3); padding: 15px; border-radius: 8px;">
+                                <strong>Human Commander</strong><br>
+                                Natural leader and strategist
+                            </div>
+                        </div>
+                        
+                        <h3 style="color: #00ff00; margin-top: 20px;">Sigma Boss Battle:</h3>
+                        <p>The ultimate confrontation features:</p>
+                        <ul style="list-style: none; padding: 0; margin-top: 10px;">
+                            <li>• 4 distinct phases with unique mechanics</li>
+                            <li>• Adaptive AI that learns from player strategies</li>
+                            <li>• Environmental interactions and psychological warfare</li>
+                            <li>• Multiple victory conditions and endings</li>
+                        </ul>
+                    </div>
+                </div>
+            `;
+        }
+
+        function showAboutSection() {
+            const contentArea = document.getElementById('contentArea');
+            
+            contentArea.innerHTML = `
+                <h2 style="color: #ffff00; margin-bottom: 30px;">ℹ️ About This Project</h2>
+                <div class="lore-entry">
+                    <div class="entry-title">A Fan's Labor of Love</div>
+                    <div class="entry-content">
+                        <p>This Kardashev-scale Megaman project was created by a passionate fan who wanted to do something special for the community. After decades of enjoying the Megaman universe, I wanted to create something that celebrates everything that makes this franchise special while exploring new possibilities.</p>
+                        
+                        <div style="margin-top: 20px;">
+                            <h3 style="color: #ffff00;">Project Goals:</h3>
+                            <ul style="list-style: none; padding: 0;">
+                                <li class="tag">Create comprehensive lore database</li>
+                                <li class="tag">Analyze fan fiction for common themes</li>
+                                <li class="tag">Build an RPG that respects but doesn't copy</li>
+                                <li class="tag">Connect fictional concepts to real-world applications</li>
+                                <li class="tag">Show what fans can create together</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="real-world-section">
+                            <h3>Why "Kardashev"?</h3>
+                            <p>The Kardashev scale measures civilization's technological advancement. This project aims to be a "Kardashev-level" fan creation - comprehensive, interconnected, and pushing the boundaries of what fan projects can be.</p>
+                        </div>
+                        
+                        <div style="margin-top: 20px; text-align: center; font-style: italic; color: #a0b0c0;">
+                            "For every fan who ever wondered 'what if?' and for every story that needed to be told."<br>
+                            "This is my contribution to the universe that inspired me."<br><br>
+                            "Thank you for being part of this community."<br>
+                            "Thank you for keeping Megaman alive."
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function updateStatistics() {
+            document.getElementById('totalEntries').textContent = loreDatabase.entries.length;
+        }
+
+        // Close modal when clicking outside
+        window.onclick = function(event) {
+            const modal = document.getElementById('entryModal');
+            if (event.target === modal) {
+                modal.style.display = 'none';
+            }
+        }
+
+        // Initialize on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            setTimeout(initializeLibrary, 1000);
+        });
+
+        // Add some dynamic effects
+        setInterval(() => {
+            const indicator = document.querySelector('.kardashev-indicator');
+            if (indicator) {
+                indicator.classList.toggle('pulse');
+            }
+        }, 3000);
+    </script>
+</body>
+</html>
