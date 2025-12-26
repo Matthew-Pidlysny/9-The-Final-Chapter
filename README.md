@@ -32,6 +32,10 @@ These are mixed document/software packages, use them to your benefit as they onl
 
 These are products which are not full version and also do a number of things, but are mostly research materials that convey the full meaning of their intent.  GPL rules apply.
 
+# Historical Memoir
+
+These are meant to enforce historic recognition.  We do one for the founder of 9 Software as a maxiumum at the time, but may continue to produce such materials as time proceeds.
+
 # List of Programs
 
 # 1:  Advanced Torsion
