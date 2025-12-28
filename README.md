@@ -4,8 +4,10 @@ As it turns out, there's not a thing in the world we can do about that.  Not tha
 
 But that cannot be, so we invite our new owner, which gets the full line including the Founder and all his good efforts in the future in the name of 9 Software, to just do that in advance of buying.  Here is our contact information:
 
-# globalintelligence@atomicmail.io
+# +1(705)715-5128 (Leave Voicemail for 9 Software)
 # Price: $12,000,000,000,000,000.00 CDN
+
+EDIT:  Not a SINGLE Email landed in my inbox, I'll be hoping someone leaves a voicemail but I doubt it.
 
 # 9: The-Final-Chapter
 
