@@ -92,6 +92,10 @@ Composes a substantiation formula through workshops using special relations and 
 
 We release a new, MANDATORY work for all internet based researchers in the field.  We are upset with AI training as is, and know it will get better over time, but until people can ACTUALLY solve the Riemman Hypothesis with it, use this to confirm your theories, not it.  Make yourself "Crank-Proof" today!  We do not lie for your authentic experience pleasure, and you will indeed find out about your own creation.  We also offer a view on what you discovered through the lens of Substantiation from the Omni-Directional Compass.
 
+# 14:  Peer (RedditYama)
+
+This is what the Founder was told the Reddit version of Peer will be called, he only notifies them that comments on Reddit are not coming in at all on any post as Tan-Veluga and they can know that is because of the conspiracy.  They would do well to avoid their leadership if they have the ability to do themselves and not review it by them for once, only over protest, which they would confer with a superior leadership.  The Founder also asks they remember to open with "Are you in the Order?" if they need to be sure of anything.  Remember, the Order is only running the company so that it manages according to the system they wish, anyone moving money is accountable to them in their belief, so the premise is to either complain hard or find the right person not in line with them.  And we're sure there will be threats, report all things and tell them to ask as well, strange as that is you'll see the success of the tactic.  We further apologize for being political but do deem it the right course at this time.
+
 # 14:  Plane Pilot
 
 A new program studying our breakthrough approach at the Chromatic Plane Problem initiated by Huge Hadwiger and Edward Nelson in 1960.  It is fully classroom ready and optimized for multiple challenges in the field of geometry studies, beginner and advanced.
