@@ -1,0 +1,92 @@
+{
+  "integration_test": {
+    "timestamp": "2025-12-25T04:15:31.117692",
+    "duration_seconds": 8.367133378982544,
+    "tests_passed": 4,
+    "tests_total": 10,
+    "success_rate": 0.4
+  },
+  "system_components": {
+    "cloud_storage": "initialized",
+    "scientific_features": "initialized",
+    "root_visualization": "initialized"
+  },
+  "test_results": {
+    "Cloud Storage Integration": {
+      "status": "PASSED",
+      "result": {
+        "providers_configured": 4,
+        "tutorial_completeness": "comprehensive",
+        "features": [
+          "multi_provider",
+          "compression",
+          "encryption",
+          "tutorials"
+        ]
+      },
+      "error": null
+    },
+    "Substantiation Validator": {
+      "status": "FAILED",
+      "result": null,
+      "error": "'algebraic_validity'"
+    },
+    "Math Error Detector": {
+      "status": "FAILED",
+      "result": null,
+      "error": "'decimal.Decimal' object is not subscriptable"
+    },
+    "Scientific Features Generator": {
+      "status": "PASSED",
+      "result": {
+        "total_features": 23635,
+        "fields_covered": 15,
+        "validation_types": 10,
+        "complexity_levels": 5,
+        "target_achieved": true
+      },
+      "error": null
+    },
+    "Enhanced Peer System Core": {
+      "status": "FAILED",
+      "result": null,
+      "error": "'decimal.Decimal' object is not subscriptable"
+    },
+    "ROOT Visualization": {
+      "status": "PASSED",
+      "result": {
+        "snapshot_created": true,
+        "visualizations_generated": 3,
+        "root_style_compliance": "verified"
+      },
+      "error": null
+    },
+    "GUI Components": {
+      "status": "PASSED",
+      "result": {
+        "gui_framework": "tkinter",
+        "modern_styling": "implemented",
+        "visualization_integration": "complete",
+        "status": "limited (likely no display): 'decimal.Decimal' object is not subscriptable"
+      },
+      "error": null
+    },
+    "Complete Workflow Integration": {
+      "status": "FAILED",
+      "result": null,
+      "error": "'decimal.Decimal' object is not subscriptable"
+    },
+    "Performance Benchmarks": {
+      "status": "FAILED",
+      "result": null,
+      "error": "'decimal.Decimal' object is not subscriptable"
+    },
+    "Error Handling and Recovery": {
+      "status": "FAILED",
+      "result": null,
+      "error": "'decimal.Decimal' object is not subscriptable"
+    }
+  },
+  "performance_metrics": {},
+  "system_status": "needs_review"
+}
