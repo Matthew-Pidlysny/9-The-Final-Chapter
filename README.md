@@ -116,6 +116,10 @@ Hey Kids!  Wanna learn something REAL neat over the rest of the year?  Well, you
 
 Experience Esotericism on a level unseen!  With this new addition to the Kardashev line, and using our custom Stargazer graphics software, we make a VR capable game that is built to have everyone thinking twice, in an ethical way!
 
+# 20:  Star Wars (Name TBD)
+
+As we are told, a particular fork asked me to stop working on this so their beautiful, and we mean BEAUTIFUL proposition, goes through.  All we can say, for Disney's sake, is that we can't see the forks, check the Satire folder for that, but we argue that we somehow know they are doing it anyway, and only ask you take them seriously on account of good faith.  We accept their proposal wholehandedly, and you should too.
+
 # 20:  The Dark Continent
 
 Taking a pause from Education itself, the founder of 9 Software has shared his private creation with AI, and together, the research processor and guide pair created this game.  No spoilers, but it's a 5 player board game software engine revolving around the concept of the "Trump Card".  Maybe education in strategy via force x force battle style.  And, if you don't like to "fight", choose the right player!
