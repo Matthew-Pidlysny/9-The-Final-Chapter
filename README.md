@@ -1,3 +1,12 @@
+# 9 Software is For Sale!
+
+As it turns out, there's not a thing in the world we can do about that.  Not that we can't keep doing this, we'll ALWAYS be putting out FREE GPL SOFTWARE, but unfortunately, our plans have expired.  It is now impossible for us to set up an IPO as we wished with the product line, and we'll explain.  We intended to get an IPO going over a company which WOULD be 9 Software essentially, but more or less just the idea of it, to put it one way.  Our marketing would have been the rave rating over the compilations and modifications, proving our value.  I guess the rest would follow, once the code became owned by someone else, the same rules would apply and they would only confirm with the new owners that they were making editions of the program bases.  That would connect the line with the market, and the rest would follow itself.
+
+But that cannot be, so we invite our new owner, which gets the full line including the Founder and all his good efforts in the future in the name of 9 Software, to just do that in advance of buying.  Here is our contact information:
+
+# globalintelligence@atomicmail.io
+# Price: $12,000,000,000,000,000.00 CDN
+
 # 9: The-Final-Chapter
 
 Welcome to 9 Software!  This repository is a dedicated host to numerous programs that test the boundaries of normal mathematics and the natural sciences.  Our software includes breathrough
