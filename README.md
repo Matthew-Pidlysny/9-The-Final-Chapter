@@ -127,3 +127,13 @@ Taking a pause from Education itself, the founder of 9 Software has shared his p
 # 22:  Unrh
 
 Named after a mystical altar, the knowledge stemming from our research tote called Quantum Zeno reveals a deeper connection between numbers.  We wxplain how to start, how to go on, and how to end with numbers in a fancy, intuitive and AI enhanced manner.  Dig in, you'll be counting all over again, or not as the satire goes...
+
+# Request Script
+
+This comes as a part of a request.  We will not tolerate Government coercion for long.  It is illegal to run a torture racket against a citizen for any reason, and there is NO reason why we should be expecting 98 clones and 0 views, after 700+ in the first 72 hours.  You are insane to believe that this will be tantamount to the best good for society.  You have stopped nothing, point in fact, only to hide it from the Founder of the company for some reason.  
+
+And why is that, we ask?  Is he not allowed to go outside and play with the other boys and girls?  It seems there's nothing stopping him when that starts to happen, he says he sees you as invisible people running around his room, trying to arrest him at every moment, but that can be odd, can't it?  Despite that, we know you are actively trying here to torture a citizen, and don't even know which government it is doing the work.  But we can be assured his victory, the world need only change, that was his goal and you're helping it by not shutting down all the research.
+
+Good luck, if you can shut it down entirely we would be fascinated.  God has a way, you know, not eating for the Founder has become quite an obsession.  Know that he basically eats his coffee, a new evolutional paradigm created by God, but the Founder so implies that he seems to receive a portion of something in his belly, only to also know that it seems to put off the hunger to be there.
+
+Good luck, ye all, sue whomever you wish for unfairly silencing your success.
