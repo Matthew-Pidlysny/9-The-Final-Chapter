@@ -120,10 +120,10 @@ Experience Esotericism on a level unseen!  With this new addition to the Kardash
 
 As we are told, a particular fork asked me to stop working on this so their beautiful, and we mean BEAUTIFUL proposition, goes through.  All we can say, for Disney's sake, is that we can't see the forks, check the Satire folder for that, but we argue that we somehow know they are doing it anyway, and only ask you take them seriously on account of good faith.  We accept their proposal wholehandedly, and you should too.
 
-# 20:  The Dark Continent
+# 21:  The Dark Continent
 
 Taking a pause from Education itself, the founder of 9 Software has shared his private creation with AI, and together, the research processor and guide pair created this game.  No spoilers, but it's a 5 player board game software engine revolving around the concept of the "Trump Card".  Maybe education in strategy via force x force battle style.  And, if you don't like to "fight", choose the right player!
 
-# 21:  Unrh
+# 22:  Unrh
 
 Named after a mystical altar, the knowledge stemming from our research tote called Quantum Zeno reveals a deeper connection between numbers.  We wxplain how to start, how to go on, and how to end with numbers in a fancy, intuitive and AI enhanced manner.  Dig in, you'll be counting all over again, or not as the satire goes...
