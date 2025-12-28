@@ -4,7 +4,7 @@ Welcome to 9 Software!  This repository is a dedicated host to numerous programs
 innovations in the field, from a revolutionary stance on sequential numeration through observations on the Hadwiger-Nelson Chromatic Plane, to a breakthrough development on Primes via a
 revolutionary method of calculating "The Half Line", to many more.
 
-Make sure all programs meet your criteria align properly.  These programs are provided as Open Source, free to use and distribute and modify under the General Public License, and we
+Make sure all programs meet your criteria, and align properly.  These programs are provided as Open Source, free to use and distribute and modify under the General Public License, and we
 do appreciate feedback.  Modify all programs as you need and deploy, we only require that our mention be made in the process and in the aftermath.  All forks and other participation 
 efforts are welcome.
 
