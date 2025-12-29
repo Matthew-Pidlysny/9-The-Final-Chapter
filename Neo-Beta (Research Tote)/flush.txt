@@ -1,0 +1,7 @@
+Rule for P(x)
+
+When x = x * 169 * u
+
+Whereas u = Integer
+
+P(x) is rational in this case, and a flush number.  Convene the residues appropriately.  And also, if u is integer, consider this a reference, but in a way to be discovered (Courtesy of the subsconscious).
