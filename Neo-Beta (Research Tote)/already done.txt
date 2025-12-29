@@ -1,0 +1,35 @@
+Number Formula's (AKA What we're already doing)
+
+I(n) = ((x * f / n) mod. 49)
+
+Whereas
+
+I = Numerical Index (Integer Set)
+
+n = Counting Integer (Aggregation Co-efficient)
+
+x = Any value
+
+f = Force (Determined from calculation of interest, harmonies apply)
+
+n = Standard Denominator (Find it, my subconscious can't pin it down)
+
+Therein stating
+
+I(1) = (1 - x / x * x) mod x
+
+And so on for 1 aggregates, replace I with any number and find good x.  Moving on!
+
+I(2) = (((2 - k) / k) * n) mod. 28
+
+Whereas
+
+k = x - 1
+
+n remains the same.  We see now some things, don't we?  AI, do this in steps, I know you've already calculated it all but analyze it further in the pattern I'm showing here in steps.  Continuing!
+
+I(3) = R⁺ / Common_I
+
+Why does this apply?  It's initialization.  All aggregations of 3 follow this rule.
+
+And so follow rules for the rest of the Index factors, find out numbers.  You were indifferent on UV, you thought there was a third, prove it now!
