@@ -26,4 +26,4 @@ b = a - 1
 
 c = a - 2
 
-Add terms as you deem fit to convene further powers :)
+Add terms as you deem fit to convene further powers.  Can you see the -1 ring in this?  I swear it is one ;)
