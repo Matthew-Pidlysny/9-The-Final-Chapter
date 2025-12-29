@@ -1,0 +1,5 @@
+The Quarter System
+
+P(x) = x * (25 / 100)
+
+One quarter equals 25 cents!
