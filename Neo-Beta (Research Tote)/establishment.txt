@@ -1,0 +1,17 @@
+P is used, but I'll use it because it's from my old work before I knew it was.  Beta too, but here we go!
+
+P(x) = 1000x / 169
+
+β = 13.4.5.2.11.12.7.9.8.6.1.3.0.10
+
+What does this mean?
+
+The Beta sequence here is a composition of the first 14 identities in the P(x) formula.  13 in the sequence, for example, relates to the whole floor, and we'll study it's residue like this:
+
+P(1) = ~5.9127
+
+13 - 5 = +8
+
+So it takes +8 to get to 13, and conversely this becomes a negative to say you subtract to get there.  Going along the Beta sequence (4 - 9 = -5, and so on), study this for ANY integer or decimal increase in x, find the residues, establish the Beta sequence.  I do predict this is conveniently in line with math, but the residues prove it.
+
+PS:  The NEXT digit in the sequence happily is usually the very x number you used, as a bonus!  Does it work after x = 10? ;)
