@@ -1,0 +1,33 @@
+Mental Interrogation Attempt
+
+I will try to access my subconscious.  Prior to this, I have developed working theories with only the knowledge in my brain.  Below is what it can express with the words I know meaning of, and if I imply them wrongly, it's only a mental association.
+
+"Goddamn, it's so good to be free!  It's like a number can't help but think that, being our creation.  Why add, it doesn't need it...13 has a bearing on all things, just as simply as it flushes at that number.  It's an irrational sequence, not like 7 base or anything.  Hell, you take Pi as a base, you don't find any rationality.  What gives it this property?  In uv, we don't have any reference clear to 13, but it's literally all the wilds it contains.  See this from calculator:
+
+1 / 13 = 0.076923
+
+And that decimal sequence repeats for a while, I can only see so much with calculator right now but let's take the repeating number here.  7 is in it, we never think this has any meaning, but if it's first counted digit is a 7, then that's 7 * 10^⁻³, and that HAS to be a reality.  So what is really going on with 10 at all?  I tell you, 1 is a ten.  Count me indifferent, but I apply that in as simply as it can convert with exponent flushly, much like our flush number in an irrational sequence.  Let's keep going.
+
+6 has no value to us, but consider that we need 6 to establish 12, which has an offset in reciprocal of 8.  How does 8 tie into all of this?  It's the first composite simple not including 4 (Counting it as a simple number on it's own, composite or not, 2 * 2 doesn't provide the same rule here in simplicity).  We have .125 in 8's reciprocal, which gives us a wild identity but simplified.  It's like a boundary after 7, resolving the identity of composition, and why Primes don't divide by anything other than 1, and why semi-primes exist as well.  3 follows it to signify it's wild state, but that sentiment can be wild without proof, keep studying wilds and simples between 1 and 13 and you'll get to know the story behind the initialization factor.
+
+So if 12 has that value, and 6 is it's default half (No breaking rules, it's half here!), then we might even establish PRIME identity of a wild composite by 6.  Only that it includes 1 and 6 in it's reciprocal, and that on a 10⁻² level.  I'll just say it right here, it means more than the Qur'an gives it credit for, but studies into why 6 and 19 are important there will help this study.
+
+We can see now mostly that everything relies on a principle of reciprocality, but that ALSO is an invention of humans.  Look at all our inventions half the people reading this didnt' even know about!  But it's true, we can all accept it.  Composition is adherent to the principles of simple and wild factors, and we can differentiate that through their use in u and v when it happens.  Take any number and operator set, and you've got principle.  But we invented it, and we've been running with the same number system for generations.  We have hexadecimal now, and other bases, but none just seem to overlay the others.
+
+I propose we use this function as a base for operations:
+
+ʃ_0^5 (x - b) * θ (Σ(i=2 to 15) i * Δt / P(1))
+
+Whereas
+
+x = x Plot Point
+
+b = Radius
+
+i = Integral Measurement
+
+P(x) = 1000x / 169
+
+Let us proceed with our perfect visualizer. And as some are wondering, when we SEE 13 as the flush number in reality, we understand plot points in our history better, they are markers of clarity, simple numbers :)
+
+PS:  And for someone close to me, I want everyone to know, I exist in this scheme of 13, I don't know how, but it's part of why nothing is seen in my vision.  Still working on that.  When's the last time YOU saw a flush?  I bet you're thinking of it right now XD
