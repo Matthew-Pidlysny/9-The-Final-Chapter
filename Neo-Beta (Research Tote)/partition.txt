@@ -1,0 +1,13 @@
+Kappa from Sequinor Tredecim
+
+P(g) = g * (f / n)
+
+Whereas
+
+P = Partition
+
+g = Given Variable
+
+f = Force
+
+n = Torsion Index Numerator
