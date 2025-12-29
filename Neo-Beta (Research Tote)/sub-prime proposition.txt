@@ -1,0 +1,29 @@
+The Sub Prime Proposition
+
+A number that is always divisible by x - 1 to form the square root of the original higher power in the sequence xᵃ - xᵇ
+
+Action:
+
+(x² - x) / k = x
+
+Or, for x between 0 and 1 in at least the positive range as tested:
+
+(x² - k) / x - 1 = x
+
+But consequentially, this can be so in many cases, so to speak:
+
+(xᵃ - xᵇ) / (k * xᶜ) = x
+
+Whereas
+
+x = Identity Value
+
+k = x - 1
+
+a = Sought Determinant
+
+b = a - 1
+
+c = a - 2
+
+Add terms as you deem fit to convene further powers :)
