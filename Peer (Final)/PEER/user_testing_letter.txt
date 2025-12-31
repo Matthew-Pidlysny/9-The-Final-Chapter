@@ -1,0 +1,90 @@
+User Testing Letter: Peerx Experience Report
+
+To: Peerx Development Team
+From: Sarah Chen, Novice User (High School Physics Student)
+Date: January 15, 2025
+Subject: My Experience Testing Peerx
+
+---
+
+Dear Peerx Development Team,
+
+I wanted to share my experience testing your Peerx system. I'm a high school student taking AP Physics, and I'm not very good at math or programming. My teacher recommended I try Peerx to help with my homework.
+
+What Helped Me:
+
+1. OUT-OF-SCOPE DETECTION SAVED ME
+   At first, I didn't know what to type. I tried asking "What's the best way to study for physics?" and Peerx politely told me it's for formulas, not study tips. This was actually helpful because it set clear expectations.
+
+2. THE STUCK BUTTON WAS A LIFESAVER
+   I was trying to enter "force equals mass times acceleration" but I kept getting it wrong. The stuck button helped me format it as "F = m * a". It didn't solve it for me (which I later learned is intentional), but it helped me enter it correctly.
+
+3. VARIABLE DETECTION WAS COOL
+   When I typed "v", Peerx showed me it could mean velocity, voltage, or volume. Since I was doing physics, I knew it was velocity. This helped me understand that variables have different meanings in different contexts.
+
+4. THE BASIC MODE WAS CONFUSING AT FIRST
+   I started in Basic mode, but I found myself wanting more details. When I switched to Standard mode, I got better explanations. Maybe Basic mode should ask users if they want to see more details?
+
+5. UNIT DETECTION HELPED ME CHECK MY WORK
+   I typed "50 km/h" and Peerx detected it as velocity. This helped me realize I was mixing up speed and velocity in one of my problems.
+
+Where Peerx Failed Me:
+
+1. I COULDN'T FIGURE OUT HOW TO GET ACTUAL ANSWERS
+   I entered "F = m * a" and Peerx analyzed it, but it didn't tell me what F is when m=10 and a=5. I had to use a calculator. I thought Peerx would solve problems?
+
+2. THE INTERFACE WAS OVERWHELMING
+   There were too many options and buttons. I'm a high school student, not a scientist. I just want to enter my formula and get an answer.
+
+3. NO HANDWRITING INPUT
+   I had a handwritten formula in my notebook and wanted to enter it, but I couldn't. I had to type it, which was tedious.
+
+4. GREEK LETTERS WERE CONFUSING
+   I tried typing "theta" but wasn't sure if I should use the symbol θ or the word. Peerx recognized both, but it wasn't clear which was better.
+
+5. NO STEP-BY-STEP EXPLANATIONS
+   When Peerx validated my formula, it just said "Valid." I didn't understand why it was valid or what the formula meant.
+
+6. ERROR MESSAGES WERE TOO TECHNICAL
+   I made a mistake and Peerx said "Unbalanced parentheses." I didn't know what that meant. It would have helped to show me exactly where the problem was.
+
+7. COULDN'T SAVE MY WORK
+   I had a homework assignment with 5 formulas, but I couldn't save them to come back later. I had to re-enter everything.
+
+8. NO EXAMPLES TO GET STARTED
+   I stared at the empty input field for 5 minutes not knowing what to type. A few example formulas would have helped.
+
+9. COLOR CODING WASN'T CLEAR
+   Peerx colored variables and units differently, but I didn't know what the colors meant. There was no legend.
+
+10. COULDN'T EXPORT RESULTS
+   I wanted to copy my results to put in my homework, but there was no export or copy button.
+
+My Specific Example:
+
+I was working on a problem: "A car accelerates from 0 to 60 mph in 10 seconds. What is the acceleration?"
+
+I tried to enter: "acceleration = (60 - 0) / 10"
+Peerx said: "Valid formula"
+But then nothing happened. I didn't know what to do next.
+
+I tried the stuck button and typed: "I need to find acceleration when velocity changes from 0 to 60 mph in 10 seconds"
+Peerx suggested: "acceleration = (60 - 0) / 10 mph/s"
+That helped, but I still had to do the math myself (6 mph/s, which I then had to convert to m/s²).
+
+Overall Thoughts:
+
+Peerx seems like it would be great for someone who knows what they're doing, but for a novice like me, it was frustrating. I wanted answers, not just validation. Maybe there's a mode that actually solves problems for beginners? Or maybe I'm just not the target audience.
+
+Thank you for letting me test Peerx. I hope my feedback helps.
+
+Sincerely,
+Sarah Chen
+
+---
+
+Additional Notes:
+- I spent about 2 hours trying to get Peerx to help with my homework
+- I gave up on 3 of my 5 problems
+- I ended up using a regular calculator for most of my work
+- I might try Peerx again if it had more beginner-friendly features
