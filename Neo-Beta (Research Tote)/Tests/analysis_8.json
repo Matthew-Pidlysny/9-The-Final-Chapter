@@ -1,0 +1,1070 @@
+{
+  "number_analyzed": 8,
+  "analysis_timestamp": 0,
+  "analysis_version": "1.0 Ultimate",
+  "basic_properties": {
+    "value": 8,
+    "type": "integer",
+    "sign": "positive",
+    "absolute_value": 8,
+    "is_zero": false,
+    "is_one": false,
+    "is_perfect_power": true,
+    "is_triangular": false,
+    "is_fibonacci": true,
+    "is_factorial": false,
+    "continued_fraction": [
+      8
+    ],
+    "is_prime": false,
+    "is_composite": true,
+    "is_even": true,
+    "is_odd": false,
+    "is_perfect_square": false,
+    "is_perfect_cube": true,
+    "is_palindromic": true,
+    "digit_sum": 8,
+    "digital_root": 8,
+    "number_of_digits": 1,
+    "reverse_number": 8
+  },
+  "decimal_expansions": {
+    "reciprocal": {
+      "fraction": "1/8",
+      "decimal_value": 0.125,
+      "decimal_string": "0.125",
+      "is_terminating": true,
+      "repeating_pattern": null,
+      "pattern_length": 0,
+      "non_repeating_prefix": "",
+      "digit_frequency": {
+        "1": 1,
+        "2": 1,
+        "5": 1
+      },
+      "sum_of_digits": 8,
+      "digital_root": 8,
+      "is_palindromic": false,
+      "reciprocal_pattern_type": "SIMPLE",
+      "complexity_score": 0.19,
+      "integer_part": "0",
+      "fractional_part": "125"
+    },
+    "common_fractions": {
+      "8/2": {
+        "fraction": "8/2",
+        "decimal_value": 4.0,
+        "decimal_string": "4",
+        "is_terminating": true,
+        "repeating_pattern": null,
+        "pattern_length": 0,
+        "non_repeating_prefix": "",
+        "digit_frequency": {},
+        "sum_of_digits": 0,
+        "digital_root": 0,
+        "is_palindromic": false,
+        "reciprocal_pattern_type": "SIMPLE",
+        "complexity_score": 0
+      },
+      "8/3": {
+        "fraction": "8/3",
+        "decimal_value": 2.6666666666666665,
+        "decimal_string": "2.6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666667",
+        "is_terminating": false,
+        "repeating_pattern": "6",
+        "pattern_length": 1,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "6": 198,
+          "7": 1
+        },
+        "sum_of_digits": 1195,
+        "digital_root": 7,
+        "is_palindromic": false,
+        "reciprocal_pattern_type": "WILD",
+        "complexity_score": 0.38,
+        "integer_part": "2",
+        "fractional_part": "6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666667",
+        "pattern_confidence": 1.0
+      },
+      "8/4": {
+        "fraction": "8/4",
+        "decimal_value": 2.0,
+        "decimal_string": "2",
+        "is_terminating": true,
+        "repeating_pattern": null,
+        "pattern_length": 0,
+        "non_repeating_prefix": "",
+        "digit_frequency": {},
+        "sum_of_digits": 0,
+        "digital_root": 0,
+        "is_palindromic": false,
+        "reciprocal_pattern_type": "SIMPLE",
+        "complexity_score": 0
+      },
+      "8/5": {
+        "fraction": "8/5",
+        "decimal_value": 1.6,
+        "decimal_string": "1.6",
+        "is_terminating": true,
+        "repeating_pattern": null,
+        "pattern_length": 0,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "6": 1
+        },
+        "sum_of_digits": 6,
+        "digital_root": 6,
+        "is_palindromic": true,
+        "reciprocal_pattern_type": "SIMPLE",
+        "complexity_score": 0.33,
+        "integer_part": "1",
+        "fractional_part": "6"
+      },
+      "8/6": {
+        "fraction": "8/6",
+        "decimal_value": 1.3333333333333333,
+        "decimal_string": "1.3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333",
+        "is_terminating": false,
+        "repeating_pattern": "3",
+        "pattern_length": 1,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "3": 199
+        },
+        "sum_of_digits": 597,
+        "digital_root": 3,
+        "is_palindromic": true,
+        "reciprocal_pattern_type": "WILD",
+        "complexity_score": 0.55,
+        "integer_part": "1",
+        "fractional_part": "3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333",
+        "pattern_confidence": 1.0
+      },
+      "8/7": {
+        "fraction": "8/7",
+        "decimal_value": 1.1428571428571428,
+        "decimal_string": "1.1428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571",
+        "is_terminating": false,
+        "repeating_pattern": "142857",
+        "pattern_length": 6,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "1": 34,
+          "4": 33,
+          "2": 33,
+          "8": 33,
+          "5": 33,
+          "7": 33
+        },
+        "sum_of_digits": 892,
+        "digital_root": 1,
+        "is_palindromic": false,
+        "reciprocal_pattern_type": "SPECIAL_WILD_7",
+        "complexity_score": 0.6,
+        "integer_part": "1",
+        "fractional_part": "1428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571428571",
+        "pattern_confidence": 1.0
+      },
+      "8/8": {
+        "fraction": "8/8",
+        "decimal_value": 1.0,
+        "decimal_string": "1",
+        "is_terminating": true,
+        "repeating_pattern": null,
+        "pattern_length": 0,
+        "non_repeating_prefix": "",
+        "digit_frequency": {},
+        "sum_of_digits": 0,
+        "digital_root": 0,
+        "is_palindromic": false,
+        "reciprocal_pattern_type": "SIMPLE",
+        "complexity_score": 0
+      },
+      "8/9": {
+        "fraction": "8/9",
+        "decimal_value": 0.8888888888888888,
+        "decimal_string": "0.88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888889",
+        "is_terminating": false,
+        "repeating_pattern": "8",
+        "pattern_length": 1,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "8": 199,
+          "9": 1
+        },
+        "sum_of_digits": 1601,
+        "digital_root": 8,
+        "is_palindromic": false,
+        "reciprocal_pattern_type": "WILD",
+        "complexity_score": 0.38,
+        "integer_part": "0",
+        "fractional_part": "88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888889",
+        "pattern_confidence": 1.0
+      },
+      "8/10": {
+        "fraction": "8/10",
+        "decimal_value": 0.8,
+        "decimal_string": "0.8",
+        "is_terminating": true,
+        "repeating_pattern": null,
+        "pattern_length": 0,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "8": 1
+        },
+        "sum_of_digits": 8,
+        "digital_root": 8,
+        "is_palindromic": true,
+        "reciprocal_pattern_type": "SIMPLE",
+        "complexity_score": 0.33,
+        "integer_part": "0",
+        "fractional_part": "8"
+      },
+      "8/11": {
+        "fraction": "8/11",
+        "decimal_value": 0.7272727272727273,
+        "decimal_string": "0.72727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727273",
+        "is_terminating": false,
+        "repeating_pattern": "72",
+        "pattern_length": 2,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "7": 100,
+          "2": 99,
+          "3": 1
+        },
+        "sum_of_digits": 901,
+        "digital_root": 1,
+        "is_palindromic": false,
+        "reciprocal_pattern_type": "WILD",
+        "complexity_score": 0.43,
+        "integer_part": "0",
+        "fractional_part": "72727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727273",
+        "pattern_confidence": 1.0
+      },
+      "8/12": {
+        "fraction": "8/12",
+        "decimal_value": 0.6666666666666666,
+        "decimal_string": "0.66666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666667",
+        "is_terminating": false,
+        "repeating_pattern": "6",
+        "pattern_length": 1,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "6": 199,
+          "7": 1
+        },
+        "sum_of_digits": 1201,
+        "digital_root": 4,
+        "is_palindromic": false,
+        "reciprocal_pattern_type": "WILD",
+        "complexity_score": 0.38,
+        "integer_part": "0",
+        "fractional_part": "66666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666667",
+        "pattern_confidence": 1.0
+      },
+      "8/13": {
+        "fraction": "8/13",
+        "decimal_value": 0.6153846153846154,
+        "decimal_string": "0.61538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538462",
+        "is_terminating": false,
+        "repeating_pattern": "615384",
+        "pattern_length": 6,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "6": 34,
+          "1": 33,
+          "5": 33,
+          "3": 33,
+          "8": 33,
+          "4": 33,
+          "2": 1
+        },
+        "sum_of_digits": 899,
+        "digital_root": 8,
+        "is_palindromic": false,
+        "reciprocal_pattern_type": "SPECIAL_WILD_13",
+        "complexity_score": 0.6299999999999999,
+        "integer_part": "0",
+        "fractional_part": "61538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538461538462",
+        "pattern_confidence": 1.0
+      },
+      "8/14": {
+        "fraction": "8/14",
+        "decimal_value": 0.5714285714285714,
+        "decimal_string": "0.57142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857",
+        "is_terminating": false,
+        "repeating_pattern": "571428",
+        "pattern_length": 6,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "5": 34,
+          "7": 34,
+          "1": 33,
+          "4": 33,
+          "2": 33,
+          "8": 33
+        },
+        "sum_of_digits": 903,
+        "digital_root": 3,
+        "is_palindromic": false,
+        "reciprocal_pattern_type": "COMPOSITE",
+        "complexity_score": 0.3,
+        "integer_part": "0",
+        "fractional_part": "57142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857142857",
+        "pattern_confidence": 1.0
+      },
+      "8/15": {
+        "fraction": "8/15",
+        "decimal_value": 0.5333333333333333,
+        "decimal_string": "0.53333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333",
+        "is_terminating": false,
+        "repeating_pattern": null,
+        "pattern_length": 0,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "5": 1,
+          "3": 199
+        },
+        "sum_of_digits": 602,
+        "digital_root": 8,
+        "is_palindromic": false,
+        "reciprocal_pattern_type": "COMPOSITE",
+        "complexity_score": 0.06,
+        "integer_part": "0",
+        "fractional_part": "53333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333"
+      },
+      "8/16": {
+        "fraction": "8/16",
+        "decimal_value": 0.5,
+        "decimal_string": "0.5",
+        "is_terminating": true,
+        "repeating_pattern": null,
+        "pattern_length": 0,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "5": 1
+        },
+        "sum_of_digits": 5,
+        "digital_root": 5,
+        "is_palindromic": true,
+        "reciprocal_pattern_type": "COMPOSITE",
+        "complexity_score": 0.23,
+        "integer_part": "0",
+        "fractional_part": "5"
+      },
+      "8/17": {
+        "fraction": "8/17",
+        "decimal_value": 0.47058823529411764,
+        "decimal_string": "0.47058823529411764705882352941176470588235294117647058823529411764705882352941176470588235294117647058823529411764705882352941176470588235294117647058823529411764705882352941176470588235294117647058824",
+        "is_terminating": false,
+        "repeating_pattern": "4705882352941176",
+        "pattern_length": 16,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "4": 26,
+          "7": 25,
+          "0": 13,
+          "5": 25,
+          "8": 26,
+          "2": 25,
+          "3": 12,
+          "9": 12,
+          "1": 24,
+          "6": 12
+        },
+        "sum_of_digits": 902,
+        "digital_root": 2,
+        "is_palindromic": false,
+        "reciprocal_pattern_type": "PRIME",
+        "complexity_score": 0.6200000000000001,
+        "integer_part": "0",
+        "fractional_part": "47058823529411764705882352941176470588235294117647058823529411764705882352941176470588235294117647058823529411764705882352941176470588235294117647058823529411764705882352941176470588235294117647058824",
+        "pattern_confidence": 1.0
+      },
+      "8/18": {
+        "fraction": "8/18",
+        "decimal_value": 0.4444444444444444,
+        "decimal_string": "0.44444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444",
+        "is_terminating": false,
+        "repeating_pattern": "4",
+        "pattern_length": 1,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "4": 200
+        },
+        "sum_of_digits": 800,
+        "digital_root": 8,
+        "is_palindromic": true,
+        "reciprocal_pattern_type": "COMPOSITE",
+        "complexity_score": 0.25,
+        "integer_part": "0",
+        "fractional_part": "44444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444",
+        "pattern_confidence": 1.0
+      },
+      "8/19": {
+        "fraction": "8/19",
+        "decimal_value": 0.42105263157894735,
+        "decimal_string": "0.42105263157894736842105263157894736842105263157894736842105263157894736842105263157894736842105263157894736842105263157894736842105263157894736842105263157894736842105263157894736842105263157894736842",
+        "is_terminating": false,
+        "repeating_pattern": "421052631578947368",
+        "pattern_length": 18,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "4": 23,
+          "2": 23,
+          "1": 22,
+          "0": 11,
+          "5": 22,
+          "6": 22,
+          "3": 22,
+          "7": 22,
+          "8": 22,
+          "9": 11
+        },
+        "sum_of_digits": 897,
+        "digital_root": 6,
+        "is_palindromic": false,
+        "reciprocal_pattern_type": "PRIME",
+        "complexity_score": 0.66,
+        "integer_part": "0",
+        "fractional_part": "42105263157894736842105263157894736842105263157894736842105263157894736842105263157894736842105263157894736842105263157894736842105263157894736842105263157894736842105263157894736842105263157894736842",
+        "pattern_confidence": 1.0
+      },
+      "8/20": {
+        "fraction": "8/20",
+        "decimal_value": 0.4,
+        "decimal_string": "0.4",
+        "is_terminating": true,
+        "repeating_pattern": null,
+        "pattern_length": 0,
+        "non_repeating_prefix": "",
+        "digit_frequency": {
+          "4": 1
+        },
+        "sum_of_digits": 4,
+        "digital_root": 4,
+        "is_palindromic": true,
+        "reciprocal_pattern_type": "COMPOSITE",
+        "complexity_score": 0.23,
+        "integer_part": "0",
+        "fractional_part": "4"
+      }
+    },
+    "expansion_patterns": {
+      "reciprocal_period": 0,
+      "general_periodicity": {
+        "has_simple_period": true,
+        "has_complex_period": false,
+        "estimated_complexity": "LOW"
+      },
+      "digit_cycles": [],
+      "symmetry_patterns": {
+        "palindromic_fragments": [],
+        "mirror_symmetry": false,
+        "rotational_symmetry": false
+      }
+    }
+  },
+  "spectrum_analysis": {
+    "classification": {
+      "category": "SIMPLE",
+      "description": "Clean reciprocal patterns, straightforward decimal behavior"
+    },
+    "behavioral_traits": [
+      "clean_reciprocal_pattern",
+      "predictable_decimal_behavior",
+      "low_complexity_expansion",
+      "stable_mathematical_properties",
+      "even_number_symmetry",
+      "palindromic_structure"
+    ],
+    "pattern_family": {
+      "family": "SIMPLE",
+      "subfamily": "CLEAN_EXPANSION",
+      "characteristics": [
+        "terminating_or_short_period",
+        "predictable",
+        "low_entropy"
+      ]
+    },
+    "complexity_ranking": {
+      "rank": null,
+      "score": 0.19,
+      "percentile": null,
+      "classification": "MINIMALLY_COMPLEX"
+    }
+  },
+  "number_theory": {
+    "prime_factorization": {
+      "factors": [
+        2,
+        2,
+        2
+      ],
+      "prime_factors": [
+        2
+      ],
+      "factor_count": 3,
+      "unique_prime_count": 1
+    },
+    "divisor_analysis": {
+      "divisors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "divisor_count": 4,
+      "sum_of_divisors": 15,
+      "is_perfect_number": false,
+      "is_abundant": false,
+      "is_deficient": true
+    },
+    "modular_arithmetic": {
+      "mod_2": {
+        "remainder": 0,
+        "is_congruent_to_zero": true,
+        "multiplicative_inverse": null,
+        "order": 0
+      },
+      "mod_3": {
+        "remainder": 2,
+        "is_congruent_to_zero": false,
+        "multiplicative_inverse": 2,
+        "order": 2
+      },
+      "mod_4": {
+        "remainder": 0,
+        "is_congruent_to_zero": true,
+        "multiplicative_inverse": null,
+        "order": 0
+      },
+      "mod_5": {
+        "remainder": 3,
+        "is_congruent_to_zero": false,
+        "multiplicative_inverse": 2,
+        "order": 4
+      },
+      "mod_6": {
+        "remainder": 2,
+        "is_congruent_to_zero": false,
+        "multiplicative_inverse": null,
+        "order": 0
+      },
+      "mod_7": {
+        "remainder": 1,
+        "is_congruent_to_zero": false,
+        "multiplicative_inverse": 1,
+        "order": 1
+      },
+      "mod_8": {
+        "remainder": 0,
+        "is_congruent_to_zero": true,
+        "multiplicative_inverse": null,
+        "order": 0
+      },
+      "quadratic_residues": [
+        0,
+        1,
+        4
+      ],
+      "cubic_residues": [
+        0,
+        1,
+        3,
+        5,
+        7
+      ],
+      "euler_totient": 4
+    },
+    "special_properties": [
+      "perfect_power",
+      "fibonacci_number"
+    ]
+  },
+  "digital_analysis": {
+    "digital_signature": {
+      "binary_representation": "1000",
+      "hexadecimal_representation": "8",
+      "sum_of_digits": 8,
+      "digital_root": 8,
+      "reversed_digits": "8",
+      "digit_product": 8,
+      "hash_signature": 770622
+    },
+    "digit_patterns": {
+      "digit_frequency": {
+        "8": 1
+      },
+      "consecutive_patterns": [],
+      "arithmetic_progressions": [],
+      "geometric_progressions": [],
+      "repeating_sequences": []
+    },
+    "numerological_insights": {
+      "life_path_number": 8,
+      "destiny_number": 8,
+      "soul_urge_number": 0,
+      "symbolism": [
+        "abundance",
+        "power",
+        "success",
+        "infinity"
+      ],
+      "angel_number": false,
+      "master_number": false
+    },
+    "base_representations": {
+      "base_2": "1000",
+      "base_3": "22",
+      "base_4": "20",
+      "base_5": "13",
+      "base_6": "12",
+      "base_7": "11",
+      "base_8": "10",
+      "base_9": "8",
+      "base_10": "8",
+      "base_11": "8",
+      "base_12": "8",
+      "base_13": "8",
+      "base_14": "8",
+      "base_15": "8",
+      "base_16": "8"
+    }
+  },
+  "fractional_relationships": {
+    "as_numerator": {
+      "8/1": {
+        "simplified": "8/1",
+        "decimal_value": 8.0,
+        "is_integer": true,
+        "terminating": true
+      },
+      "8/2": {
+        "simplified": "4/1",
+        "decimal_value": 4.0,
+        "is_integer": true,
+        "terminating": true
+      },
+      "8/3": {
+        "simplified": "8/3",
+        "decimal_value": 2.6666666666666665,
+        "is_integer": false,
+        "terminating": false
+      },
+      "8/4": {
+        "simplified": "2/1",
+        "decimal_value": 2.0,
+        "is_integer": true,
+        "terminating": true
+      },
+      "8/5": {
+        "simplified": "8/5",
+        "decimal_value": 1.6,
+        "is_integer": false,
+        "terminating": true
+      },
+      "8/6": {
+        "simplified": "4/3",
+        "decimal_value": 1.3333333333333333,
+        "is_integer": false,
+        "terminating": false
+      },
+      "8/7": {
+        "simplified": "8/7",
+        "decimal_value": 1.1428571428571428,
+        "is_integer": false,
+        "terminating": false
+      },
+      "8/8": {
+        "simplified": "1/1",
+        "decimal_value": 1.0,
+        "is_integer": true,
+        "terminating": true
+      },
+      "8/9": {
+        "simplified": "8/9",
+        "decimal_value": 0.8888888888888888,
+        "is_integer": false,
+        "terminating": false
+      },
+      "8/10": {
+        "simplified": "4/5",
+        "decimal_value": 0.8,
+        "is_integer": false,
+        "terminating": true
+      },
+      "8/11": {
+        "simplified": "8/11",
+        "decimal_value": 0.7272727272727273,
+        "is_integer": false,
+        "terminating": false
+      },
+      "8/12": {
+        "simplified": "2/3",
+        "decimal_value": 0.6666666666666666,
+        "is_integer": false,
+        "terminating": false
+      },
+      "8/13": {
+        "simplified": "8/13",
+        "decimal_value": 0.6153846153846154,
+        "is_integer": false,
+        "terminating": false
+      },
+      "8/14": {
+        "simplified": "4/7",
+        "decimal_value": 0.5714285714285714,
+        "is_integer": false,
+        "terminating": false
+      },
+      "8/15": {
+        "simplified": "8/15",
+        "decimal_value": 0.5333333333333333,
+        "is_integer": false,
+        "terminating": false
+      },
+      "8/16": {
+        "simplified": "1/2",
+        "decimal_value": 0.5,
+        "is_integer": false,
+        "terminating": true
+      },
+      "8/17": {
+        "simplified": "8/17",
+        "decimal_value": 0.47058823529411764,
+        "is_integer": false,
+        "terminating": false
+      },
+      "8/18": {
+        "simplified": "4/9",
+        "decimal_value": 0.4444444444444444,
+        "is_integer": false,
+        "terminating": false
+      },
+      "8/19": {
+        "simplified": "8/19",
+        "decimal_value": 0.42105263157894735,
+        "is_integer": false,
+        "terminating": false
+      },
+      "8/20": {
+        "simplified": "2/5",
+        "decimal_value": 0.4,
+        "is_integer": false,
+        "terminating": true
+      }
+    },
+    "as_denominator": {
+      "1/8": {
+        "simplified": "1/8",
+        "decimal_value": 0.125,
+        "is_integer": false,
+        "terminating": true
+      },
+      "2/8": {
+        "simplified": "1/4",
+        "decimal_value": 0.25,
+        "is_integer": false,
+        "terminating": true
+      },
+      "3/8": {
+        "simplified": "3/8",
+        "decimal_value": 0.375,
+        "is_integer": false,
+        "terminating": true
+      },
+      "4/8": {
+        "simplified": "1/2",
+        "decimal_value": 0.5,
+        "is_integer": false,
+        "terminating": true
+      },
+      "5/8": {
+        "simplified": "5/8",
+        "decimal_value": 0.625,
+        "is_integer": false,
+        "terminating": true
+      },
+      "6/8": {
+        "simplified": "3/4",
+        "decimal_value": 0.75,
+        "is_integer": false,
+        "terminating": true
+      },
+      "7/8": {
+        "simplified": "7/8",
+        "decimal_value": 0.875,
+        "is_integer": false,
+        "terminating": true
+      },
+      "8/8": {
+        "simplified": "1/1",
+        "decimal_value": 1.0,
+        "is_integer": true,
+        "terminating": true
+      }
+    },
+    "simplified_fractions": [
+      {
+        "form": "16/2",
+        "value": 8,
+        "type": "fractional_equivalent"
+      },
+      {
+        "form": "24/3",
+        "value": 8,
+        "type": "fractional_equivalent"
+      },
+      {
+        "form": "32/4",
+        "value": 8,
+        "type": "fractional_equivalent"
+      },
+      {
+        "form": "40/5",
+        "value": 8,
+        "type": "fractional_equivalent"
+      },
+      {
+        "form": "48/6",
+        "value": 8,
+        "type": "fractional_equivalent"
+      },
+      {
+        "form": "56/7",
+        "value": 8,
+        "type": "fractional_equivalent"
+      },
+      {
+        "form": "64/8",
+        "value": 8,
+        "type": "fractional_equivalent"
+      }
+    ],
+    "equivalent_forms": [
+      {
+        "form": "(2)\u00b3",
+        "value": 8,
+        "type": "perfect_cube"
+      }
+    ]
+  },
+  "mathematical_connections": {
+    "sequences_and_series": [
+      {
+        "sequence": "Fibonacci",
+        "position": 7
+      },
+      {
+        "sequence": "Highly Composite",
+        "property": "many_divisors"
+      }
+    ],
+    "geometric_properties": {
+      "regular_polygon": true,
+      "interior_angle": 135.0,
+      "exterior_angle": 45.0,
+      "dimensions": [
+        "2x2x2 cube",
+        "2x4 rectangle"
+      ],
+      "symmetries": 16
+    },
+    "algebraic_properties": {
+      "linear_equation": "x = 8",
+      "quadratic_solutions": [
+        "x\u00b2 - 16x + 64 = 0",
+        "x\u00b2 - (5)x + -24 = 0",
+        "x\u00b2 - (6)x + -16 = 0",
+        "x\u00b2 - (7)x + -8 = 0",
+        "x\u00b2 - (8)x + 0 = 0",
+        "x\u00b2 - (9)x + 8 = 0",
+        "x\u00b2 - (10)x + 16 = 0",
+        "x\u00b2 - (11)x + 24 = 0"
+      ],
+      "minimal_polynomial": "x - 8",
+      "algebraic_degree": 1
+    },
+    "historical_significance": {
+      "mathematical_history": [],
+      "cultural_importance": [
+        "eastern_philosophy"
+      ],
+      "scientific_applications": [
+        "computing"
+      ]
+    }
+  },
+  "practical_applications": {
+    "real_world_occurrences": {
+      "nature": [
+        "spider_legs"
+      ],
+      "human_anatomy": [],
+      "measurement_systems": [],
+      "technology": [
+        "binary_computing"
+      ]
+    },
+    "measurement_properties": {
+      "time_divisions": [],
+      "unit_conversions": [],
+      "geometric_units": []
+    },
+    "computational_properties": {
+      "binary_representation": "0b1000",
+      "bit_length": 4,
+      "hash_values": {
+        "md5": "c9f0f895",
+        "sha1": "fe5dbbce"
+      },
+      "prime_testing_difficulty": "easy"
+    },
+    "cultural_significance": {
+      "western_culture": [],
+      "eastern_culture": [
+        "prosperity_chinese"
+      ],
+      "religious_contexts": [],
+      "modern_pop_culture": []
+    }
+  },
+  "advanced_insights": {
+    "neo_beta_analysis": {
+      "p_function_value": 47.337278106508876,
+      "p_function_residue": 0,
+      "beta_sequence_position": 8,
+      "beta_sequence_role": "descent"
+    },
+    "fractal_properties": {
+      "digit_self_similarity": [],
+      "recursive_patterns": [
+        {
+          "type": "digit_sum_divisibility",
+          "relationship": "8 % 8 = 0"
+        }
+      ],
+      "scale_invariance": []
+    },
+    "chaos_theory_aspects": {
+      "sensitivity_analysis": {
+        "delta_-2": {
+          "perturbed_value": 6,
+          "decimal_difference": 2,
+          "sensitivity_score": 0.1
+        },
+        "delta_-1": {
+          "perturbed_value": 7,
+          "decimal_difference": 2,
+          "sensitivity_score": 0.1
+        },
+        "delta_1": {
+          "perturbed_value": 9,
+          "decimal_difference": 2,
+          "sensitivity_score": 0.1
+        },
+        "delta_2": {
+          "perturbed_value": 10,
+          "decimal_difference": 0,
+          "sensitivity_score": 0.0
+        }
+      },
+      "period_analysis": [
+        {
+          "multiple": 1,
+          "number": 8,
+          "period": 0
+        },
+        {
+          "multiple": 2,
+          "number": 16,
+          "period": 0
+        },
+        {
+          "multiple": 3,
+          "number": 24,
+          "period": 1
+        },
+        {
+          "multiple": 4,
+          "number": 32,
+          "period": 0
+        },
+        {
+          "multiple": 5,
+          "number": 40,
+          "period": 0
+        }
+      ],
+      "attractor_analysis": [
+        {
+          "type": "digit_cycle",
+          "cycle": [
+            89,
+            145,
+            42,
+            20,
+            4,
+            16,
+            37,
+            58
+          ],
+          "length": 8
+        }
+      ]
+    },
+    "quantum_aspects": {
+      "quantum_states": [
+        {
+          "state": "|3\u27e9",
+          "amplitude": 1,
+          "position": 3
+        }
+      ],
+      "superposition_analysis": {
+        "representations": [
+          {
+            "basis": "binary",
+            "state": "1000",
+            "amplitudes": [
+              1,
+              1,
+              1,
+              1
+            ]
+          },
+          {
+            "basis": "prime_factors",
+            "state": [
+              2
+            ],
+            "amplitudes": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "entanglement_analysis": [
+        {
+          "type": "digital_root_entanglement",
+          "partners": [
+            17,
+            26,
+            35,
+            44,
+            53,
+            62,
+            71,
+            80,
+            89,
+            98
+          ],
+          "shared_property": "digital_root_8"
+        }
+      ]
+    }
+  }
+}

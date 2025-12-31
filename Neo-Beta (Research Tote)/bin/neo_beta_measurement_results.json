@@ -1,0 +1,280 @@
+{
+  "timestamp": 1767198818.6213155,
+  "start_value": 7,
+  "length": 20,
+  "measurements": {
+    "RATIONAL": {
+      "validity_score": 0.5642105263157895,
+      "sequence": [
+        7,
+        9,
+        8,
+        6,
+        19,
+        12,
+        105,
+        98,
+        90,
+        83
+      ],
+      "beta_alignment": 0.0,
+      "pattern_consistency": 0.0010898475119173769,
+      "mathematical_properties": {
+        "p_value_consistency": 0.05,
+        "fractional_properties": {},
+        "rational_relationships": {
+          "is_arithmetic": false
+        }
+      },
+      "residue_analysis": {
+        "residues": [
+          183,
+          521,
+          352,
+          14,
+          211,
+          28,
+          745,
+          562,
+          210,
+          27
+        ],
+        "mean_residue": 407.7,
+        "residue_variance": 76632.61000000002,
+        "unique_residues": 20,
+        "beta_matches": 0
+      },
+      "flush_candidates": [],
+      "p_function_correlation": 0.5012777327109795
+    },
+    "IRRATIONAL": {
+      "validity_score": 0.6200000000000001,
+      "sequence": [
+        56.7687935334447,
+        8.378705602297472,
+        -28.22981235028612,
+        38.083307484628214,
+        83.21460301254858,
+        27.297582242170787,
+        1.7707880365672763,
+        74.32903448329675,
+        108.3174253741605,
+        46.8688485456229
+      ],
+      "beta_alignment": 0.0,
+      "pattern_consistency": 0.00038059819395665906,
+      "mathematical_properties": {
+        "base_irrational": "7.0",
+        "irrational_type": "other",
+        "convergence_rate": 0.5,
+        "irrational_entropy": 0.9999999993323836
+      },
+      "residue_analysis": {
+        "residues": [
+          593,
+          416,
+          230,
+          436,
+          63,
+          613,
+          299,
+          561,
+          305,
+          920
+        ],
+        "mean_residue": 446.25,
+        "residue_variance": 47625.3875,
+        "unique_residues": 20,
+        "beta_matches": 0
+      },
+      "flush_candidates": [],
+      "p_function_correlation": 0.7386815444517011
+    },
+    "REPEATING_RATIONAL": {
+      "validity_score": 0.4,
+      "sequence": [
+        7,
+        14,
+        21,
+        28,
+        35,
+        42,
+        49,
+        56,
+        63,
+        70
+      ],
+      "beta_alignment": 0.0,
+      "pattern_consistency": 1.0,
+      "mathematical_properties": {
+        "base_pattern": "7",
+        "cycle_length": 1,
+        "repetition_rate": 0.0,
+        "pattern_stability": 1
+      },
+      "residue_analysis": {
+        "residues": [
+          183,
+          366,
+          549,
+          732,
+          915,
+          98,
+          281,
+          464,
+          647,
+          830
+        ],
+        "mean_residue": 471.5,
+        "residue_variance": 74159.25,
+        "unique_residues": 20,
+        "beta_matches": 0
+      },
+      "flush_candidates": [
+        {
+          "position": 10,
+          "value": 77,
+          "residue": 13,
+          "flush_type": "KNOWN"
+        }
+      ],
+      "p_function_correlation": 1.0
+    },
+    "SIMPLE_WILD": {
+      "validity_score": 0.54645,
+      "sequence": [
+        7,
+        6,
+        4,
+        3,
+        3,
+        2,
+        2,
+        2,
+        1,
+        1
+      ],
+      "beta_alignment": 0.0,
+      "pattern_consistency": 0.7474120082815734,
+      "mathematical_properties": {
+        "wild_factor": 0.618034,
+        "chaos_level": 0.1,
+        "wildness_measure": 0.4,
+        "simplicity_measure": 0.8215,
+        "balance_ratio": 0.8
+      },
+      "residue_analysis": {
+        "residues": [
+          183,
+          14,
+          676,
+          507,
+          507,
+          338,
+          338,
+          338,
+          169,
+          169
+        ],
+        "mean_residue": 195.75,
+        "residue_variance": 37624.7875,
+        "unique_residues": 7,
+        "beta_matches": 0
+      },
+      "flush_candidates": [],
+      "p_function_correlation": -0.8844196229341608
+    },
+    "TRANSCENDENT": {
+      "validity_score": 0.0,
+      "sequence": [
+        9,
+        8,
+        6,
+        3,
+        0,
+        -3,
+        -6,
+        -8,
+        -10,
+        -10
+      ],
+      "beta_alignment": 0.0,
+      "pattern_consistency": 0.15580492015537334,
+      "mathematical_properties": {
+        "base_transcendent": "3.141592653589793238462643383279502884197169399375105820974944592307816406286208998628034825342117068",
+        "transcendence_depth": 10,
+        "dimensional_resonance": 0.0,
+        "transcendence_entropy": 0.0,
+        "infinity_proximity": 0.0075
+      },
+      "residue_analysis": {
+        "residues": [
+          521,
+          352,
+          14,
+          507,
+          0,
+          493,
+          986,
+          648,
+          310,
+          310
+        ],
+        "mean_residue": 433.8,
+        "residue_variance": 67104.16,
+        "unique_residues": 14,
+        "beta_matches": 0
+      },
+      "flush_candidates": [],
+      "p_function_correlation": 0.1585309270161372
+    },
+    "CUSTOM": {
+      "validity_score": 0.8052631578947369,
+      "sequence": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "beta_alignment": 0.0,
+      "pattern_consistency": 1.0,
+      "mathematical_properties": {
+        "custom_function": "None",
+        "custom_base": 169,
+        "custom_modifier": 1.0,
+        "custom_stability": 0.8914285714285715,
+        "parameter_sensitivity": 0.9
+      },
+      "residue_analysis": {
+        "residues": [
+          352,
+          521,
+          690,
+          859,
+          28,
+          197,
+          366,
+          535,
+          704,
+          873
+        ],
+        "mean_residue": 457.5,
+        "residue_variance": 73053.25,
+        "unique_residues": 20,
+        "beta_matches": 0
+      },
+      "flush_candidates": [],
+      "p_function_correlation": 1.0
+    }
+  },
+  "overall_validity": 0.4893206140350878,
+  "beta_alignment": 0.0,
+  "mathematical_coherence": 0.0,
+  "sequence_quality": "POOR"
+}
