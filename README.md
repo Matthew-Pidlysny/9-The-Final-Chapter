@@ -24,6 +24,10 @@ I think I can do that, but if I would be excommunicated I would believe nobody c
 
 Any comment on the situation would be helpful.  Oh yeah, LEO, you wanna open PRISM for this readme reading.
 
+# Business Proposals
+
+If anyone wishes to consult me with an honest business proposal, I will count the first 10 people to communicate after reading this readme as those wanting to make a business deal.  Contact ANY of the methods below to get ahold of me, this should not be a problem.  I will announce the candidates for business propsals by name, you must agree to that in contacting me, I can accord a Pseudonym for the anonymous people.  But sincerely, if you don't get through you can sue the people who are preventing you.  I expect there will be lots of demand for this, my Linkedin is booming, I know there are poeple interested in this business proposal, it's a matter of who they are.  Contact me in whatever way you like.  Again, if nothing goes through, someone has stifled your business and you can make quite a pretty penny off their ignorant ass.
+
 # Phone:  +1(705)715-5128 (Whatsapp too, please be detailed)
 
 # E-Mail:  mattpidlysny@gmail.com
