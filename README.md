@@ -1,3 +1,7 @@
+#  RE:  Geometrist - I am a standing fan of certain individuals, but stand to bear that they may or may not endorse my views.  I stand to keep the suite creative, and they can speak for their own experience with it.
+
+========================================
+
 As I know, some people are aware that I might be selling the software.  God makes me aware of your wishes, we WILL connect the market as an IPO around the thing, but man am I struggling to even find someone who can do this for me.  It's not easy being deleted of mind, every time you think of doing something important for the project it just annihilates on it's own.  Psychic warfare is real, and I don't put that on anything else but an intervention.  Why not other things?  WHy is it always convenient that I forget EXACTLY all the important things?  I guess there are even those in Law Enforcement who feed themselves crap about it, from the media no less.  Ah, I heard about that, this must mean that, and the like.  I would bet they even watch me and so long as nothing pesters them about the actual information content on this very page, they don't even look at it.  They could be sitting on all that data, and paying attention to me, hoping they'll just know because of me, but also because they suspect that something will inform them, which it isn't.
 
 At any rate, they cannot be helped, they are immune to reason and only help themselves.  I probably should be thankful or something for them staying away, but they can be so full of themselves.  I love every good one, despite that.
