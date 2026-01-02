@@ -1,0 +1,1245 @@
+{
+  "family_groups": {
+    "twin": [
+      [
+        {
+          "prime": 3,
+          "composition_score": 53
+        },
+        {
+          "prime": 5,
+          "composition_score": 55
+        }
+      ],
+      [
+        {
+          "prime": 5,
+          "composition_score": 55
+        },
+        {
+          "prime": 7,
+          "composition_score": 57
+        }
+      ],
+      [
+        {
+          "prime": 11,
+          "composition_score": 61
+        },
+        {
+          "prime": 13,
+          "composition_score": 63
+        }
+      ],
+      [
+        {
+          "prime": 17,
+          "composition_score": 67
+        },
+        {
+          "prime": 19,
+          "composition_score": 69
+        }
+      ],
+      [
+        {
+          "prime": 29,
+          "composition_score": 79
+        },
+        {
+          "prime": 31,
+          "composition_score": 81
+        }
+      ],
+      [
+        {
+          "prime": 41,
+          "composition_score": 91
+        },
+        {
+          "prime": 43,
+          "composition_score": 93
+        }
+      ],
+      [
+        {
+          "prime": 59,
+          "composition_score": 59
+        },
+        {
+          "prime": 61,
+          "composition_score": 61
+        }
+      ],
+      [
+        {
+          "prime": 71,
+          "composition_score": 71
+        },
+        {
+          "prime": 73,
+          "composition_score": 73
+        }
+      ],
+      [
+        {
+          "prime": 101,
+          "composition_score": 51
+        },
+        {
+          "prime": 103,
+          "composition_score": 53
+        }
+      ],
+      [
+        {
+          "prime": 107,
+          "composition_score": 57
+        },
+        {
+          "prime": 109,
+          "composition_score": 59
+        }
+      ]
+    ],
+    "cousin": [
+      [
+        {
+          "prime": 3,
+          "composition_score": 53
+        },
+        {
+          "prime": 7,
+          "composition_score": 57
+        }
+      ],
+      [
+        {
+          "prime": 7,
+          "composition_score": 57
+        },
+        {
+          "prime": 11,
+          "composition_score": 61
+        }
+      ],
+      [
+        {
+          "prime": 13,
+          "composition_score": 63
+        },
+        {
+          "prime": 17,
+          "composition_score": 67
+        }
+      ],
+      [
+        {
+          "prime": 19,
+          "composition_score": 69
+        },
+        {
+          "prime": 23,
+          "composition_score": 73
+        }
+      ],
+      [
+        {
+          "prime": 37,
+          "composition_score": 87
+        },
+        {
+          "prime": 41,
+          "composition_score": 91
+        }
+      ],
+      [
+        {
+          "prime": 43,
+          "composition_score": 93
+        },
+        {
+          "prime": 47,
+          "composition_score": 97
+        }
+      ],
+      [
+        {
+          "prime": 67,
+          "composition_score": 67
+        },
+        {
+          "prime": 71,
+          "composition_score": 71
+        }
+      ],
+      [
+        {
+          "prime": 79,
+          "composition_score": 79
+        },
+        {
+          "prime": 83,
+          "composition_score": 83
+        }
+      ],
+      [
+        {
+          "prime": 97,
+          "composition_score": 97
+        },
+        {
+          "prime": 101,
+          "composition_score": 51
+        }
+      ],
+      [
+        {
+          "prime": 103,
+          "composition_score": 53
+        },
+        {
+          "prime": 107,
+          "composition_score": 57
+        }
+      ]
+    ],
+    "sexy": [
+      [
+        {
+          "prime": 5,
+          "composition_score": 55
+        },
+        {
+          "prime": 11,
+          "composition_score": 61
+        }
+      ],
+      [
+        {
+          "prime": 7,
+          "composition_score": 57
+        },
+        {
+          "prime": 13,
+          "composition_score": 63
+        }
+      ],
+      [
+        {
+          "prime": 11,
+          "composition_score": 61
+        },
+        {
+          "prime": 17,
+          "composition_score": 67
+        }
+      ],
+      [
+        {
+          "prime": 13,
+          "composition_score": 63
+        },
+        {
+          "prime": 19,
+          "composition_score": 69
+        }
+      ],
+      [
+        {
+          "prime": 17,
+          "composition_score": 67
+        },
+        {
+          "prime": 23,
+          "composition_score": 73
+        }
+      ],
+      [
+        {
+          "prime": 23,
+          "composition_score": 73
+        },
+        {
+          "prime": 29,
+          "composition_score": 79
+        }
+      ],
+      [
+        {
+          "prime": 31,
+          "composition_score": 81
+        },
+        {
+          "prime": 37,
+          "composition_score": 87
+        }
+      ],
+      [
+        {
+          "prime": 37,
+          "composition_score": 87
+        },
+        {
+          "prime": 43,
+          "composition_score": 93
+        }
+      ],
+      [
+        {
+          "prime": 41,
+          "composition_score": 91
+        },
+        {
+          "prime": 47,
+          "composition_score": 97
+        }
+      ],
+      [
+        {
+          "prime": 47,
+          "composition_score": 97
+        },
+        {
+          "prime": 53,
+          "composition_score": 53
+        }
+      ]
+    ],
+    "prime_triplet": [
+      [
+        {
+          "prime": 5,
+          "composition_score": 55
+        },
+        {
+          "prime": 7,
+          "composition_score": 57
+        },
+        {
+          "prime": 11,
+          "composition_score": 61
+        }
+      ],
+      [
+        {
+          "prime": 3,
+          "composition_score": 53
+        },
+        {
+          "prime": 5,
+          "composition_score": 55
+        },
+        {
+          "prime": 7,
+          "composition_score": 57
+        }
+      ],
+      [
+        {
+          "prime": 11,
+          "composition_score": 61
+        },
+        {
+          "prime": 13,
+          "composition_score": 63
+        },
+        {
+          "prime": 17,
+          "composition_score": 67
+        }
+      ],
+      [
+        {
+          "prime": 17,
+          "composition_score": 67
+        },
+        {
+          "prime": 19,
+          "composition_score": 69
+        },
+        {
+          "prime": 23,
+          "composition_score": 73
+        }
+      ],
+      [
+        {
+          "prime": 41,
+          "composition_score": 91
+        },
+        {
+          "prime": 43,
+          "composition_score": 93
+        },
+        {
+          "prime": 47,
+          "composition_score": 97
+        }
+      ],
+      [
+        {
+          "prime": 101,
+          "composition_score": 51
+        },
+        {
+          "prime": 103,
+          "composition_score": 53
+        },
+        {
+          "prime": 107,
+          "composition_score": 57
+        }
+      ],
+      [
+        {
+          "prime": 107,
+          "composition_score": 57
+        },
+        {
+          "prime": 109,
+          "composition_score": 59
+        },
+        {
+          "prime": 113,
+          "composition_score": 63
+        }
+      ]
+    ],
+    "prime_quadruplet": [
+      [
+        {
+          "prime": 5,
+          "composition_score": 55
+        },
+        {
+          "prime": 7,
+          "composition_score": 57
+        },
+        {
+          "prime": 11,
+          "composition_score": 61
+        },
+        {
+          "prime": 13,
+          "composition_score": 63
+        }
+      ],
+      [
+        {
+          "prime": 11,
+          "composition_score": 61
+        },
+        {
+          "prime": 13,
+          "composition_score": 63
+        },
+        {
+          "prime": 17,
+          "composition_score": 67
+        },
+        {
+          "prime": 19,
+          "composition_score": 69
+        }
+      ],
+      [
+        {
+          "prime": 101,
+          "composition_score": 51
+        },
+        {
+          "prime": 103,
+          "composition_score": 53
+        },
+        {
+          "prime": 107,
+          "composition_score": 57
+        },
+        {
+          "prime": 109,
+          "composition_score": 59
+        }
+      ]
+    ],
+    "sexy_triplet": [
+      [
+        {
+          "prime": 5,
+          "composition_score": 55
+        },
+        {
+          "prime": 11,
+          "composition_score": 61
+        },
+        {
+          "prime": 17,
+          "composition_score": 67
+        }
+      ],
+      [
+        {
+          "prime": 7,
+          "composition_score": 57
+        },
+        {
+          "prime": 13,
+          "composition_score": 63
+        },
+        {
+          "prime": 19,
+          "composition_score": 69
+        }
+      ],
+      [
+        {
+          "prime": 11,
+          "composition_score": 61
+        },
+        {
+          "prime": 17,
+          "composition_score": 67
+        },
+        {
+          "prime": 23,
+          "composition_score": 73
+        }
+      ],
+      [
+        {
+          "prime": 17,
+          "composition_score": 67
+        },
+        {
+          "prime": 23,
+          "composition_score": 73
+        },
+        {
+          "prime": 29,
+          "composition_score": 79
+        }
+      ],
+      [
+        {
+          "prime": 31,
+          "composition_score": 81
+        },
+        {
+          "prime": 37,
+          "composition_score": 87
+        },
+        {
+          "prime": 43,
+          "composition_score": 93
+        }
+      ],
+      [
+        {
+          "prime": 41,
+          "composition_score": 91
+        },
+        {
+          "prime": 47,
+          "composition_score": 97
+        },
+        {
+          "prime": 53,
+          "composition_score": 53
+        }
+      ],
+      [
+        {
+          "prime": 47,
+          "composition_score": 97
+        },
+        {
+          "prime": 53,
+          "composition_score": 53
+        },
+        {
+          "prime": 59,
+          "composition_score": 59
+        }
+      ],
+      [
+        {
+          "prime": 61,
+          "composition_score": 61
+        },
+        {
+          "prime": 67,
+          "composition_score": 67
+        },
+        {
+          "prime": 73,
+          "composition_score": 73
+        }
+      ],
+      [
+        {
+          "prime": 67,
+          "composition_score": 67
+        },
+        {
+          "prime": 73,
+          "composition_score": 73
+        },
+        {
+          "prime": 79,
+          "composition_score": 79
+        }
+      ],
+      [
+        {
+          "prime": 97,
+          "composition_score": 97
+        },
+        {
+          "prime": 103,
+          "composition_score": 53
+        },
+        {
+          "prime": 109,
+          "composition_score": 59
+        }
+      ]
+    ]
+  },
+  "composition_patterns": {
+    "twin": {
+      "family_type": "twin",
+      "total_groups": 10,
+      "composition_scores": [
+        54.0,
+        56.0,
+        62.0,
+        68.0,
+        80.0,
+        92.0,
+        60.0,
+        72.0,
+        52.0,
+        58.0
+      ],
+      "average_score": 65.4,
+      "high_composition_groups": [
+        {
+          "primes": [
+            29,
+            31
+          ],
+          "score": 80.0
+        },
+        {
+          "primes": [
+            41,
+            43
+          ],
+          "score": 92.0
+        },
+        {
+          "primes": [
+            71,
+            73
+          ],
+          "score": 72.0
+        }
+      ],
+      "pattern_insights": [
+        "High composition tendency in twin families",
+        "Found 3 exceptional twin groups"
+      ]
+    },
+    "cousin": {
+      "family_type": "cousin",
+      "total_groups": 11,
+      "composition_scores": [
+        55.0,
+        59.0,
+        65.0,
+        71.0,
+        89.0,
+        95.0,
+        69.0,
+        81.0,
+        74.0,
+        55.0,
+        61.0
+      ],
+      "average_score": 70.36363636363636,
+      "high_composition_groups": [
+        {
+          "primes": [
+            19,
+            23
+          ],
+          "score": 71.0
+        },
+        {
+          "primes": [
+            37,
+            41
+          ],
+          "score": 89.0
+        },
+        {
+          "primes": [
+            43,
+            47
+          ],
+          "score": 95.0
+        },
+        {
+          "primes": [
+            79,
+            83
+          ],
+          "score": 81.0
+        },
+        {
+          "primes": [
+            97,
+            101
+          ],
+          "score": 74.0
+        }
+      ],
+      "pattern_insights": [
+        "High composition tendency in cousin families",
+        "Found 5 exceptional cousin groups"
+      ]
+    },
+    "sexy": {
+      "family_type": "sexy",
+      "total_groups": 19,
+      "composition_scores": [
+        58.0,
+        60.0,
+        64.0,
+        66.0,
+        70.0,
+        76.0,
+        84.0,
+        90.0,
+        94.0,
+        75.0,
+        56.0,
+        64.0,
+        70.0,
+        76.0,
+        86.0,
+        75.0,
+        54.0,
+        56.0,
+        60.0
+      ],
+      "average_score": 70.21052631578948,
+      "high_composition_groups": [
+        {
+          "primes": [
+            23,
+            29
+          ],
+          "score": 76.0
+        },
+        {
+          "primes": [
+            31,
+            37
+          ],
+          "score": 84.0
+        },
+        {
+          "primes": [
+            37,
+            43
+          ],
+          "score": 90.0
+        },
+        {
+          "primes": [
+            41,
+            47
+          ],
+          "score": 94.0
+        },
+        {
+          "primes": [
+            47,
+            53
+          ],
+          "score": 75.0
+        },
+        {
+          "primes": [
+            73,
+            79
+          ],
+          "score": 76.0
+        },
+        {
+          "primes": [
+            83,
+            89
+          ],
+          "score": 86.0
+        },
+        {
+          "primes": [
+            97,
+            103
+          ],
+          "score": 75.0
+        }
+      ],
+      "pattern_insights": [
+        "High composition tendency in sexy families",
+        "Found 8 exceptional sexy groups"
+      ]
+    },
+    "prime_triplet": {
+      "family_type": "prime_triplet",
+      "total_groups": 7,
+      "composition_scores": [
+        57.666666666666664,
+        55.0,
+        63.666666666666664,
+        69.66666666666667,
+        93.66666666666667,
+        53.666666666666664,
+        59.666666666666664
+      ],
+      "average_score": 64.71428571428572,
+      "high_composition_groups": [
+        {
+          "primes": [
+            41,
+            43,
+            47
+          ],
+          "score": 93.66666666666667
+        }
+      ],
+      "pattern_insights": [
+        "High composition tendency in prime_triplet families",
+        "Found 1 exceptional prime_triplet groups"
+      ]
+    },
+    "prime_quadruplet": {
+      "family_type": "prime_quadruplet",
+      "total_groups": 3,
+      "composition_scores": [
+        59.0,
+        65.0,
+        55.0
+      ],
+      "average_score": 59.666666666666664,
+      "high_composition_groups": [],
+      "pattern_insights": []
+    },
+    "sexy_triplet": {
+      "family_type": "sexy_triplet",
+      "total_groups": 11,
+      "composition_scores": [
+        61.0,
+        63.0,
+        67.0,
+        73.0,
+        87.0,
+        80.33333333333333,
+        69.66666666666667,
+        67.0,
+        73.0,
+        69.66666666666667,
+        57.0
+      ],
+      "average_score": 69.78787878787878,
+      "high_composition_groups": [
+        {
+          "primes": [
+            17,
+            23,
+            29
+          ],
+          "score": 73.0
+        },
+        {
+          "primes": [
+            31,
+            37,
+            43
+          ],
+          "score": 87.0
+        },
+        {
+          "primes": [
+            41,
+            47,
+            53
+          ],
+          "score": 80.33333333333333
+        },
+        {
+          "primes": [
+            67,
+            73,
+            79
+          ],
+          "score": 73.0
+        }
+      ],
+      "pattern_insights": [
+        "High composition tendency in sexy_triplet families",
+        "Found 4 exceptional sexy_triplet groups"
+      ]
+    }
+  },
+  "super_families": {
+    "twin": {
+      "total_groups": 10,
+      "average_family_score": 65.4,
+      "exceptional_families": [
+        {
+          "members": [
+            41,
+            43
+          ],
+          "individual_scores": [
+            91,
+            93
+          ],
+          "average_score": 92.0,
+          "family_type": "twin"
+        }
+      ],
+      "super_family_ratio": 10.0
+    },
+    "cousin": {
+      "total_groups": 11,
+      "average_family_score": 70.36363636363636,
+      "exceptional_families": [
+        {
+          "members": [
+            37,
+            41
+          ],
+          "individual_scores": [
+            87,
+            91
+          ],
+          "average_score": 89.0,
+          "family_type": "cousin"
+        },
+        {
+          "members": [
+            43,
+            47
+          ],
+          "individual_scores": [
+            93,
+            97
+          ],
+          "average_score": 95.0,
+          "family_type": "cousin"
+        },
+        {
+          "members": [
+            79,
+            83
+          ],
+          "individual_scores": [
+            79,
+            83
+          ],
+          "average_score": 81.0,
+          "family_type": "cousin"
+        }
+      ],
+      "super_family_ratio": 27.27272727272727
+    },
+    "sexy": {
+      "total_groups": 19,
+      "average_family_score": 70.21052631578948,
+      "exceptional_families": [
+        {
+          "members": [
+            31,
+            37
+          ],
+          "individual_scores": [
+            81,
+            87
+          ],
+          "average_score": 84.0,
+          "family_type": "sexy"
+        },
+        {
+          "members": [
+            37,
+            43
+          ],
+          "individual_scores": [
+            87,
+            93
+          ],
+          "average_score": 90.0,
+          "family_type": "sexy"
+        },
+        {
+          "members": [
+            41,
+            47
+          ],
+          "individual_scores": [
+            91,
+            97
+          ],
+          "average_score": 94.0,
+          "family_type": "sexy"
+        },
+        {
+          "members": [
+            83,
+            89
+          ],
+          "individual_scores": [
+            83,
+            89
+          ],
+          "average_score": 86.0,
+          "family_type": "sexy"
+        }
+      ],
+      "super_family_ratio": 21.052631578947366
+    },
+    "prime_triplet": {
+      "total_groups": 7,
+      "average_family_score": 64.71428571428572,
+      "exceptional_families": [
+        {
+          "members": [
+            41,
+            43,
+            47
+          ],
+          "individual_scores": [
+            91,
+            93,
+            97
+          ],
+          "average_score": 93.66666666666667,
+          "family_type": "prime_triplet"
+        }
+      ],
+      "super_family_ratio": 14.285714285714285
+    },
+    "prime_quadruplet": {
+      "total_groups": 3,
+      "average_family_score": 59.666666666666664,
+      "exceptional_families": [],
+      "super_family_ratio": 0.0
+    },
+    "sexy_triplet": {
+      "total_groups": 11,
+      "average_family_score": 69.78787878787878,
+      "exceptional_families": [
+        {
+          "members": [
+            31,
+            37,
+            43
+          ],
+          "individual_scores": [
+            81,
+            87,
+            93
+          ],
+          "average_score": 87.0,
+          "family_type": "sexy_triplet"
+        },
+        {
+          "members": [
+            41,
+            47,
+            53
+          ],
+          "individual_scores": [
+            91,
+            97,
+            53
+          ],
+          "average_score": 80.33333333333333,
+          "family_type": "sexy_triplet"
+        }
+      ],
+      "super_family_ratio": 18.181818181818183
+    }
+  },
+  "family_evolution": {
+    "segments": [
+      {
+        "segment": 1,
+        "prime_range": "3-13",
+        "family_counts": {
+          "twin": 3,
+          "cousin": 2,
+          "sexy": 2,
+          "prime_triplet": 3,
+          "sophie_germain": 2,
+          "safe": 2
+        },
+        "family_density": {
+          "twin": 60.0,
+          "cousin": 40.0,
+          "sexy": 40.0,
+          "prime_triplet": 60.0,
+          "sophie_germain": 40.0,
+          "safe": 40.0
+        }
+      },
+      {
+        "segment": 2,
+        "prime_range": "17-31",
+        "family_counts": {
+          "twin": 2,
+          "cousin": 1,
+          "sexy": 2,
+          "prime_triplet": 3,
+          "sophie_germain": 0,
+          "safe": 0
+        },
+        "family_density": {
+          "twin": 40.0,
+          "cousin": 20.0,
+          "sexy": 40.0,
+          "prime_triplet": 60.0,
+          "sophie_germain": 0.0,
+          "safe": 0.0
+        }
+      },
+      {
+        "segment": 3,
+        "prime_range": "37-53",
+        "family_counts": {
+          "twin": 1,
+          "cousin": 2,
+          "sexy": 3,
+          "prime_triplet": 3,
+          "sophie_germain": 0,
+          "safe": 0
+        },
+        "family_density": {
+          "twin": 20.0,
+          "cousin": 40.0,
+          "sexy": 60.0,
+          "prime_triplet": 60.0,
+          "sophie_germain": 0.0,
+          "safe": 0.0
+        }
+      },
+      {
+        "segment": 4,
+        "prime_range": "59-73",
+        "family_counts": {
+          "twin": 2,
+          "cousin": 1,
+          "sexy": 2,
+          "prime_triplet": 0,
+          "sophie_germain": 0,
+          "safe": 0
+        },
+        "family_density": {
+          "twin": 40.0,
+          "cousin": 20.0,
+          "sexy": 40.0,
+          "prime_triplet": 0.0,
+          "sophie_germain": 0.0,
+          "safe": 0.0
+        }
+      },
+      {
+        "segment": 5,
+        "prime_range": "79-101",
+        "family_counts": {
+          "twin": 0,
+          "cousin": 2,
+          "sexy": 1,
+          "prime_triplet": 0,
+          "sophie_germain": 0,
+          "safe": 0
+        },
+        "family_density": {
+          "twin": 0.0,
+          "cousin": 40.0,
+          "sexy": 20.0,
+          "prime_triplet": 0.0,
+          "sophie_germain": 0.0,
+          "safe": 0.0
+        }
+      },
+      {
+        "segment": 6,
+        "prime_range": "103-113",
+        "family_counts": {
+          "twin": 1,
+          "cousin": 2,
+          "sexy": 2,
+          "prime_triplet": 3,
+          "sophie_germain": 0,
+          "safe": 0
+        },
+        "family_density": {
+          "twin": 25.0,
+          "cousin": 50.0,
+          "sexy": 50.0,
+          "prime_triplet": 75.0,
+          "sophie_germain": 0.0,
+          "safe": 0.0
+        }
+      }
+    ],
+    "trends": {
+      "twin": {
+        "initial": 60.0,
+        "final": 25.0,
+        "change": -35.0,
+        "trend": "decreasing"
+      },
+      "cousin": {
+        "initial": 40.0,
+        "final": 50.0,
+        "change": 10.0,
+        "trend": "increasing"
+      },
+      "sexy": {
+        "initial": 40.0,
+        "final": 50.0,
+        "change": 10.0,
+        "trend": "increasing"
+      },
+      "prime_triplet": {
+        "initial": 60.0,
+        "final": 75.0,
+        "change": 15.0,
+        "trend": "increasing"
+      },
+      "sophie_germain": {
+        "initial": 40.0,
+        "final": 0.0,
+        "change": -40.0,
+        "trend": "decreasing"
+      },
+      "safe": {
+        "initial": 40.0,
+        "final": 0.0,
+        "change": -40.0,
+        "trend": "decreasing"
+      }
+    }
+  },
+  "statistics": {
+    "total_primes": 29,
+    "family_types_analyzed": 6,
+    "total_family_groups": 61
+  }
+}

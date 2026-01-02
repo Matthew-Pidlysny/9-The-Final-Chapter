@@ -1,0 +1,255 @@
+{
+  "quantum_limit_analysis": {
+    "hypothesis": "Numbers terminate or stabilize at 61 digits (quantum limit)",
+    "test_primes": 20,
+    "terminations_at_61": 18,
+    "stabilizations_at_61": 11,
+    "entropy_at_61": [
+      0.0,
+      0.0,
+      0.0,
+      0.7778655803101036,
+      0.30097163582302394,
+      0.7778655803101036,
+      0.9757177726495156,
+      0.986415224310584,
+      0.9929862867877621,
+      0.9934655734593507,
+      0.9190105385094642,
+      0.47700516261779075,
+      0.6987402712357692,
+      0.8956873912268979,
+      0.9944861445747247,
+      0.958779750663988,
+      0.998304013732198,
+      0.9994961661449221,
+      0.9105087881153209,
+      0.9493753763867185
+    ],
+    "special_cases": [
+      {
+        "prime": 17,
+        "entropy": 0.9757177726495156,
+        "period": 16,
+        "notes": "Generator prime - defines C*"
+      },
+      {
+        "prime": 19,
+        "entropy": 0.986415224310584,
+        "period": 18,
+        "notes": "Generator prime - defines C*"
+      }
+    ],
+    "termination_rate": 90.0,
+    "stabilization_rate": 55.00000000000001,
+    "average_entropy": 0.7303340628429119,
+    "entropy_variance": 0.13304344072153546
+  },
+  "extreme_precision_17_19": {
+    "fraction": "17/19",
+    "exact_value": "17/19",
+    "c_star_value": "0.8947368421052632",
+    "precision_tests": [
+      {
+        "precision": 100,
+        "decimal_expansion": "8947368421052631578947368421052631578947368421052631578947368421052631578947368421052631578947368421",
+        "period_detected": 18,
+        "entropy": 3.27739083507476,
+        "normalized_entropy": 0.9865929488717268
+      },
+      {
+        "precision": 200,
+        "decimal_expansion": "8947368421052631578947368421052631578947368421052631578947368421052631578947368421052631578947368421...",
+        "period_detected": 18,
+        "entropy": 3.2845177294091283,
+        "normalized_entropy": 0.9887383578422994
+      },
+      {
+        "precision": 500,
+        "decimal_expansion": "8947368421052631578947368421052631578947368421052631578947368421052631578947368421052631578947368421...",
+        "period_detected": 18,
+        "entropy": 3.2818672543589784,
+        "normalized_entropy": 0.9879404853494452
+      },
+      {
+        "precision": 1000,
+        "decimal_expansion": "8947368421052631578947368421052631578947368421052631578947368421052631578947368421052631578947368421...",
+        "period_detected": 18,
+        "entropy": 3.2808997479300803,
+        "normalized_entropy": 0.9876492368933492
+      },
+      {
+        "precision": 2000,
+        "decimal_expansion": "8947368421052631578947368421052631578947368421052631578947368421052631578947368421052631578947368421...",
+        "period_detected": 18,
+        "entropy": 3.281420861449284,
+        "normalized_entropy": 0.9878061076937755
+      }
+    ],
+    "limit_behavior": {
+      "entropy_converges": false,
+      "final_entropy": 0.9878061076937755,
+      "entropy_stabilization_point": 2000
+    }
+  },
+  "composition_limits_correlation": {
+    "correlations": {
+      "entropy_composition": 0.7529900621573025
+    },
+    "patterns": [
+      {
+        "prime": 2,
+        "composition_score": 0.0,
+        "quantum_entropy": 0.0,
+        "stabilization_point": 0,
+        "terminates_at_quantum": false
+      },
+      {
+        "prime": 3,
+        "composition_score": 20.0,
+        "quantum_entropy": 0.0,
+        "stabilization_point": 0,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 5,
+        "composition_score": 0.0,
+        "quantum_entropy": 0.0,
+        "stabilization_point": 0,
+        "terminates_at_quantum": false
+      },
+      {
+        "prime": 7,
+        "composition_score": 96.02476827826138,
+        "quantum_entropy": 0.7778655803101036,
+        "stabilization_point": 35,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 11,
+        "composition_score": 77.02918520625173,
+        "quantum_entropy": 0.30097163582302394,
+        "stabilization_point": 35,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 13,
+        "composition_score": 96.02476827826138,
+        "quantum_entropy": 0.7778655803101036,
+        "stabilization_point": 35,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 17,
+        "composition_score": 100,
+        "quantum_entropy": 0.9757177726495156,
+        "stabilization_point": 35,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 19,
+        "composition_score": 100,
+        "quantum_entropy": 0.986415224310584,
+        "stabilization_point": 35,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 23,
+        "composition_score": 98.93895145369929,
+        "quantum_entropy": 0.9929862867877621,
+        "stabilization_point": 61,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 29,
+        "composition_score": 98.96389090907556,
+        "quantum_entropy": 0.9934655734593507,
+        "stabilization_point": 61,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 31,
+        "composition_score": 96.67359116131743,
+        "quantum_entropy": 0.9190105385094642,
+        "stabilization_point": 61,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 37,
+        "composition_score": 84.07967588377286,
+        "quantum_entropy": 0.47700516261779075,
+        "stabilization_point": 35,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 41,
+        "composition_score": 92.95650284243825,
+        "quantum_entropy": 0.6987402712357692,
+        "stabilization_point": 35,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 43,
+        "composition_score": 65.23438272178433,
+        "quantum_entropy": 0.8956873912268979,
+        "stabilization_point": 35,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 47,
+        "composition_score": 99.03333049520725,
+        "quantum_entropy": 0.9944861445747247,
+        "stabilization_point": 61,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 53,
+        "composition_score": 63.35641294782022,
+        "quantum_entropy": 0.958779750663988,
+        "stabilization_point": 100,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 59,
+        "composition_score": 63.609838802558365,
+        "quantum_entropy": 0.998304013732198,
+        "stabilization_point": 100,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 61,
+        "composition_score": 63.574568071331335,
+        "quantum_entropy": 0.9994961661449221,
+        "stabilization_point": 100,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 67,
+        "composition_score": 61.50609164004709,
+        "quantum_entropy": 0.9105087881153209,
+        "stabilization_point": 100,
+        "terminates_at_quantum": true
+      },
+      {
+        "prime": 71,
+        "composition_score": 62.11989970442397,
+        "quantum_entropy": 0.9493753763867185,
+        "stabilization_point": 100,
+        "terminates_at_quantum": true
+      }
+    ],
+    "boundary_insights": [
+      {
+        "insight": "High composition primes stabilize at",
+        "value": 44.45454545454545,
+        "interpretation": "digits on average"
+      }
+    ]
+  },
+  "summary": {
+    "total_primes_tested": 20,
+    "quantum_limit_termination_rate": 90.0,
+    "quantum_limit_stabilization_rate": 55.00000000000001,
+    "average_entropy_at_61": 0.7303340628429119
+  }
+}

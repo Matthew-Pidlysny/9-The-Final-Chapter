@@ -1,0 +1,20 @@
+{
+  "total_primes": 500,
+  "family_counts": {
+    "twin": 96,
+    "cousin": 99,
+    "sexy": 188
+  },
+  "reptend_primes": 199,
+  "strong_c_relationships": 2,
+  "hardness_stats": {
+    "average": 0.9633977364228312,
+    "max": 0.999129957566112,
+    "min": 0.0
+  },
+  "composition_stats": {
+    "average_score": 47.97,
+    "max_score": 100,
+    "min_score": 10
+  }
+}

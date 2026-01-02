@@ -1,0 +1,513 @@
+{
+  "hardness_rankings": [
+    {
+      "rank": 1,
+      "prime": 61,
+      "quantum_hardness": 0.9994961661449221,
+      "average_hardness": 0.9759950402115876,
+      "max_hardness": 0.9996741432856481,
+      "hardness_class": "rock_hard",
+      "is_reptend": true,
+      "stabilization_point": 100
+    },
+    {
+      "rank": 2,
+      "prime": 59,
+      "quantum_hardness": 0.998304013732198,
+      "average_hardness": 0.9760483002530952,
+      "max_hardness": 0.998366880647108,
+      "hardness_class": "rock_hard",
+      "is_reptend": true,
+      "stabilization_point": 100
+    },
+    {
+      "rank": 3,
+      "prime": 47,
+      "quantum_hardness": 0.9944861445747247,
+      "average_hardness": 0.9827683538270474,
+      "max_hardness": 0.996997687416484,
+      "hardness_class": "rock_hard",
+      "is_reptend": true,
+      "stabilization_point": 100
+    },
+    {
+      "rank": 4,
+      "prime": 29,
+      "quantum_hardness": 0.9934655734593507,
+      "average_hardness": 0.9810112529843872,
+      "max_hardness": 0.9953308370224936,
+      "hardness_class": "rock_hard",
+      "is_reptend": true,
+      "stabilization_point": 61
+    },
+    {
+      "rank": 5,
+      "prime": 23,
+      "quantum_hardness": 0.9929862867877621,
+      "average_hardness": 0.9802894125111229,
+      "max_hardness": 0.994089887292576,
+      "hardness_class": "rock_hard",
+      "is_reptend": true,
+      "stabilization_point": 61
+    },
+    {
+      "rank": 6,
+      "prime": 97,
+      "quantum_hardness": 0.9917941343750379,
+      "average_hardness": 0.9654650698345982,
+      "max_hardness": 0.9994511835362059,
+      "hardness_class": "rock_hard",
+      "is_reptend": true,
+      "stabilization_point": 100
+    },
+    {
+      "rank": 7,
+      "prime": 19,
+      "quantum_hardness": 0.986415224310584,
+      "average_hardness": 0.9859297912121977,
+      "max_hardness": 0.9898009282238193,
+      "hardness_class": "rock_hard",
+      "is_reptend": true,
+      "stabilization_point": 61
+    },
+    {
+      "rank": 8,
+      "prime": 17,
+      "quantum_hardness": 0.9757177726495156,
+      "average_hardness": 0.9770305796258273,
+      "max_hardness": 0.9789291444225247,
+      "hardness_class": "rock_hard",
+      "is_reptend": true,
+      "stabilization_point": 35
+    },
+    {
+      "rank": 9,
+      "prime": 89,
+      "quantum_hardness": 0.9756522938467566,
+      "average_hardness": 0.9555377859779325,
+      "max_hardness": 0.9815351847852053,
+      "hardness_class": "rock_hard",
+      "is_reptend": false,
+      "stabilization_point": 61
+    },
+    {
+      "rank": 10,
+      "prime": 53,
+      "quantum_hardness": 0.958779750663988,
+      "average_hardness": 0.9583797090010041,
+      "max_hardness": 0.9602550098461564,
+      "hardness_class": "rock_hard",
+      "is_reptend": false,
+      "stabilization_point": 35
+    },
+    {
+      "rank": 11,
+      "prime": 83,
+      "quantum_hardness": 0.9499023049477149,
+      "average_hardness": 0.9351623825122838,
+      "max_hardness": 0.9627893669848258,
+      "hardness_class": "very_hard",
+      "is_reptend": false,
+      "stabilization_point": 100
+    },
+    {
+      "rank": 12,
+      "prime": 71,
+      "quantum_hardness": 0.9493753763867185,
+      "average_hardness": 0.9391660787158536,
+      "max_hardness": 0.9645072242439204,
+      "hardness_class": "very_hard",
+      "is_reptend": false,
+      "stabilization_point": 100
+    },
+    {
+      "rank": 13,
+      "prime": 31,
+      "quantum_hardness": 0.9190105385094642,
+      "average_hardness": 0.9176794825444147,
+      "max_hardness": 0.9204041021256807,
+      "hardness_class": "very_hard",
+      "is_reptend": false,
+      "stabilization_point": 100
+    },
+    {
+      "rank": 14,
+      "prime": 67,
+      "quantum_hardness": 0.9105087881153209,
+      "average_hardness": 0.9149099269219705,
+      "max_hardness": 0.9261096145323359,
+      "hardness_class": "very_hard",
+      "is_reptend": false,
+      "stabilization_point": 100
+    },
+    {
+      "rank": 15,
+      "prime": 43,
+      "quantum_hardness": 0.8956873912268979,
+      "average_hardness": 0.8848393389822743,
+      "max_hardness": 0.8956873912268979,
+      "hardness_class": "very_hard",
+      "is_reptend": false,
+      "stabilization_point": 61
+    },
+    {
+      "rank": 16,
+      "prime": 79,
+      "quantum_hardness": 0.8492895874237137,
+      "average_hardness": 0.8491756632214235,
+      "max_hardness": 0.8500593315376804,
+      "hardness_class": "hard",
+      "is_reptend": false,
+      "stabilization_point": 35
+    },
+    {
+      "rank": 17,
+      "prime": 7,
+      "quantum_hardness": 0.7778655803101036,
+      "average_hardness": 0.7764560069599983,
+      "max_hardness": 0.7781512503836436,
+      "hardness_class": "hard",
+      "is_reptend": true,
+      "stabilization_point": 35
+    },
+    {
+      "rank": 18,
+      "prime": 13,
+      "quantum_hardness": 0.7778655803101036,
+      "average_hardness": 0.7764560069599983,
+      "max_hardness": 0.7781512503836436,
+      "hardness_class": "hard",
+      "is_reptend": false,
+      "stabilization_point": 35
+    },
+    {
+      "rank": 19,
+      "prime": 73,
+      "quantum_hardness": 0.7546317409193427,
+      "average_hardness": 0.7547784924407613,
+      "max_hardness": 0.759568346070169,
+      "hardness_class": "hard",
+      "is_reptend": false,
+      "stabilization_point": 35
+    },
+    {
+      "rank": 20,
+      "prime": 41,
+      "quantum_hardness": 0.6987402712357692,
+      "average_hardness": 0.6989317154859771,
+      "max_hardness": 0.6989700043360187,
+      "hardness_class": "medium",
+      "is_reptend": false,
+      "stabilization_point": 35
+    },
+    {
+      "rank": 21,
+      "prime": 37,
+      "quantum_hardness": 0.47700516261779075,
+      "average_hardness": 0.47703320370375984,
+      "max_hardness": 0.47712125471966244,
+      "hardness_class": "soft",
+      "is_reptend": false,
+      "stabilization_point": 35
+    },
+    {
+      "rank": 22,
+      "prime": 11,
+      "quantum_hardness": 0.30097163582302394,
+      "average_hardness": 0.30082975199218914,
+      "max_hardness": 0.3010299956639812,
+      "hardness_class": "soft",
+      "is_reptend": false,
+      "stabilization_point": 35
+    },
+    {
+      "rank": 23,
+      "prime": 2,
+      "quantum_hardness": 0.0,
+      "average_hardness": 0.0,
+      "max_hardness": 0.0,
+      "hardness_class": "soft",
+      "is_reptend": false,
+      "stabilization_point": 35
+    },
+    {
+      "rank": 24,
+      "prime": 3,
+      "quantum_hardness": 0.0,
+      "average_hardness": 0.0,
+      "max_hardness": 0.0,
+      "hardness_class": "soft",
+      "is_reptend": false,
+      "stabilization_point": 35
+    },
+    {
+      "rank": 25,
+      "prime": 5,
+      "quantum_hardness": 0.0,
+      "average_hardness": 0.0,
+      "max_hardness": 0.0,
+      "hardness_class": "soft",
+      "is_reptend": false,
+      "stabilization_point": 35
+    }
+  ],
+  "reptend_correlation": {
+    "reptend_primes": {
+      "count": 9,
+      "average_hardness": 0.9678367662604666,
+      "max_hardness": 0.9994961661449221,
+      "min_hardness": 0.7778655803101036
+    },
+    "non_reptend_primes": {
+      "count": 16,
+      "average_hardness": 0.6510887763766627,
+      "max_hardness": 0.9756522938467566,
+      "min_hardness": 0.0
+    },
+    "correlation_strength": 0.3167479898838038,
+    "hardness_gap": 0.3167479898838038
+  },
+  "composition_correlation": {
+    "individual_results": [
+      {
+        "prime": 2,
+        "quantum_hardness": 0.0,
+        "hardness_class": "soft",
+        "p_times_c_error": 0.21052631578947367,
+        "p_div_c_error": 0.23529411764705888,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 3,
+        "quantum_hardness": 0.0,
+        "hardness_class": "soft",
+        "p_times_c_error": 0.3157894736842106,
+        "p_div_c_error": 0.3529411764705883,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 5,
+        "quantum_hardness": 0.0,
+        "hardness_class": "soft",
+        "p_times_c_error": 0.47368421052631593,
+        "p_div_c_error": 0.41176470588235325,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 7,
+        "quantum_hardness": 0.7778655803101036,
+        "hardness_class": "hard",
+        "p_times_c_error": 0.2631578947368425,
+        "p_div_c_error": 0.17647058823529438,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 11,
+        "quantum_hardness": 0.30097163582302394,
+        "hardness_class": "soft",
+        "p_times_c_error": 0.15789473684210442,
+        "p_div_c_error": 0.29411764705882426,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 13,
+        "quantum_hardness": 0.7778655803101036,
+        "hardness_class": "hard",
+        "p_times_c_error": 0.36842105263157876,
+        "p_div_c_error": 0.47058823529411775,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 17,
+        "quantum_hardness": 0.9757177726495156,
+        "hardness_class": "rock_hard",
+        "p_times_c_error": 0.21052631578947434,
+        "p_div_c_error": 0.0,
+        "strong_c_relationship": true,
+        "composition_score": 0
+      },
+      {
+        "prime": 19,
+        "quantum_hardness": 0.986415224310584,
+        "hardness_class": "rock_hard",
+        "p_times_c_error": 0.0,
+        "p_div_c_error": 0.235294117647058,
+        "strong_c_relationship": true,
+        "composition_score": 0
+      },
+      {
+        "prime": 23,
+        "quantum_hardness": 0.9929862867877621,
+        "hardness_class": "rock_hard",
+        "p_times_c_error": 0.4210526315789487,
+        "p_div_c_error": 0.2941176470588225,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 29,
+        "quantum_hardness": 0.9934655734593507,
+        "hardness_class": "rock_hard",
+        "p_times_c_error": 0.05263157894736992,
+        "p_div_c_error": 0.41176470588235503,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 31,
+        "quantum_hardness": 0.9190105385094642,
+        "hardness_class": "very_hard",
+        "p_times_c_error": 0.2631578947368425,
+        "p_div_c_error": 0.352941176470587,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 37,
+        "quantum_hardness": 0.47700516261779075,
+        "hardness_class": "soft",
+        "p_times_c_error": 0.10526315789473983,
+        "p_div_c_error": 0.352941176470587,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 41,
+        "quantum_hardness": 0.6987402712357692,
+        "hardness_class": "medium",
+        "p_times_c_error": 0.3157894736842124,
+        "p_div_c_error": 0.17647058823529704,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 43,
+        "quantum_hardness": 0.8956873912268979,
+        "hardness_class": "very_hard",
+        "p_times_c_error": 0.47368421052631504,
+        "p_div_c_error": 0.058823529411760944,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 47,
+        "quantum_hardness": 0.9944861445747247,
+        "hardness_class": "rock_hard",
+        "p_times_c_error": 0.05263157894736992,
+        "p_div_c_error": 0.470588235294116,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 53,
+        "quantum_hardness": 0.958779750663988,
+        "hardness_class": "rock_hard",
+        "p_times_c_error": 0.4210526315789451,
+        "p_div_c_error": 0.235294117647058,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 59,
+        "quantum_hardness": 0.998304013732198,
+        "hardness_class": "rock_hard",
+        "p_times_c_error": 0.21052631578947256,
+        "p_div_c_error": 0.05882352941176805,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 61,
+        "quantum_hardness": 0.9994961661449221,
+        "hardness_class": "rock_hard",
+        "p_times_c_error": 0.4210526315789451,
+        "p_div_c_error": 0.17647058823528994,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 67,
+        "quantum_hardness": 0.9105087881153209,
+        "hardness_class": "very_hard",
+        "p_times_c_error": 0.05263157894736992,
+        "p_div_c_error": 0.1176470588235361,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 71,
+        "quantum_hardness": 0.9493753763867185,
+        "hardness_class": "very_hard",
+        "p_times_c_error": 0.47368421052631504,
+        "p_div_c_error": 0.3529411764705941,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 73,
+        "quantum_hardness": 0.7546317409193427,
+        "hardness_class": "hard",
+        "p_times_c_error": 0.3157894736842053,
+        "p_div_c_error": 0.4117647058823479,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 79,
+        "quantum_hardness": 0.8492895874237137,
+        "hardness_class": "hard",
+        "p_times_c_error": 0.3157894736842053,
+        "p_div_c_error": 0.29411764705882604,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 83,
+        "quantum_hardness": 0.9499023049477149,
+        "hardness_class": "very_hard",
+        "p_times_c_error": 0.2631578947368496,
+        "p_div_c_error": 0.235294117647058,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 89,
+        "quantum_hardness": 0.9756522938467566,
+        "hardness_class": "rock_hard",
+        "p_times_c_error": 0.3684210526315752,
+        "p_div_c_error": 0.470588235294116,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      },
+      {
+        "prime": 97,
+        "quantum_hardness": 0.9917941343750379,
+        "hardness_class": "rock_hard",
+        "p_times_c_error": 0.21052631578947967,
+        "p_div_c_error": 0.4117647058823479,
+        "strong_c_relationship": false,
+        "composition_score": 0
+      }
+    ],
+    "correlation_analysis": {
+      "total_primes": 25,
+      "high_hardness_primes": 10,
+      "strong_c_related_primes": 2,
+      "intersection_count": 2,
+      "correlation_percentage": 8.0
+    }
+  },
+  "hardness_distribution": {
+    "rock_hard": 10,
+    "very_hard": 5,
+    "hard": 4,
+    "medium": 1,
+    "soft": 5
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "synthesized_primes": [
+    {
+      "prime": 17,
+      "individual_scores": {
+        "reciprocal_score": 67,
+        "c_star_score": 77,
+        "hardness_score": 97.00000000000001,
+        "family_score": 20,
+        "limits_score": 57,
+        "pattern_score": 72
+      },
+      "unified_composition_score": 0.0,
+      "composition_class": "minimal",
+      "exceptional_properties": [
+        "C*_generator",
+        "maximal_hardness"
+      ],
+      "synthesis_insights": [
+        "Prime 17 is the lower generator of C* = 17/19"
+      ]
+    },
+    {
+      "prime": 19,
+      "individual_scores": {
+        "reciprocal_score": 69,
+        "c_star_score": 79,
+        "hardness_score": 99.0,
+        "family_score": 40,
+        "limits_score": 59,
+        "pattern_score": 74
+      },
+      "unified_composition_score": 0.0,
+      "composition_class": "minimal",
+      "exceptional_properties": [
+        "C*_generator",
+        "maximal_hardness",
+        "rich_family_structure"
+      ],
+      "synthesis_insights": [
+        "Prime 19 is the upper generator of C* = 17/19",
+        "Prime 19 participates in 4 different prime families"
+      ]
+    },
+    {
+      "prime": 23,
+      "individual_scores": {
+        "reciprocal_score": 73,
+        "c_star_score": 83,
+        "hardness_score": 83.0,
+        "family_score": 30,
+        "limits_score": 63,
+        "pattern_score": 78
+      },
+      "unified_composition_score": 0.0,
+      "composition_class": "minimal",
+      "exceptional_properties": [
+        "strong_C*_relationship"
+      ],
+      "synthesis_insights": [
+        "Prime 23 participates in 3 different prime families"
+      ]
+    },
+    {
+      "prime": 29,
+      "individual_scores": {
+        "reciprocal_score": 79,
+        "c_star_score": 89,
+        "hardness_score": 89.0,
+        "family_score": 40,
+        "limits_score": 69,
+        "pattern_score": 84
+      },
+      "unified_composition_score": 0.0,
+      "composition_class": "minimal",
+      "exceptional_properties": [
+        "strong_C*_relationship",
+        "rich_family_structure",
+        "strong_patterns"
+      ],
+      "synthesis_insights": [
+        "Prime 29 participates in 4 different prime families"
+      ]
+    },
+    {
+      "prime": 31,
+      "individual_scores": {
+        "reciprocal_score": 81,
+        "c_star_score": 91,
+        "hardness_score": 91.0,
+        "family_score": 10,
+        "limits_score": 71,
+        "pattern_score": 86
+      },
+      "unified_composition_score": 0.0,
+      "composition_class": "minimal",
+      "exceptional_properties": [
+        "strong_C*_relationship",
+        "exceptional_reciprocal_space",
+        "strong_patterns"
+      ],
+      "synthesis_insights": []
+    },
+    {
+      "prime": 37,
+      "individual_scores": {
+        "reciprocal_score": 87,
+        "c_star_score": 62,
+        "hardness_score": 97.00000000000001,
+        "family_score": 20,
+        "limits_score": 77,
+        "pattern_score": 92
+      },
+      "unified_composition_score": 0.0,
+      "composition_class": "minimal",
+      "exceptional_properties": [
+        "maximal_hardness",
+        "exceptional_reciprocal_space",
+        "strong_patterns"
+      ],
+      "synthesis_insights": []
+    },
+    {
+      "prime": 41,
+      "individual_scores": {
+        "reciprocal_score": 51,
+        "c_star_score": 66,
+        "hardness_score": 81.0,
+        "family_score": 10,
+        "limits_score": 81,
+        "pattern_score": 58
+      },
+      "unified_composition_score": 0.0,
+      "composition_class": "minimal",
+      "exceptional_properties": [
+        "numerical_stability"
+      ],
+      "synthesis_insights": []
+    },
+    {
+      "prime": 43,
+      "individual_scores": {
+        "reciprocal_score": 53,
+        "c_star_score": 68,
+        "hardness_score": 83.0,
+        "family_score": 30,
+        "limits_score": 83,
+        "pattern_score": 60
+      },
+      "unified_composition_score": 0.0,
+      "composition_class": "minimal",
+      "exceptional_properties": [
+        "numerical_stability"
+      ],
+      "synthesis_insights": [
+        "Prime 43 participates in 3 different prime families"
+      ]
+    },
+    {
+      "prime": 47,
+      "individual_scores": {
+        "reciprocal_score": 57,
+        "c_star_score": 72,
+        "hardness_score": 87.00000000000001,
+        "family_score": 20,
+        "limits_score": 42,
+        "pattern_score": 64
+      },
+      "unified_composition_score": 0.0,
+      "composition_class": "minimal",
+      "exceptional_properties": [],
+      "synthesis_insights": []
+    },
+    {
+      "prime": 53,
+      "individual_scores": {
+        "reciprocal_score": 63,
+        "c_star_score": 78,
+        "hardness_score": 93.0,
+        "family_score": 30,
+        "limits_score": 48,
+        "pattern_score": 70
+      },
+      "unified_composition_score": 0.0,
+      "composition_class": "minimal",
+      "exceptional_properties": [],
+      "synthesis_insights": [
+        "Prime 53 participates in 3 different prime families"
+      ]
+    }
+  ],
+  "synthesis_report": {
+    "executive_summary": {
+      "total_primes_analyzed": 10,
+      "master_primes_found": 0,
+      "average_composition_score": 0.0,
+      "highest_composition_score": 0.0,
+      "composition_distribution": {
+        "minimal": {
+          "count": 10,
+          "average_score": 0.0,
+          "min_score": 0.0,
+          "max_score": 0.0,
+          "score_range": 0.0
+        }
+      }
+    },
+    "master_primes": [],
+    "composition_formulas": [],
+    "composition_hierarchy": {
+      "levels": {
+        "minimal": [
+          {
+            "prime": 17,
+            "individual_scores": {
+              "reciprocal_score": 67,
+              "c_star_score": 77,
+              "hardness_score": 97.00000000000001,
+              "family_score": 20,
+              "limits_score": 57,
+              "pattern_score": 72
+            },
+            "unified_composition_score": 0.0,
+            "composition_class": "minimal",
+            "exceptional_properties": [
+              "C*_generator",
+              "maximal_hardness"
+            ],
+            "synthesis_insights": [
+              "Prime 17 is the lower generator of C* = 17/19"
+            ]
+          },
+          {
+            "prime": 19,
+            "individual_scores": {
+              "reciprocal_score": 69,
+              "c_star_score": 79,
+              "hardness_score": 99.0,
+              "family_score": 40,
+              "limits_score": 59,
+              "pattern_score": 74
+            },
+            "unified_composition_score": 0.0,
+            "composition_class": "minimal",
+            "exceptional_properties": [
+              "C*_generator",
+              "maximal_hardness",
+              "rich_family_structure"
+            ],
+            "synthesis_insights": [
+              "Prime 19 is the upper generator of C* = 17/19",
+              "Prime 19 participates in 4 different prime families"
+            ]
+          },
+          {
+            "prime": 23,
+            "individual_scores": {
+              "reciprocal_score": 73,
+              "c_star_score": 83,
+              "hardness_score": 83.0,
+              "family_score": 30,
+              "limits_score": 63,
+              "pattern_score": 78
+            },
+            "unified_composition_score": 0.0,
+            "composition_class": "minimal",
+            "exceptional_properties": [
+              "strong_C*_relationship"
+            ],
+            "synthesis_insights": [
+              "Prime 23 participates in 3 different prime families"
+            ]
+          },
+          {
+            "prime": 29,
+            "individual_scores": {
+              "reciprocal_score": 79,
+              "c_star_score": 89,
+              "hardness_score": 89.0,
+              "family_score": 40,
+              "limits_score": 69,
+              "pattern_score": 84
+            },
+            "unified_composition_score": 0.0,
+            "composition_class": "minimal",
+            "exceptional_properties": [
+              "strong_C*_relationship",
+              "rich_family_structure",
+              "strong_patterns"
+            ],
+            "synthesis_insights": [
+              "Prime 29 participates in 4 different prime families"
+            ]
+          },
+          {
+            "prime": 31,
+            "individual_scores": {
+              "reciprocal_score": 81,
+              "c_star_score": 91,
+              "hardness_score": 91.0,
+              "family_score": 10,
+              "limits_score": 71,
+              "pattern_score": 86
+            },
+            "unified_composition_score": 0.0,
+            "composition_class": "minimal",
+            "exceptional_properties": [
+              "strong_C*_relationship",
+              "exceptional_reciprocal_space",
+              "strong_patterns"
+            ],
+            "synthesis_insights": []
+          },
+          {
+            "prime": 37,
+            "individual_scores": {
+              "reciprocal_score": 87,
+              "c_star_score": 62,
+              "hardness_score": 97.00000000000001,
+              "family_score": 20,
+              "limits_score": 77,
+              "pattern_score": 92
+            },
+            "unified_composition_score": 0.0,
+            "composition_class": "minimal",
+            "exceptional_properties": [
+              "maximal_hardness",
+              "exceptional_reciprocal_space",
+              "strong_patterns"
+            ],
+            "synthesis_insights": []
+          },
+          {
+            "prime": 41,
+            "individual_scores": {
+              "reciprocal_score": 51,
+              "c_star_score": 66,
+              "hardness_score": 81.0,
+              "family_score": 10,
+              "limits_score": 81,
+              "pattern_score": 58
+            },
+            "unified_composition_score": 0.0,
+            "composition_class": "minimal",
+            "exceptional_properties": [
+              "numerical_stability"
+            ],
+            "synthesis_insights": []
+          },
+          {
+            "prime": 43,
+            "individual_scores": {
+              "reciprocal_score": 53,
+              "c_star_score": 68,
+              "hardness_score": 83.0,
+              "family_score": 30,
+              "limits_score": 83,
+              "pattern_score": 60
+            },
+            "unified_composition_score": 0.0,
+            "composition_class": "minimal",
+            "exceptional_properties": [
+              "numerical_stability"
+            ],
+            "synthesis_insights": [
+              "Prime 43 participates in 3 different prime families"
+            ]
+          },
+          {
+            "prime": 47,
+            "individual_scores": {
+              "reciprocal_score": 57,
+              "c_star_score": 72,
+              "hardness_score": 87.00000000000001,
+              "family_score": 20,
+              "limits_score": 42,
+              "pattern_score": 64
+            },
+            "unified_composition_score": 0.0,
+            "composition_class": "minimal",
+            "exceptional_properties": [],
+            "synthesis_insights": []
+          },
+          {
+            "prime": 53,
+            "individual_scores": {
+              "reciprocal_score": 63,
+              "c_star_score": 78,
+              "hardness_score": 93.0,
+              "family_score": 30,
+              "limits_score": 48,
+              "pattern_score": 70
+            },
+            "unified_composition_score": 0.0,
+            "composition_class": "minimal",
+            "exceptional_properties": [],
+            "synthesis_insights": [
+              "Prime 53 participates in 3 different prime families"
+            ]
+          }
+        ]
+      },
+      "statistics": {
+        "minimal": {
+          "count": 10,
+          "average_score": 0.0,
+          "min_score": 0.0,
+          "max_score": 0.0,
+          "score_range": 0.0
+        }
+      },
+      "transitions": []
+    },
+    "key_insights": [
+      "Most common composition class: minimal"
+    ],
+    "research_directions": [
+      "Investigate the relationship between C* and prime distribution at larger scales",
+      "Study whether composition patterns persist in primes > 10^6",
+      "Explore connections between composition strength and prime conjectures (Goldbach, Twin Prime, etc.)",
+      "Develop algorithmic methods to predict composition scores for new primes",
+      "Investigate physical or geometric interpretations of prime composition"
+    ]
+  }
+}

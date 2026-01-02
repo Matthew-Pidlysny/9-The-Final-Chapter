@@ -1,0 +1,2586 @@
+[
+  {
+    "prime": 2,
+    "reciprocal_tree_size": 2,
+    "c_star_patterns": [],
+    "period_encoding": {
+      "period": null,
+      "encoding": "non-reptend base case"
+    },
+    "density_metrics": {
+      "mean_spacing": 0.5,
+      "min_spacing": 0.5,
+      "max_spacing": 0.5,
+      "spacing_variance": 0.0,
+      "c_star_zone_coverage": 0.0,
+      "point_six_zone_coverage": 0.0
+    },
+    "composition_score": 0
+  },
+  {
+    "prime": 3,
+    "reciprocal_tree_size": 3,
+    "c_star_patterns": [],
+    "period_encoding": {
+      "period": 1,
+      "is_reptend": false,
+      "period_ratio": 0.3333333333333333,
+      "special_patterns": []
+    },
+    "density_metrics": {
+      "mean_spacing": 0.33333333333333337,
+      "min_spacing": 0.3333333333333333,
+      "max_spacing": 0.33333333333333337,
+      "spacing_variance": 1.5407439555097887e-33,
+      "c_star_zone_coverage": 0.0,
+      "point_six_zone_coverage": 0.0
+    },
+    "composition_score": 0
+  },
+  {
+    "prime": 5,
+    "reciprocal_tree_size": 5,
+    "c_star_patterns": [],
+    "period_encoding": {
+      "period": null,
+      "encoding": "non-reptend base case"
+    },
+    "density_metrics": {
+      "mean_spacing": 0.2,
+      "min_spacing": 0.19999999999999996,
+      "max_spacing": 0.20000000000000007,
+      "spacing_variance": 2.311115933264683e-33,
+      "c_star_zone_coverage": 0.0,
+      "point_six_zone_coverage": 20.0
+    },
+    "composition_score": 10
+  },
+  {
+    "prime": 7,
+    "reciprocal_tree_size": 7,
+    "c_star_patterns": [],
+    "period_encoding": {
+      "period": 6,
+      "is_reptend": true,
+      "period_ratio": 0.8571428571428571,
+      "special_patterns": [
+        "full_reptend_maximal"
+      ]
+    },
+    "density_metrics": {
+      "mean_spacing": 0.14285714285714285,
+      "min_spacing": 0.1428571428571428,
+      "max_spacing": 0.1428571428571429,
+      "spacing_variance": 1.5407439555097887e-33,
+      "c_star_zone_coverage": 14.285714285714285,
+      "point_six_zone_coverage": 14.285714285714285
+    },
+    "composition_score": 42
+  },
+  {
+    "prime": 11,
+    "reciprocal_tree_size": 11,
+    "c_star_patterns": [
+      {
+        "fraction": "1/11",
+        "value": 0.09090909090909091,
+        "pattern": "c_over_p",
+        "error": 0.00956937799043063,
+        "position": 1
+      },
+      {
+        "fraction": "2/11",
+        "value": 0.18181818181818182,
+        "pattern": "c_over_p",
+        "error": 0.00956937799043063,
+        "position": 2
+      },
+      {
+        "fraction": "3/11",
+        "value": 0.2727272727272727,
+        "pattern": "c_over_p",
+        "error": 0.00956937799043063,
+        "position": 3
+      },
+      {
+        "fraction": "4/11",
+        "value": 0.36363636363636365,
+        "pattern": "c_over_p",
+        "error": 0.00956937799043063,
+        "position": 4
+      },
+      {
+        "fraction": "5/11",
+        "value": 0.45454545454545453,
+        "pattern": "c_divided",
+        "error": 0.0071770334928229484,
+        "position": 5
+      },
+      {
+        "fraction": "5/11",
+        "value": 0.45454545454545453,
+        "pattern": "c_over_p",
+        "error": 0.00956937799043063,
+        "position": 5
+      },
+      {
+        "fraction": "6/11",
+        "value": 0.5454545454545454,
+        "pattern": "c_over_p",
+        "error": 0.00956937799043063,
+        "position": 6
+      },
+      {
+        "fraction": "7/11",
+        "value": 0.6363636363636364,
+        "pattern": "c_over_p",
+        "error": 0.00956937799043063,
+        "position": 7
+      },
+      {
+        "fraction": "8/11",
+        "value": 0.7272727272727273,
+        "pattern": "c_over_p",
+        "error": 0.00956937799043063,
+        "position": 8
+      },
+      {
+        "fraction": "9/11",
+        "value": 0.8181818181818182,
+        "pattern": "c_over_p",
+        "error": 0.00956937799043063,
+        "position": 9
+      },
+      {
+        "fraction": "10/11",
+        "value": 0.9090909090909091,
+        "pattern": "c_over_p",
+        "error": 0.00956937799043063,
+        "position": 10
+      },
+      {
+        "fraction": "1",
+        "value": 1.0,
+        "pattern": "c_over_p",
+        "error": 0.00956937799043063,
+        "position": 11
+      }
+    ],
+    "period_encoding": {
+      "period": 2,
+      "is_reptend": false,
+      "period_ratio": 0.18181818181818182,
+      "special_patterns": []
+    },
+    "density_metrics": {
+      "mean_spacing": 0.09090909090909091,
+      "min_spacing": 0.09090909090909083,
+      "max_spacing": 0.09090909090909094,
+      "spacing_variance": 1.3096323621833203e-33,
+      "c_star_zone_coverage": 9.090909090909092,
+      "point_six_zone_coverage": 9.090909090909092
+    },
+    "composition_score": 130
+  },
+  {
+    "prime": 13,
+    "reciprocal_tree_size": 13,
+    "c_star_patterns": [
+      {
+        "fraction": "1/13",
+        "value": 0.07692307692307693,
+        "pattern": "c_over_p",
+        "error": 0.008097165991902841,
+        "position": 1
+      },
+      {
+        "fraction": "2/13",
+        "value": 0.15384615384615385,
+        "pattern": "c_over_p",
+        "error": 0.008097165991902841,
+        "position": 2
+      },
+      {
+        "fraction": "3/13",
+        "value": 0.23076923076923078,
+        "pattern": "c_over_p",
+        "error": 0.008097165991902841,
+        "position": 3
+      },
+      {
+        "fraction": "4/13",
+        "value": 0.3076923076923077,
+        "pattern": "c_over_p",
+        "error": 0.008097165991902841,
+        "position": 4
+      },
+      {
+        "fraction": "5/13",
+        "value": 0.38461538461538464,
+        "pattern": "c_over_p",
+        "error": 0.008097165991902841,
+        "position": 5
+      },
+      {
+        "fraction": "6/13",
+        "value": 0.46153846153846156,
+        "pattern": "c_over_p",
+        "error": 0.008097165991902841,
+        "position": 6
+      },
+      {
+        "fraction": "7/13",
+        "value": 0.5384615384615384,
+        "pattern": "c_over_p",
+        "error": 0.008097165991902841,
+        "position": 7
+      },
+      {
+        "fraction": "8/13",
+        "value": 0.6153846153846154,
+        "pattern": "c_over_p",
+        "error": 0.008097165991902841,
+        "position": 8
+      },
+      {
+        "fraction": "9/13",
+        "value": 0.6923076923076923,
+        "pattern": "c_over_p",
+        "error": 0.008097165991902841,
+        "position": 9
+      },
+      {
+        "fraction": "10/13",
+        "value": 0.7692307692307693,
+        "pattern": "c_over_p",
+        "error": 0.008097165991902841,
+        "position": 10
+      },
+      {
+        "fraction": "11/13",
+        "value": 0.8461538461538461,
+        "pattern": "c_over_p",
+        "error": 0.008097165991902841,
+        "position": 11
+      },
+      {
+        "fraction": "12/13",
+        "value": 0.9230769230769231,
+        "pattern": "c_over_p",
+        "error": 0.008097165991902841,
+        "position": 12
+      },
+      {
+        "fraction": "1",
+        "value": 1.0,
+        "pattern": "c_over_p",
+        "error": 0.008097165991902841,
+        "position": 13
+      }
+    ],
+    "period_encoding": {
+      "period": 6,
+      "is_reptend": false,
+      "period_ratio": 0.46153846153846156,
+      "special_patterns": []
+    },
+    "density_metrics": {
+      "mean_spacing": 0.07692307692307693,
+      "min_spacing": 0.07692307692307687,
+      "max_spacing": 0.07692307692307698,
+      "spacing_variance": 1.7975346147614202e-33,
+      "c_star_zone_coverage": 15.384615384615385,
+      "point_six_zone_coverage": 7.6923076923076925
+    },
+    "composition_score": 144
+  },
+  {
+    "prime": 17,
+    "reciprocal_tree_size": 17,
+    "c_star_patterns": [
+      {
+        "fraction": "1/17",
+        "value": 0.058823529411764705,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 1
+      },
+      {
+        "fraction": "2/17",
+        "value": 0.11764705882352941,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 2
+      },
+      {
+        "fraction": "3/17",
+        "value": 0.17647058823529413,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 3
+      },
+      {
+        "fraction": "4/17",
+        "value": 0.23529411764705882,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 4
+      },
+      {
+        "fraction": "5/17",
+        "value": 0.29411764705882354,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 5
+      },
+      {
+        "fraction": "6/17",
+        "value": 0.35294117647058826,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 6
+      },
+      {
+        "fraction": "7/17",
+        "value": 0.4117647058823529,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 7
+      },
+      {
+        "fraction": "8/17",
+        "value": 0.47058823529411764,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 8
+      },
+      {
+        "fraction": "9/17",
+        "value": 0.5294117647058824,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 9
+      },
+      {
+        "fraction": "10/17",
+        "value": 0.5882352941176471,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 10
+      },
+      {
+        "fraction": "11/17",
+        "value": 0.6470588235294118,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 11
+      },
+      {
+        "fraction": "12/17",
+        "value": 0.7058823529411765,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 12
+      },
+      {
+        "fraction": "13/17",
+        "value": 0.7647058823529411,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 13
+      },
+      {
+        "fraction": "14/17",
+        "value": 0.8235294117647058,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 14
+      },
+      {
+        "fraction": "15/17",
+        "value": 0.8823529411764706,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 15
+      },
+      {
+        "fraction": "16/17",
+        "value": 0.9411764705882353,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 16
+      },
+      {
+        "fraction": "1",
+        "value": 1.0,
+        "pattern": "c_over_p",
+        "error": 0.006191950464396287,
+        "position": 17
+      }
+    ],
+    "period_encoding": {
+      "period": 16,
+      "is_reptend": true,
+      "period_ratio": 0.9411764705882353,
+      "special_patterns": [
+        "full_reptend_maximal",
+        "generator_prime_encoding"
+      ],
+      "period_sum_relation": false
+    },
+    "density_metrics": {
+      "mean_spacing": 0.058823529411764705,
+      "min_spacing": 0.05882352941176461,
+      "max_spacing": 0.05882352941176472,
+      "spacing_variance": 8.546314128218359e-34,
+      "c_star_zone_coverage": 11.76470588235294,
+      "point_six_zone_coverage": 11.76470588235294
+    },
+    "composition_score": 214
+  },
+  {
+    "prime": 19,
+    "reciprocal_tree_size": 19,
+    "c_star_patterns": [
+      {
+        "fraction": "1/19",
+        "value": 0.05263157894736842,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 1
+      },
+      {
+        "fraction": "2/19",
+        "value": 0.10526315789473684,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 2
+      },
+      {
+        "fraction": "3/19",
+        "value": 0.15789473684210525,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 3
+      },
+      {
+        "fraction": "4/19",
+        "value": 0.21052631578947367,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 4
+      },
+      {
+        "fraction": "5/19",
+        "value": 0.2631578947368421,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 5
+      },
+      {
+        "fraction": "6/19",
+        "value": 0.3157894736842105,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 6
+      },
+      {
+        "fraction": "7/19",
+        "value": 0.3684210526315789,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 7
+      },
+      {
+        "fraction": "8/19",
+        "value": 0.42105263157894735,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 8
+      },
+      {
+        "fraction": "9/19",
+        "value": 0.47368421052631576,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 9
+      },
+      {
+        "fraction": "10/19",
+        "value": 0.5263157894736842,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 10
+      },
+      {
+        "fraction": "11/19",
+        "value": 0.5789473684210527,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 11
+      },
+      {
+        "fraction": "12/19",
+        "value": 0.631578947368421,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 12
+      },
+      {
+        "fraction": "13/19",
+        "value": 0.6842105263157895,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 13
+      },
+      {
+        "fraction": "14/19",
+        "value": 0.7368421052631579,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 14
+      },
+      {
+        "fraction": "15/19",
+        "value": 0.7894736842105263,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 15
+      },
+      {
+        "fraction": "16/19",
+        "value": 0.8421052631578947,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 16
+      },
+      {
+        "fraction": "17/19",
+        "value": 0.8947368421052632,
+        "pattern": "direct_to_c",
+        "error": 0.0,
+        "position": 17
+      },
+      {
+        "fraction": "17/19",
+        "value": 0.8947368421052632,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 17
+      },
+      {
+        "fraction": "18/19",
+        "value": 0.9473684210526315,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 18
+      },
+      {
+        "fraction": "1",
+        "value": 1.0,
+        "pattern": "c_over_p",
+        "error": 0.005540166204986145,
+        "position": 19
+      }
+    ],
+    "period_encoding": {
+      "period": 18,
+      "is_reptend": true,
+      "period_ratio": 0.9473684210526315,
+      "special_patterns": [
+        "full_reptend_maximal",
+        "generator_prime_encoding"
+      ],
+      "period_sum_relation": true
+    },
+    "density_metrics": {
+      "mean_spacing": 0.052631578947368425,
+      "min_spacing": 0.05263157894736836,
+      "max_spacing": 0.052631578947368474,
+      "spacing_variance": 1.5460937609108645e-33,
+      "c_star_zone_coverage": 5.263157894736842,
+      "point_six_zone_coverage": 10.526315789473683
+    },
+    "composition_score": 241
+  },
+  {
+    "prime": 23,
+    "reciprocal_tree_size": 23,
+    "c_star_patterns": [
+      {
+        "fraction": "1/23",
+        "value": 0.043478260869565216,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 1
+      },
+      {
+        "fraction": "2/23",
+        "value": 0.08695652173913043,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 2
+      },
+      {
+        "fraction": "3/23",
+        "value": 0.13043478260869565,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 3
+      },
+      {
+        "fraction": "4/23",
+        "value": 0.17391304347826086,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 4
+      },
+      {
+        "fraction": "5/23",
+        "value": 0.21739130434782608,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 5
+      },
+      {
+        "fraction": "6/23",
+        "value": 0.2608695652173913,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 6
+      },
+      {
+        "fraction": "7/23",
+        "value": 0.30434782608695654,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 7
+      },
+      {
+        "fraction": "8/23",
+        "value": 0.34782608695652173,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 8
+      },
+      {
+        "fraction": "9/23",
+        "value": 0.391304347826087,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 9
+      },
+      {
+        "fraction": "10/23",
+        "value": 0.43478260869565216,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 10
+      },
+      {
+        "fraction": "11/23",
+        "value": 0.4782608695652174,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 11
+      },
+      {
+        "fraction": "12/23",
+        "value": 0.5217391304347826,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 12
+      },
+      {
+        "fraction": "13/23",
+        "value": 0.5652173913043478,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 13
+      },
+      {
+        "fraction": "14/23",
+        "value": 0.6086956521739131,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 14
+      },
+      {
+        "fraction": "15/23",
+        "value": 0.6521739130434783,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 15
+      },
+      {
+        "fraction": "16/23",
+        "value": 0.6956521739130435,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 16
+      },
+      {
+        "fraction": "17/23",
+        "value": 0.7391304347826086,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 17
+      },
+      {
+        "fraction": "18/23",
+        "value": 0.782608695652174,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 18
+      },
+      {
+        "fraction": "19/23",
+        "value": 0.8260869565217391,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 19
+      },
+      {
+        "fraction": "20/23",
+        "value": 0.8695652173913043,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 20
+      },
+      {
+        "fraction": "21/23",
+        "value": 0.9130434782608695,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 21
+      },
+      {
+        "fraction": "22/23",
+        "value": 0.9565217391304348,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 22
+      },
+      {
+        "fraction": "1",
+        "value": 1.0,
+        "pattern": "c_over_p",
+        "error": 0.004576659038901601,
+        "position": 23
+      }
+    ],
+    "period_encoding": {
+      "period": 22,
+      "is_reptend": true,
+      "period_ratio": 0.9565217391304348,
+      "special_patterns": [
+        "full_reptend_maximal"
+      ]
+    },
+    "density_metrics": {
+      "mean_spacing": 0.043478260869565216,
+      "min_spacing": 0.04347826086956519,
+      "max_spacing": 0.0434782608695653,
+      "spacing_variance": 1.4356932312704848e-33,
+      "c_star_zone_coverage": 8.695652173913043,
+      "point_six_zone_coverage": 8.695652173913043
+    },
+    "composition_score": 274
+  },
+  {
+    "prime": 29,
+    "reciprocal_tree_size": 29,
+    "c_star_patterns": [
+      {
+        "fraction": "1/29",
+        "value": 0.034482758620689655,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 1
+      },
+      {
+        "fraction": "2/29",
+        "value": 0.06896551724137931,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 2
+      },
+      {
+        "fraction": "3/29",
+        "value": 0.10344827586206896,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 3
+      },
+      {
+        "fraction": "4/29",
+        "value": 0.13793103448275862,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 4
+      },
+      {
+        "fraction": "5/29",
+        "value": 0.1724137931034483,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 5
+      },
+      {
+        "fraction": "6/29",
+        "value": 0.20689655172413793,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 6
+      },
+      {
+        "fraction": "7/29",
+        "value": 0.2413793103448276,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 7
+      },
+      {
+        "fraction": "8/29",
+        "value": 0.27586206896551724,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 8
+      },
+      {
+        "fraction": "9/29",
+        "value": 0.3103448275862069,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 9
+      },
+      {
+        "fraction": "10/29",
+        "value": 0.3448275862068966,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 10
+      },
+      {
+        "fraction": "11/29",
+        "value": 0.3793103448275862,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 11
+      },
+      {
+        "fraction": "12/29",
+        "value": 0.41379310344827586,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 12
+      },
+      {
+        "fraction": "13/29",
+        "value": 0.4482758620689655,
+        "pattern": "c_divided",
+        "error": 0.000907441016333943,
+        "position": 13
+      },
+      {
+        "fraction": "13/29",
+        "value": 0.4482758620689655,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 13
+      },
+      {
+        "fraction": "14/29",
+        "value": 0.4827586206896552,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 14
+      },
+      {
+        "fraction": "15/29",
+        "value": 0.5172413793103449,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 15
+      },
+      {
+        "fraction": "16/29",
+        "value": 0.5517241379310345,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 16
+      },
+      {
+        "fraction": "17/29",
+        "value": 0.5862068965517241,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 17
+      },
+      {
+        "fraction": "18/29",
+        "value": 0.6206896551724138,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 18
+      },
+      {
+        "fraction": "19/29",
+        "value": 0.6551724137931034,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 19
+      },
+      {
+        "fraction": "20/29",
+        "value": 0.6896551724137931,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 20
+      },
+      {
+        "fraction": "21/29",
+        "value": 0.7241379310344828,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 21
+      },
+      {
+        "fraction": "22/29",
+        "value": 0.7586206896551724,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 22
+      },
+      {
+        "fraction": "23/29",
+        "value": 0.7931034482758621,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 23
+      },
+      {
+        "fraction": "24/29",
+        "value": 0.8275862068965517,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 24
+      },
+      {
+        "fraction": "25/29",
+        "value": 0.8620689655172413,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 25
+      },
+      {
+        "fraction": "26/29",
+        "value": 0.896551724137931,
+        "pattern": "direct_to_c",
+        "error": 0.001814882032667886,
+        "position": 26
+      },
+      {
+        "fraction": "26/29",
+        "value": 0.896551724137931,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 26
+      },
+      {
+        "fraction": "27/29",
+        "value": 0.9310344827586207,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 27
+      },
+      {
+        "fraction": "28/29",
+        "value": 0.9655172413793104,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 28
+      },
+      {
+        "fraction": "1",
+        "value": 1.0,
+        "pattern": "c_over_p",
+        "error": 0.0036297640653357513,
+        "position": 29
+      }
+    ],
+    "period_encoding": {
+      "period": 28,
+      "is_reptend": true,
+      "period_ratio": 0.9655172413793104,
+      "special_patterns": [
+        "full_reptend_maximal"
+      ]
+    },
+    "density_metrics": {
+      "mean_spacing": 0.034482758620689655,
+      "min_spacing": 0.03448275862068961,
+      "max_spacing": 0.034482758620689724,
+      "spacing_variance": 1.5476222767397432e-33,
+      "c_star_zone_coverage": 10.344827586206897,
+      "point_six_zone_coverage": 10.344827586206897
+    },
+    "composition_score": 359
+  },
+  {
+    "prime": 31,
+    "reciprocal_tree_size": 31,
+    "c_star_patterns": [
+      {
+        "fraction": "1/31",
+        "value": 0.03225806451612903,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 1
+      },
+      {
+        "fraction": "2/31",
+        "value": 0.06451612903225806,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 2
+      },
+      {
+        "fraction": "3/31",
+        "value": 0.0967741935483871,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 3
+      },
+      {
+        "fraction": "4/31",
+        "value": 0.12903225806451613,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 4
+      },
+      {
+        "fraction": "5/31",
+        "value": 0.16129032258064516,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 5
+      },
+      {
+        "fraction": "6/31",
+        "value": 0.1935483870967742,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 6
+      },
+      {
+        "fraction": "7/31",
+        "value": 0.22580645161290322,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 7
+      },
+      {
+        "fraction": "8/31",
+        "value": 0.25806451612903225,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 8
+      },
+      {
+        "fraction": "9/31",
+        "value": 0.2903225806451613,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 9
+      },
+      {
+        "fraction": "10/31",
+        "value": 0.3225806451612903,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 10
+      },
+      {
+        "fraction": "11/31",
+        "value": 0.3548387096774194,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 11
+      },
+      {
+        "fraction": "12/31",
+        "value": 0.3870967741935484,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 12
+      },
+      {
+        "fraction": "13/31",
+        "value": 0.41935483870967744,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 13
+      },
+      {
+        "fraction": "14/31",
+        "value": 0.45161290322580644,
+        "pattern": "c_divided",
+        "error": 0.004244482173174857,
+        "position": 14
+      },
+      {
+        "fraction": "14/31",
+        "value": 0.45161290322580644,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 14
+      },
+      {
+        "fraction": "15/31",
+        "value": 0.4838709677419355,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 15
+      },
+      {
+        "fraction": "16/31",
+        "value": 0.5161290322580645,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 16
+      },
+      {
+        "fraction": "17/31",
+        "value": 0.5483870967741935,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 17
+      },
+      {
+        "fraction": "18/31",
+        "value": 0.5806451612903226,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 18
+      },
+      {
+        "fraction": "19/31",
+        "value": 0.6129032258064516,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 19
+      },
+      {
+        "fraction": "20/31",
+        "value": 0.6451612903225806,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 20
+      },
+      {
+        "fraction": "21/31",
+        "value": 0.6774193548387096,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 21
+      },
+      {
+        "fraction": "22/31",
+        "value": 0.7096774193548387,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 22
+      },
+      {
+        "fraction": "23/31",
+        "value": 0.7419354838709677,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 23
+      },
+      {
+        "fraction": "24/31",
+        "value": 0.7741935483870968,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 24
+      },
+      {
+        "fraction": "25/31",
+        "value": 0.8064516129032258,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 25
+      },
+      {
+        "fraction": "26/31",
+        "value": 0.8387096774193549,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 26
+      },
+      {
+        "fraction": "27/31",
+        "value": 0.8709677419354839,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 27
+      },
+      {
+        "fraction": "28/31",
+        "value": 0.9032258064516129,
+        "pattern": "direct_to_c",
+        "error": 0.008488964346349714,
+        "position": 28
+      },
+      {
+        "fraction": "28/31",
+        "value": 0.9032258064516129,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 28
+      },
+      {
+        "fraction": "29/31",
+        "value": 0.9354838709677419,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 29
+      },
+      {
+        "fraction": "30/31",
+        "value": 0.967741935483871,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 30
+      },
+      {
+        "fraction": "1",
+        "value": 1.0,
+        "pattern": "c_over_p",
+        "error": 0.0033955857385398955,
+        "position": 31
+      }
+    ],
+    "period_encoding": {
+      "period": 15,
+      "is_reptend": false,
+      "period_ratio": 0.4838709677419355,
+      "special_patterns": []
+    },
+    "density_metrics": {
+      "mean_spacing": 0.03225806451612903,
+      "min_spacing": 0.032258064516129004,
+      "max_spacing": 0.032258064516129115,
+      "spacing_variance": 1.4123486258839729e-33,
+      "c_star_zone_coverage": 9.67741935483871,
+      "point_six_zone_coverage": 9.67741935483871
+    },
+    "composition_score": 347
+  },
+  {
+    "prime": 37,
+    "reciprocal_tree_size": 37,
+    "c_star_patterns": [
+      {
+        "fraction": "1/37",
+        "value": 0.02702702702702703,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 1
+      },
+      {
+        "fraction": "2/37",
+        "value": 0.05405405405405406,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 2
+      },
+      {
+        "fraction": "3/37",
+        "value": 0.08108108108108109,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 3
+      },
+      {
+        "fraction": "4/37",
+        "value": 0.10810810810810811,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 4
+      },
+      {
+        "fraction": "5/37",
+        "value": 0.13513513513513514,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 5
+      },
+      {
+        "fraction": "6/37",
+        "value": 0.16216216216216217,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 6
+      },
+      {
+        "fraction": "7/37",
+        "value": 0.1891891891891892,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 7
+      },
+      {
+        "fraction": "8/37",
+        "value": 0.21621621621621623,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 8
+      },
+      {
+        "fraction": "9/37",
+        "value": 0.24324324324324326,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 9
+      },
+      {
+        "fraction": "10/37",
+        "value": 0.2702702702702703,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 10
+      },
+      {
+        "fraction": "11/37",
+        "value": 0.2972972972972973,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 11
+      },
+      {
+        "fraction": "12/37",
+        "value": 0.32432432432432434,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 12
+      },
+      {
+        "fraction": "13/37",
+        "value": 0.35135135135135137,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 13
+      },
+      {
+        "fraction": "14/37",
+        "value": 0.3783783783783784,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 14
+      },
+      {
+        "fraction": "15/37",
+        "value": 0.40540540540540543,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 15
+      },
+      {
+        "fraction": "16/37",
+        "value": 0.43243243243243246,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 16
+      },
+      {
+        "fraction": "17/37",
+        "value": 0.4594594594594595,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 17
+      },
+      {
+        "fraction": "18/37",
+        "value": 0.4864864864864865,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 18
+      },
+      {
+        "fraction": "19/37",
+        "value": 0.5135135135135135,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 19
+      },
+      {
+        "fraction": "20/37",
+        "value": 0.5405405405405406,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 20
+      },
+      {
+        "fraction": "21/37",
+        "value": 0.5675675675675675,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 21
+      },
+      {
+        "fraction": "22/37",
+        "value": 0.5945945945945946,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 22
+      },
+      {
+        "fraction": "23/37",
+        "value": 0.6216216216216216,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 23
+      },
+      {
+        "fraction": "24/37",
+        "value": 0.6486486486486487,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 24
+      },
+      {
+        "fraction": "25/37",
+        "value": 0.6756756756756757,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 25
+      },
+      {
+        "fraction": "26/37",
+        "value": 0.7027027027027027,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 26
+      },
+      {
+        "fraction": "27/37",
+        "value": 0.7297297297297297,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 27
+      },
+      {
+        "fraction": "28/37",
+        "value": 0.7567567567567568,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 28
+      },
+      {
+        "fraction": "29/37",
+        "value": 0.7837837837837838,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 29
+      },
+      {
+        "fraction": "30/37",
+        "value": 0.8108108108108109,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 30
+      },
+      {
+        "fraction": "31/37",
+        "value": 0.8378378378378378,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 31
+      },
+      {
+        "fraction": "32/37",
+        "value": 0.8648648648648649,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 32
+      },
+      {
+        "fraction": "33/37",
+        "value": 0.8918918918918919,
+        "pattern": "direct_to_c",
+        "error": 0.002844950213371278,
+        "position": 33
+      },
+      {
+        "fraction": "33/37",
+        "value": 0.8918918918918919,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 33
+      },
+      {
+        "fraction": "34/37",
+        "value": 0.918918918918919,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 34
+      },
+      {
+        "fraction": "35/37",
+        "value": 0.9459459459459459,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 35
+      },
+      {
+        "fraction": "36/37",
+        "value": 0.972972972972973,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 36
+      },
+      {
+        "fraction": "1",
+        "value": 1.0,
+        "pattern": "c_over_p",
+        "error": 0.0028449502133712674,
+        "position": 37
+      }
+    ],
+    "period_encoding": {
+      "period": 3,
+      "is_reptend": false,
+      "period_ratio": 0.08108108108108109,
+      "special_patterns": []
+    },
+    "density_metrics": {
+      "mean_spacing": 0.02702702702702703,
+      "min_spacing": 0.027027027027026973,
+      "max_spacing": 0.027027027027027084,
+      "spacing_variance": 1.6263408419269992e-33,
+      "c_star_zone_coverage": 8.108108108108109,
+      "point_six_zone_coverage": 10.81081081081081
+    },
+    "composition_score": 390
+  },
+  {
+    "prime": 41,
+    "reciprocal_tree_size": 41,
+    "c_star_patterns": [
+      {
+        "fraction": "1/41",
+        "value": 0.024390243902439025,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 1
+      },
+      {
+        "fraction": "2/41",
+        "value": 0.04878048780487805,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 2
+      },
+      {
+        "fraction": "3/41",
+        "value": 0.07317073170731707,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 3
+      },
+      {
+        "fraction": "4/41",
+        "value": 0.0975609756097561,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 4
+      },
+      {
+        "fraction": "5/41",
+        "value": 0.12195121951219512,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 5
+      },
+      {
+        "fraction": "6/41",
+        "value": 0.14634146341463414,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 6
+      },
+      {
+        "fraction": "7/41",
+        "value": 0.17073170731707318,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 7
+      },
+      {
+        "fraction": "8/41",
+        "value": 0.1951219512195122,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 8
+      },
+      {
+        "fraction": "9/41",
+        "value": 0.21951219512195122,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 9
+      },
+      {
+        "fraction": "10/41",
+        "value": 0.24390243902439024,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 10
+      },
+      {
+        "fraction": "11/41",
+        "value": 0.2682926829268293,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 11
+      },
+      {
+        "fraction": "12/41",
+        "value": 0.2926829268292683,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 12
+      },
+      {
+        "fraction": "13/41",
+        "value": 0.3170731707317073,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 13
+      },
+      {
+        "fraction": "14/41",
+        "value": 0.34146341463414637,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 14
+      },
+      {
+        "fraction": "15/41",
+        "value": 0.36585365853658536,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 15
+      },
+      {
+        "fraction": "16/41",
+        "value": 0.3902439024390244,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 16
+      },
+      {
+        "fraction": "17/41",
+        "value": 0.4146341463414634,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 17
+      },
+      {
+        "fraction": "18/41",
+        "value": 0.43902439024390244,
+        "pattern": "c_divided",
+        "error": 0.008344030808729141,
+        "position": 18
+      },
+      {
+        "fraction": "18/41",
+        "value": 0.43902439024390244,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 18
+      },
+      {
+        "fraction": "19/41",
+        "value": 0.4634146341463415,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 19
+      },
+      {
+        "fraction": "20/41",
+        "value": 0.4878048780487805,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 20
+      },
+      {
+        "fraction": "21/41",
+        "value": 0.5121951219512195,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 21
+      },
+      {
+        "fraction": "22/41",
+        "value": 0.5365853658536586,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 22
+      },
+      {
+        "fraction": "23/41",
+        "value": 0.5609756097560976,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 23
+      },
+      {
+        "fraction": "24/41",
+        "value": 0.5853658536585366,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 24
+      },
+      {
+        "fraction": "25/41",
+        "value": 0.6097560975609756,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 25
+      },
+      {
+        "fraction": "26/41",
+        "value": 0.6341463414634146,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 26
+      },
+      {
+        "fraction": "27/41",
+        "value": 0.6585365853658537,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 27
+      },
+      {
+        "fraction": "28/41",
+        "value": 0.6829268292682927,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 28
+      },
+      {
+        "fraction": "29/41",
+        "value": 0.7073170731707317,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 29
+      },
+      {
+        "fraction": "30/41",
+        "value": 0.7317073170731707,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 30
+      },
+      {
+        "fraction": "31/41",
+        "value": 0.7560975609756098,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 31
+      },
+      {
+        "fraction": "32/41",
+        "value": 0.7804878048780488,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 32
+      },
+      {
+        "fraction": "33/41",
+        "value": 0.8048780487804879,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 33
+      },
+      {
+        "fraction": "34/41",
+        "value": 0.8292682926829268,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 34
+      },
+      {
+        "fraction": "35/41",
+        "value": 0.8536585365853658,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 35
+      },
+      {
+        "fraction": "36/41",
+        "value": 0.8780487804878049,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 36
+      },
+      {
+        "fraction": "37/41",
+        "value": 0.9024390243902439,
+        "pattern": "direct_to_c",
+        "error": 0.007702182284980763,
+        "position": 37
+      },
+      {
+        "fraction": "37/41",
+        "value": 0.9024390243902439,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 37
+      },
+      {
+        "fraction": "38/41",
+        "value": 0.926829268292683,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 38
+      },
+      {
+        "fraction": "39/41",
+        "value": 0.9512195121951219,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 39
+      },
+      {
+        "fraction": "40/41",
+        "value": 0.975609756097561,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 40
+      },
+      {
+        "fraction": "1",
+        "value": 1.0,
+        "pattern": "c_over_p",
+        "error": 0.002567394094993583,
+        "position": 41
+      }
+    ],
+    "period_encoding": {
+      "period": 5,
+      "is_reptend": false,
+      "period_ratio": 0.12195121951219512,
+      "special_patterns": []
+    },
+    "density_metrics": {
+      "mean_spacing": 0.024390243902439025,
+      "min_spacing": 0.024390243902438935,
+      "max_spacing": 0.024390243902439046,
+      "spacing_variance": 1.2025025090267805e-33,
+      "c_star_zone_coverage": 9.75609756097561,
+      "point_six_zone_coverage": 9.75609756097561
+    },
+    "composition_score": 442
+  },
+  {
+    "prime": 43,
+    "reciprocal_tree_size": 43,
+    "c_star_patterns": [
+      {
+        "fraction": "1/43",
+        "value": 0.023255813953488372,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 1
+      },
+      {
+        "fraction": "2/43",
+        "value": 0.046511627906976744,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 2
+      },
+      {
+        "fraction": "3/43",
+        "value": 0.06976744186046512,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 3
+      },
+      {
+        "fraction": "4/43",
+        "value": 0.09302325581395349,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 4
+      },
+      {
+        "fraction": "5/43",
+        "value": 0.11627906976744186,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 5
+      },
+      {
+        "fraction": "6/43",
+        "value": 0.13953488372093023,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 6
+      },
+      {
+        "fraction": "7/43",
+        "value": 0.16279069767441862,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 7
+      },
+      {
+        "fraction": "8/43",
+        "value": 0.18604651162790697,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 8
+      },
+      {
+        "fraction": "9/43",
+        "value": 0.20930232558139536,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 9
+      },
+      {
+        "fraction": "10/43",
+        "value": 0.23255813953488372,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 10
+      },
+      {
+        "fraction": "11/43",
+        "value": 0.2558139534883721,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 11
+      },
+      {
+        "fraction": "12/43",
+        "value": 0.27906976744186046,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 12
+      },
+      {
+        "fraction": "13/43",
+        "value": 0.3023255813953488,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 13
+      },
+      {
+        "fraction": "14/43",
+        "value": 0.32558139534883723,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 14
+      },
+      {
+        "fraction": "15/43",
+        "value": 0.3488372093023256,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 15
+      },
+      {
+        "fraction": "16/43",
+        "value": 0.37209302325581395,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 16
+      },
+      {
+        "fraction": "17/43",
+        "value": 0.3953488372093023,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 17
+      },
+      {
+        "fraction": "18/43",
+        "value": 0.4186046511627907,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 18
+      },
+      {
+        "fraction": "19/43",
+        "value": 0.4418604651162791,
+        "pattern": "c_divided",
+        "error": 0.005507955936352504,
+        "position": 19
+      },
+      {
+        "fraction": "19/43",
+        "value": 0.4418604651162791,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 19
+      },
+      {
+        "fraction": "20/43",
+        "value": 0.46511627906976744,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 20
+      },
+      {
+        "fraction": "21/43",
+        "value": 0.4883720930232558,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 21
+      },
+      {
+        "fraction": "22/43",
+        "value": 0.5116279069767442,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 22
+      },
+      {
+        "fraction": "23/43",
+        "value": 0.5348837209302325,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 23
+      },
+      {
+        "fraction": "24/43",
+        "value": 0.5581395348837209,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 24
+      },
+      {
+        "fraction": "25/43",
+        "value": 0.5813953488372093,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 25
+      },
+      {
+        "fraction": "26/43",
+        "value": 0.6046511627906976,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 26
+      },
+      {
+        "fraction": "27/43",
+        "value": 0.627906976744186,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 27
+      },
+      {
+        "fraction": "28/43",
+        "value": 0.6511627906976745,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 28
+      },
+      {
+        "fraction": "29/43",
+        "value": 0.6744186046511628,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 29
+      },
+      {
+        "fraction": "30/43",
+        "value": 0.6976744186046512,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 30
+      },
+      {
+        "fraction": "31/43",
+        "value": 0.7209302325581395,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 31
+      },
+      {
+        "fraction": "32/43",
+        "value": 0.7441860465116279,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 32
+      },
+      {
+        "fraction": "33/43",
+        "value": 0.7674418604651163,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 33
+      },
+      {
+        "fraction": "34/43",
+        "value": 0.7906976744186046,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 34
+      },
+      {
+        "fraction": "35/43",
+        "value": 0.813953488372093,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 35
+      },
+      {
+        "fraction": "36/43",
+        "value": 0.8372093023255814,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 36
+      },
+      {
+        "fraction": "37/43",
+        "value": 0.8604651162790697,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 37
+      },
+      {
+        "fraction": "38/43",
+        "value": 0.8837209302325582,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 38
+      },
+      {
+        "fraction": "39/43",
+        "value": 0.9069767441860465,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 39
+      },
+      {
+        "fraction": "40/43",
+        "value": 0.9302325581395349,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 40
+      },
+      {
+        "fraction": "41/43",
+        "value": 0.9534883720930233,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 41
+      },
+      {
+        "fraction": "42/43",
+        "value": 0.9767441860465116,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 42
+      },
+      {
+        "fraction": "1",
+        "value": 1.0,
+        "pattern": "c_over_p",
+        "error": 0.0024479804161566705,
+        "position": 43
+      }
+    ],
+    "period_encoding": {
+      "period": 21,
+      "is_reptend": false,
+      "period_ratio": 0.4883720930232558,
+      "special_patterns": []
+    },
+    "density_metrics": {
+      "mean_spacing": 0.023255813953488375,
+      "min_spacing": 0.023255813953488302,
+      "max_spacing": 0.023255813953488413,
+      "spacing_variance": 1.6467847411382524e-33,
+      "c_star_zone_coverage": 9.30232558139535,
+      "point_six_zone_coverage": 9.30232558139535
+    },
+    "composition_score": 459
+  },
+  {
+    "prime": 47,
+    "reciprocal_tree_size": 47,
+    "c_star_patterns": [
+      {
+        "fraction": "1/47",
+        "value": 0.02127659574468085,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 1
+      },
+      {
+        "fraction": "2/47",
+        "value": 0.0425531914893617,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 2
+      },
+      {
+        "fraction": "3/47",
+        "value": 0.06382978723404255,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 3
+      },
+      {
+        "fraction": "4/47",
+        "value": 0.0851063829787234,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 4
+      },
+      {
+        "fraction": "5/47",
+        "value": 0.10638297872340426,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 5
+      },
+      {
+        "fraction": "6/47",
+        "value": 0.1276595744680851,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 6
+      },
+      {
+        "fraction": "7/47",
+        "value": 0.14893617021276595,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 7
+      },
+      {
+        "fraction": "8/47",
+        "value": 0.1702127659574468,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 8
+      },
+      {
+        "fraction": "9/47",
+        "value": 0.19148936170212766,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 9
+      },
+      {
+        "fraction": "10/47",
+        "value": 0.2127659574468085,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 10
+      },
+      {
+        "fraction": "11/47",
+        "value": 0.23404255319148937,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 11
+      },
+      {
+        "fraction": "12/47",
+        "value": 0.2553191489361702,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 12
+      },
+      {
+        "fraction": "13/47",
+        "value": 0.2765957446808511,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 13
+      },
+      {
+        "fraction": "14/47",
+        "value": 0.2978723404255319,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 14
+      },
+      {
+        "fraction": "15/47",
+        "value": 0.3191489361702128,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 15
+      },
+      {
+        "fraction": "16/47",
+        "value": 0.3404255319148936,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 16
+      },
+      {
+        "fraction": "17/47",
+        "value": 0.3617021276595745,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 17
+      },
+      {
+        "fraction": "18/47",
+        "value": 0.3829787234042553,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 18
+      },
+      {
+        "fraction": "19/47",
+        "value": 0.40425531914893614,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 19
+      },
+      {
+        "fraction": "20/47",
+        "value": 0.425531914893617,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 20
+      },
+      {
+        "fraction": "21/47",
+        "value": 0.44680851063829785,
+        "pattern": "c_divided",
+        "error": 0.0005599104143337308,
+        "position": 21
+      },
+      {
+        "fraction": "21/47",
+        "value": 0.44680851063829785,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 21
+      },
+      {
+        "fraction": "22/47",
+        "value": 0.46808510638297873,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 22
+      },
+      {
+        "fraction": "23/47",
+        "value": 0.48936170212765956,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 23
+      },
+      {
+        "fraction": "24/47",
+        "value": 0.5106382978723404,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 24
+      },
+      {
+        "fraction": "25/47",
+        "value": 0.5319148936170213,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 25
+      },
+      {
+        "fraction": "26/47",
+        "value": 0.5531914893617021,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 26
+      },
+      {
+        "fraction": "27/47",
+        "value": 0.574468085106383,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 27
+      },
+      {
+        "fraction": "28/47",
+        "value": 0.5957446808510638,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 28
+      },
+      {
+        "fraction": "29/47",
+        "value": 0.6170212765957447,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 29
+      },
+      {
+        "fraction": "30/47",
+        "value": 0.6382978723404256,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 30
+      },
+      {
+        "fraction": "31/47",
+        "value": 0.6595744680851063,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 31
+      },
+      {
+        "fraction": "32/47",
+        "value": 0.6808510638297872,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 32
+      },
+      {
+        "fraction": "33/47",
+        "value": 0.7021276595744681,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 33
+      },
+      {
+        "fraction": "34/47",
+        "value": 0.723404255319149,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 34
+      },
+      {
+        "fraction": "35/47",
+        "value": 0.7446808510638298,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 35
+      },
+      {
+        "fraction": "36/47",
+        "value": 0.7659574468085106,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 36
+      },
+      {
+        "fraction": "37/47",
+        "value": 0.7872340425531915,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 37
+      },
+      {
+        "fraction": "38/47",
+        "value": 0.8085106382978723,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 38
+      },
+      {
+        "fraction": "39/47",
+        "value": 0.8297872340425532,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 39
+      },
+      {
+        "fraction": "40/47",
+        "value": 0.851063829787234,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 40
+      },
+      {
+        "fraction": "41/47",
+        "value": 0.8723404255319149,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 41
+      },
+      {
+        "fraction": "42/47",
+        "value": 0.8936170212765957,
+        "pattern": "direct_to_c",
+        "error": 0.0011198208286674616,
+        "position": 42
+      },
+      {
+        "fraction": "42/47",
+        "value": 0.8936170212765957,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 42
+      },
+      {
+        "fraction": "43/47",
+        "value": 0.9148936170212766,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 43
+      },
+      {
+        "fraction": "44/47",
+        "value": 0.9361702127659575,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 44
+      },
+      {
+        "fraction": "45/47",
+        "value": 0.9574468085106383,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 45
+      },
+      {
+        "fraction": "46/47",
+        "value": 0.9787234042553191,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 46
+      },
+      {
+        "fraction": "1",
+        "value": 1.0,
+        "pattern": "c_over_p",
+        "error": 0.002239641657334826,
+        "position": 47
+      }
+    ],
+    "period_encoding": {
+      "period": 46,
+      "is_reptend": true,
+      "period_ratio": 0.9787234042553191,
+      "special_patterns": [
+        "full_reptend_maximal"
+      ]
+    },
+    "density_metrics": {
+      "mean_spacing": 0.021276595744680854,
+      "min_spacing": 0.02127659574468077,
+      "max_spacing": 0.021276595744680882,
+      "spacing_variance": 1.4122614007959119e-33,
+      "c_star_zone_coverage": 10.638297872340425,
+      "point_six_zone_coverage": 10.638297872340425
+    },
+    "composition_score": 545
+  }
+]

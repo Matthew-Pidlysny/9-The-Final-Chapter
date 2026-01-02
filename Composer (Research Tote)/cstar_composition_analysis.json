@@ -1,0 +1,473 @@
+{
+  "individual_analyses": [
+    {
+      "prime": 2,
+      "c_star_relationships": {
+        "p_times_c_star": 1.7894736842105263,
+        "p_times_c_star_nearest_int": 2,
+        "p_times_c_star_error": 0.21052631578947367,
+        "p_div_c_star": 2.235294117647059,
+        "p_div_c_star_nearest_int": 2,
+        "p_div_c_star_error": 0.23529411764705888,
+        "reciprocal_c_ratio": 0.5588235294117647
+      },
+      "fraction_representations": {
+        "c_star_fraction": "1",
+        "point_six_fraction": "1/2"
+      },
+      "composition_type": "not_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 3,
+      "c_star_relationships": {
+        "p_times_c_star": 2.6842105263157894,
+        "p_times_c_star_nearest_int": 3,
+        "p_times_c_star_error": 0.3157894736842106,
+        "p_div_c_star": 3.3529411764705883,
+        "p_div_c_star_nearest_int": 3,
+        "p_div_c_star_error": 0.3529411764705883,
+        "reciprocal_c_ratio": 0.3725490196078431
+      },
+      "fraction_representations": {
+        "c_star_fraction": "1",
+        "point_six_fraction": "2/3"
+      },
+      "composition_type": "not_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 5,
+      "c_star_relationships": {
+        "p_times_c_star": 4.473684210526316,
+        "p_times_c_star_nearest_int": 4,
+        "p_times_c_star_error": 0.47368421052631593,
+        "p_div_c_star": 5.588235294117647,
+        "p_div_c_star_nearest_int": 6,
+        "p_div_c_star_error": 0.41176470588235325,
+        "reciprocal_c_ratio": 0.2235294117647059
+      },
+      "fraction_representations": {
+        "c_star_fraction": "4/5",
+        "point_six_fraction": "3/5"
+      },
+      "composition_type": "not_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 7,
+      "c_star_relationships": {
+        "p_times_c_star": 6.2631578947368425,
+        "p_times_c_star_nearest_int": 6,
+        "p_times_c_star_error": 0.2631578947368425,
+        "p_div_c_star": 7.823529411764706,
+        "p_div_c_star_nearest_int": 8,
+        "p_div_c_star_error": 0.17647058823529438,
+        "reciprocal_c_ratio": 0.15966386554621848
+      },
+      "fraction_representations": {
+        "c_star_fraction": "6/7",
+        "point_six_fraction": "4/7"
+      },
+      "composition_type": "not_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 11,
+      "c_star_relationships": {
+        "p_times_c_star": 9.842105263157896,
+        "p_times_c_star_nearest_int": 10,
+        "p_times_c_star_error": 0.15789473684210442,
+        "p_div_c_star": 12.294117647058824,
+        "p_div_c_star_nearest_int": 12,
+        "p_div_c_star_error": 0.29411764705882426,
+        "reciprocal_c_ratio": 0.10160427807486631
+      },
+      "fraction_representations": {
+        "c_star_fraction": "10/11",
+        "point_six_fraction": "7/11"
+      },
+      "composition_type": "not_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 13,
+      "c_star_relationships": {
+        "p_times_c_star": 11.631578947368421,
+        "p_times_c_star_nearest_int": 12,
+        "p_times_c_star_error": 0.36842105263157876,
+        "p_div_c_star": 14.529411764705882,
+        "p_div_c_star_nearest_int": 15,
+        "p_div_c_star_error": 0.47058823529411775,
+        "reciprocal_c_ratio": 0.08597285067873303
+      },
+      "fraction_representations": {
+        "c_star_fraction": "12/13",
+        "point_six_fraction": "8/13"
+      },
+      "composition_type": "not_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 17,
+      "c_star_relationships": {
+        "p_times_c_star": 15.210526315789474,
+        "p_times_c_star_nearest_int": 15,
+        "p_times_c_star_error": 0.21052631578947434,
+        "p_div_c_star": 19.0,
+        "p_div_c_star_nearest_int": 19,
+        "p_div_c_star_error": 0.0,
+        "reciprocal_c_ratio": 0.0657439446366782
+      },
+      "fraction_representations": {
+        "c_star_fraction": "15/17",
+        "point_six_fraction": "10/17"
+      },
+      "composition_type": "generator_prime",
+      "composition_score": 0
+    },
+    {
+      "prime": 19,
+      "c_star_relationships": {
+        "p_times_c_star": 17.0,
+        "p_times_c_star_nearest_int": 17,
+        "p_times_c_star_error": 0.0,
+        "p_div_c_star": 21.235294117647058,
+        "p_div_c_star_nearest_int": 21,
+        "p_div_c_star_error": 0.235294117647058,
+        "reciprocal_c_ratio": 0.058823529411764705
+      },
+      "fraction_representations": {
+        "c_star_fraction": "17/19",
+        "point_six_fraction": "11/19"
+      },
+      "composition_type": "generator_prime",
+      "composition_score": 0
+    },
+    {
+      "prime": 23,
+      "c_star_relationships": {
+        "p_times_c_star": 20.57894736842105,
+        "p_times_c_star_nearest_int": 21,
+        "p_times_c_star_error": 0.4210526315789487,
+        "p_div_c_star": 25.705882352941178,
+        "p_div_c_star_nearest_int": 26,
+        "p_div_c_star_error": 0.2941176470588225,
+        "reciprocal_c_ratio": 0.04859335038363171
+      },
+      "fraction_representations": {
+        "c_star_fraction": "21/23",
+        "point_six_fraction": "14/23"
+      },
+      "composition_type": "not_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 29,
+      "c_star_relationships": {
+        "p_times_c_star": 25.94736842105263,
+        "p_times_c_star_nearest_int": 26,
+        "p_times_c_star_error": 0.05263157894736992,
+        "p_div_c_star": 32.411764705882355,
+        "p_div_c_star_nearest_int": 32,
+        "p_div_c_star_error": 0.41176470588235503,
+        "reciprocal_c_ratio": 0.038539553752535496
+      },
+      "fraction_representations": {
+        "c_star_fraction": "26/29",
+        "point_six_fraction": "17/29"
+      },
+      "composition_type": "weakly_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 31,
+      "c_star_relationships": {
+        "p_times_c_star": 27.736842105263158,
+        "p_times_c_star_nearest_int": 28,
+        "p_times_c_star_error": 0.2631578947368425,
+        "p_div_c_star": 34.64705882352941,
+        "p_div_c_star_nearest_int": 35,
+        "p_div_c_star_error": 0.352941176470587,
+        "reciprocal_c_ratio": 0.03605313092979127
+      },
+      "fraction_representations": {
+        "c_star_fraction": "28/31",
+        "point_six_fraction": "19/31"
+      },
+      "composition_type": "not_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 37,
+      "c_star_relationships": {
+        "p_times_c_star": 33.10526315789474,
+        "p_times_c_star_nearest_int": 33,
+        "p_times_c_star_error": 0.10526315789473983,
+        "p_div_c_star": 41.35294117647059,
+        "p_div_c_star_nearest_int": 41,
+        "p_div_c_star_error": 0.352941176470587,
+        "reciprocal_c_ratio": 0.030206677265500796
+      },
+      "fraction_representations": {
+        "c_star_fraction": "33/37",
+        "point_six_fraction": "22/37"
+      },
+      "composition_type": "not_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 41,
+      "c_star_relationships": {
+        "p_times_c_star": 36.68421052631579,
+        "p_times_c_star_nearest_int": 37,
+        "p_times_c_star_error": 0.3157894736842124,
+        "p_div_c_star": 45.8235294117647,
+        "p_div_c_star_nearest_int": 46,
+        "p_div_c_star_error": 0.17647058823529704,
+        "reciprocal_c_ratio": 0.027259684361549498
+      },
+      "fraction_representations": {
+        "c_star_fraction": "37/41",
+        "point_six_fraction": "25/41"
+      },
+      "composition_type": "not_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 43,
+      "c_star_relationships": {
+        "p_times_c_star": 38.473684210526315,
+        "p_times_c_star_nearest_int": 38,
+        "p_times_c_star_error": 0.47368421052631504,
+        "p_div_c_star": 48.05882352941176,
+        "p_div_c_star_nearest_int": 48,
+        "p_div_c_star_error": 0.058823529411760944,
+        "reciprocal_c_ratio": 0.025991792065663474
+      },
+      "fraction_representations": {
+        "c_star_fraction": "38/43",
+        "point_six_fraction": "26/43"
+      },
+      "composition_type": "weakly_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 47,
+      "c_star_relationships": {
+        "p_times_c_star": 42.05263157894737,
+        "p_times_c_star_nearest_int": 42,
+        "p_times_c_star_error": 0.05263157894736992,
+        "p_div_c_star": 52.529411764705884,
+        "p_div_c_star_nearest_int": 53,
+        "p_div_c_star_error": 0.470588235294116,
+        "reciprocal_c_ratio": 0.023779724655819776
+      },
+      "fraction_representations": {
+        "c_star_fraction": "42/47",
+        "point_six_fraction": "28/47"
+      },
+      "composition_type": "weakly_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 53,
+      "c_star_relationships": {
+        "p_times_c_star": 47.421052631578945,
+        "p_times_c_star_nearest_int": 47,
+        "p_times_c_star_error": 0.4210526315789451,
+        "p_div_c_star": 59.23529411764706,
+        "p_div_c_star_nearest_int": 59,
+        "p_div_c_star_error": 0.235294117647058,
+        "reciprocal_c_ratio": 0.021087680355160933
+      },
+      "fraction_representations": {
+        "c_star_fraction": "47/53",
+        "point_six_fraction": "32/53"
+      },
+      "composition_type": "not_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 59,
+      "c_star_relationships": {
+        "p_times_c_star": 52.78947368421053,
+        "p_times_c_star_nearest_int": 53,
+        "p_times_c_star_error": 0.21052631578947256,
+        "p_div_c_star": 65.94117647058823,
+        "p_div_c_star_nearest_int": 66,
+        "p_div_c_star_error": 0.05882352941176805,
+        "reciprocal_c_ratio": 0.018943170488534396
+      },
+      "fraction_representations": {
+        "c_star_fraction": "53/59",
+        "point_six_fraction": "35/59"
+      },
+      "composition_type": "weakly_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 61,
+      "c_star_relationships": {
+        "p_times_c_star": 54.578947368421055,
+        "p_times_c_star_nearest_int": 55,
+        "p_times_c_star_error": 0.4210526315789451,
+        "p_div_c_star": 68.17647058823529,
+        "p_div_c_star_nearest_int": 68,
+        "p_div_c_star_error": 0.17647058823528994,
+        "reciprocal_c_ratio": 0.01832208293153327
+      },
+      "fraction_representations": {
+        "c_star_fraction": "55/61",
+        "point_six_fraction": "37/61"
+      },
+      "composition_type": "not_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 67,
+      "c_star_relationships": {
+        "p_times_c_star": 59.94736842105263,
+        "p_times_c_star_nearest_int": 60,
+        "p_times_c_star_error": 0.05263157894736992,
+        "p_div_c_star": 74.88235294117646,
+        "p_div_c_star_nearest_int": 75,
+        "p_div_c_star_error": 0.1176470588235361,
+        "reciprocal_c_ratio": 0.016681299385425813
+      },
+      "fraction_representations": {
+        "c_star_fraction": "60/67",
+        "point_six_fraction": "40/67"
+      },
+      "composition_type": "weakly_composed",
+      "composition_score": 0
+    },
+    {
+      "prime": 71,
+      "c_star_relationships": {
+        "p_times_c_star": 63.526315789473685,
+        "p_times_c_star_nearest_int": 64,
+        "p_times_c_star_error": 0.47368421052631504,
+        "p_div_c_star": 79.3529411764706,
+        "p_div_c_star_nearest_int": 79,
+        "p_div_c_star_error": 0.3529411764705941,
+        "reciprocal_c_ratio": 0.015741507870753936
+      },
+      "fraction_representations": {
+        "c_star_fraction": "64/71",
+        "point_six_fraction": "43/71"
+      },
+      "composition_type": "not_composed",
+      "composition_score": 0
+    }
+  ],
+  "composition_rules": [
+    {
+      "prime": 17,
+      "composition_type": "generator_prime",
+      "rule": "p \u00d7 C* \u2248 15",
+      "error": 0.21052631578947434,
+      "score": 0
+    },
+    {
+      "prime": 19,
+      "composition_type": "generator_prime",
+      "rule": "p \u00d7 C* \u2248 17",
+      "error": 0.0,
+      "score": 0
+    },
+    {
+      "prime": 29,
+      "composition_type": "weakly_composed",
+      "rule": "p \u00d7 C* \u2248 26",
+      "error": 0.05263157894736992,
+      "score": 0
+    },
+    {
+      "prime": 43,
+      "composition_type": "weakly_composed",
+      "rule": "p \u00d7 C* \u2248 38",
+      "error": 0.47368421052631504,
+      "score": 0
+    },
+    {
+      "prime": 47,
+      "composition_type": "weakly_composed",
+      "rule": "p \u00d7 C* \u2248 42",
+      "error": 0.05263157894736992,
+      "score": 0
+    },
+    {
+      "prime": 59,
+      "composition_type": "weakly_composed",
+      "rule": "p \u00d7 C* \u2248 53",
+      "error": 0.21052631578947256,
+      "score": 0
+    },
+    {
+      "prime": 67,
+      "composition_type": "weakly_composed",
+      "rule": "p \u00d7 C* \u2248 60",
+      "error": 0.05263157894736992,
+      "score": 0
+    }
+  ],
+  "loop_analysis": {
+    "generator_primes": [
+      17,
+      19
+    ],
+    "c_star_definition": "17/19 = 0.8947368421",
+    "given_c_star": 0.894751918,
+    "error": 1.5075894736815698e-05,
+    "error_percent": 0.0016849245509877406,
+    "perfect_relationships": [
+      {
+        "formula": "19 \u00d7 (17/19) = 17",
+        "calculation": "19 \u00d7 (17/19) = 17.000000",
+        "exact": true
+      },
+      {
+        "formula": "17 / (17/19) = 19",
+        "calculation": "17 / (17/19) = 19.000000",
+        "exact": true
+      }
+    ],
+    "period_encoding": {
+      "period": 18,
+      "encoding_formula": "(17 + 19) / 2",
+      "result": 18,
+      "verified": true
+    }
+  },
+  "dimensional_connections": {
+    "c_star_value": 0.8947368421052632,
+    "c_star_times_13": 11.631578947368421,
+    "inverse_c_star_times_13": 14.529411764705882,
+    "base_13_connection": {
+      "approximation": 11.631578947368421,
+      "target": 11.63,
+      "error": 0.001578947368420458
+    },
+    "dimensional_emergence": {
+      "calculation": 14.529411764705882,
+      "approximation": 14.53,
+      "comparison": "13 + 1.5",
+      "error": 0.02941176470588225
+    },
+    "zero_hex_tredecim": {
+      "project": "ZeroHex Tredecim",
+      "base": 13,
+      "c_star_role": "temporal emergence factor"
+    }
+  },
+  "statistics": {
+    "total_primes": 20,
+    "composition_types": {
+      "not_composed": 13,
+      "generator_prime": 2,
+      "weakly_composed": 5
+    },
+    "average_composition_score": 0.0
+  }
+}
