@@ -1,0 +1,376 @@
+{
+  "section1": {
+    "basic_conversions": [
+      {
+        "decimal": 0,
+        "base13": "0"
+      },
+      {
+        "decimal": 10,
+        "base13": "A"
+      },
+      {
+        "decimal": 20,
+        "base13": "17"
+      },
+      {
+        "decimal": 30,
+        "base13": "24"
+      },
+      {
+        "decimal": 40,
+        "base13": "31"
+      },
+      {
+        "decimal": 50,
+        "base13": "3B"
+      },
+      {
+        "decimal": 60,
+        "base13": "48"
+      },
+      {
+        "decimal": 70,
+        "base13": "55"
+      },
+      {
+        "decimal": 80,
+        "base13": "62"
+      },
+      {
+        "decimal": 90,
+        "base13": "6C"
+      }
+    ],
+    "powers_of_13": [
+      {
+        "power": 0,
+        "decimal": 1,
+        "base13": "1"
+      },
+      {
+        "power": 1,
+        "decimal": 13,
+        "base13": "10"
+      },
+      {
+        "power": 2,
+        "decimal": 169,
+        "base13": "100"
+      },
+      {
+        "power": 3,
+        "decimal": 2197,
+        "base13": "1000"
+      },
+      {
+        "power": 4,
+        "decimal": 28561,
+        "base13": "10000"
+      },
+      {
+        "power": 5,
+        "decimal": 371293,
+        "base13": "100000"
+      }
+    ]
+  },
+  "section3": {
+    "pi": {
+      "decimal": 3.141592653589793,
+      "base13": "3.1AC1049052A2C71005161571824BA0"
+    },
+    "e": {
+      "decimal": 2.718281828459045,
+      "base13": "2.9450B026A6BA186B12C8709B28220B"
+    },
+    "sqrt2": {
+      "decimal": 1.4142135623730951,
+      "base13": "1.55004799B620603C8874BC707C1905"
+    }
+  },
+  "section4": {
+    "sequence_base13": [
+      10,
+      4,
+      5,
+      2,
+      11,
+      12,
+      7,
+      9,
+      8,
+      6,
+      1,
+      3,
+      0,
+      10
+    ],
+    "sum_decimal": 91,
+    "sum_base13": "70"
+  },
+  "section7": {
+    "verification": [
+      {
+        "original": 0,
+        "base13": "0",
+        "back_converted": 0,
+        "accurate": true
+      },
+      {
+        "original": 1,
+        "base13": "1",
+        "back_converted": 1,
+        "accurate": true
+      },
+      {
+        "original": 2,
+        "base13": "2",
+        "back_converted": 2,
+        "accurate": true
+      },
+      {
+        "original": 3,
+        "base13": "3",
+        "back_converted": 3,
+        "accurate": true
+      },
+      {
+        "original": 4,
+        "base13": "4",
+        "back_converted": 4,
+        "accurate": true
+      },
+      {
+        "original": 5,
+        "base13": "5",
+        "back_converted": 5,
+        "accurate": true
+      },
+      {
+        "original": 6,
+        "base13": "6",
+        "back_converted": 6,
+        "accurate": true
+      },
+      {
+        "original": 7,
+        "base13": "7",
+        "back_converted": 7,
+        "accurate": true
+      },
+      {
+        "original": 8,
+        "base13": "8",
+        "back_converted": 8,
+        "accurate": true
+      },
+      {
+        "original": 9,
+        "base13": "9",
+        "back_converted": 9,
+        "accurate": true
+      },
+      {
+        "original": 10,
+        "base13": "A",
+        "back_converted": 10,
+        "accurate": true
+      },
+      {
+        "original": 11,
+        "base13": "B",
+        "back_converted": 11,
+        "accurate": true
+      },
+      {
+        "original": 12,
+        "base13": "C",
+        "back_converted": 12,
+        "accurate": true
+      },
+      {
+        "original": 13,
+        "base13": "10",
+        "back_converted": 13,
+        "accurate": true
+      },
+      {
+        "original": 14,
+        "base13": "11",
+        "back_converted": 14,
+        "accurate": true
+      },
+      {
+        "original": 15,
+        "base13": "12",
+        "back_converted": 15,
+        "accurate": true
+      },
+      {
+        "original": 16,
+        "base13": "13",
+        "back_converted": 16,
+        "accurate": true
+      },
+      {
+        "original": 17,
+        "base13": "14",
+        "back_converted": 17,
+        "accurate": true
+      },
+      {
+        "original": 18,
+        "base13": "15",
+        "back_converted": 18,
+        "accurate": true
+      },
+      {
+        "original": 19,
+        "base13": "16",
+        "back_converted": 19,
+        "accurate": true
+      },
+      {
+        "original": 20,
+        "base13": "17",
+        "back_converted": 20,
+        "accurate": true
+      },
+      {
+        "original": 25,
+        "base13": "1C",
+        "back_converted": 25,
+        "accurate": true
+      },
+      {
+        "original": 50,
+        "base13": "3B",
+        "back_converted": 50,
+        "accurate": true
+      },
+      {
+        "original": 100,
+        "base13": "79",
+        "back_converted": 100,
+        "accurate": true
+      },
+      {
+        "original": 169,
+        "base13": "100",
+        "back_converted": 169,
+        "accurate": true
+      }
+    ],
+    "accuracy_rate": 1.0
+  },
+  "section2": {
+    "addition_table": "Generated",
+    "multiplication_table": "Generated"
+  },
+  "section5": {
+    "conway_examples": "Generated"
+  },
+  "section6": {
+    "primes_base13": [
+      [
+        2,
+        "2"
+      ],
+      [
+        3,
+        "3"
+      ],
+      [
+        5,
+        "5"
+      ],
+      [
+        7,
+        "7"
+      ],
+      [
+        11,
+        "B"
+      ],
+      [
+        13,
+        "10"
+      ],
+      [
+        17,
+        "14"
+      ],
+      [
+        19,
+        "16"
+      ],
+      [
+        23,
+        "1A"
+      ],
+      [
+        29,
+        "23"
+      ]
+    ]
+  },
+  "section8": {
+    "hexagonal_constant": 0.6
+  },
+  "section9": {
+    "c_star": 0.894751918,
+    "u_v_calculations": "Generated"
+  },
+  "section10": {
+    "plasticity_data": "Generated"
+  },
+  "section11": {
+    "data": "Generated for section 11"
+  },
+  "section12": {
+    "data": "Generated for section 12"
+  },
+  "section13": {
+    "data": "Generated for section 13"
+  },
+  "section14": {
+    "data": "Generated for section 14"
+  },
+  "section15": {
+    "data": "Generated for section 15"
+  },
+  "section16": {
+    "data": "Generated for section 16"
+  },
+  "section17": {
+    "data": "Generated for section 17"
+  },
+  "section18": {
+    "data": "Generated for section 18"
+  },
+  "section19": {
+    "data": "Generated for section 19"
+  },
+  "section20": {
+    "data": "Generated for section 20"
+  },
+  "section21": {
+    "data": "Generated for section 21"
+  },
+  "section22": {
+    "data": "Generated for section 22"
+  },
+  "section23": {
+    "data": "Generated for section 23"
+  },
+  "section24": {
+    "data": "Generated for section 24"
+  },
+  "section25": {
+    "data": "Generated for section 25"
+  },
+  "section26": {
+    "data": "Generated for section 26"
+  }
+}
