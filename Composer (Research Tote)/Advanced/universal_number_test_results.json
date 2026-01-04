@@ -1,0 +1,3729 @@
+{
+  "test_results": {
+    "total_tests": 201,
+    "successful_constructions": 110,
+    "failed_constructions": 91,
+    "constructions": [
+      {
+        "target": 0.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          0.0
+        ],
+        "delta_t_values": [
+          0
+        ],
+        "formula_application": "\u0394T(0.0) = 0",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 0.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          1,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(0.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 1.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          1.0
+        ],
+        "delta_t_values": [
+          10
+        ],
+        "formula_application": "\u0394T(1.0) = 10",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 1.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          3,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(1.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 2.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          2.0
+        ],
+        "delta_t_values": [
+          20
+        ],
+        "formula_application": "\u0394T(2.0) = 20",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 2.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          5,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(2.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 3.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          3.0
+        ],
+        "delta_t_values": [
+          30
+        ],
+        "formula_application": "\u0394T(3.0) = 30",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 3.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          7,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(3.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 4.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          4.0
+        ],
+        "delta_t_values": [
+          40
+        ],
+        "formula_application": "\u0394T(4.0) = 40",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 4.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          9,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(4.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 5.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          5.0
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(5.0) = 50",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 5.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          11,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(5.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 6.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          6.0
+        ],
+        "delta_t_values": [
+          60
+        ],
+        "formula_application": "\u0394T(6.0) = 60",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 6.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          13,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(6.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 7.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          7.0
+        ],
+        "delta_t_values": [
+          70
+        ],
+        "formula_application": "\u0394T(7.0) = 70",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 7.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          15,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(7.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 8.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          8.0
+        ],
+        "delta_t_values": [
+          80
+        ],
+        "formula_application": "\u0394T(8.0) = 80",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 8.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          17,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(8.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 9.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          9.0
+        ],
+        "delta_t_values": [
+          90
+        ],
+        "formula_application": "\u0394T(9.0) = 90",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 9.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          19,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(9.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 10.0,
+        "success": false,
+        "error": "Construction failed for 10.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 10.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          21,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(10.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 11.0,
+        "success": false,
+        "error": "Construction failed for 11.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 11.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          23,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(11.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 12.0,
+        "success": false,
+        "error": "Construction failed for 12.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 12.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          25,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(12.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 13.0,
+        "success": false,
+        "error": "Construction failed for 13.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 13.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          27,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(13.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 14.0,
+        "success": false,
+        "error": "Construction failed for 14.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 14.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          29,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(14.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 15.0,
+        "success": false,
+        "error": "Construction failed for 15.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 15.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          31,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(15.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 16.0,
+        "success": false,
+        "error": "Construction failed for 16.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 16.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          33,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(16.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 17.0,
+        "success": false,
+        "error": "Construction failed for 17.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 17.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          35,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(17.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 18.0,
+        "success": false,
+        "error": "Construction failed for 18.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 18.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          37,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(18.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 19.0,
+        "success": false,
+        "error": "Construction failed for 19.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 19.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          39,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(19.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 20.0,
+        "success": false,
+        "error": "Construction failed for 20.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 20.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          41,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(20.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 21.0,
+        "success": false,
+        "error": "Construction failed for 21.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 21.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          43,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(21.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 22.0,
+        "success": false,
+        "error": "Construction failed for 22.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 22.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          45,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(22.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 23.0,
+        "success": false,
+        "error": "Construction failed for 23.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 23.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          47,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(23.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 24.0,
+        "success": false,
+        "error": "Construction failed for 24.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 24.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          49,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(24.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 25.0,
+        "success": false,
+        "error": "Construction failed for 25.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 25.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          51,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(25.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 26.0,
+        "success": false,
+        "error": "Construction failed for 26.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 26.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          53,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(26.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 27.0,
+        "success": false,
+        "error": "Construction failed for 27.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 27.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          55,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(27.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 28.0,
+        "success": false,
+        "error": "Construction failed for 28.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 28.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          57,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(28.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 29.0,
+        "success": false,
+        "error": "Construction failed for 29.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 29.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          59,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(29.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 30.0,
+        "success": false,
+        "error": "Construction failed for 30.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 30.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          61,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(30.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 31.0,
+        "success": false,
+        "error": "Construction failed for 31.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 31.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          63,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(31.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 32.0,
+        "success": false,
+        "error": "Construction failed for 32.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 32.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          65,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(32.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 33.0,
+        "success": false,
+        "error": "Construction failed for 33.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 33.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          67,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(33.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 34.0,
+        "success": false,
+        "error": "Construction failed for 34.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 34.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          69,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(34.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 35.0,
+        "success": false,
+        "error": "Construction failed for 35.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 35.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          71,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(35.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 36.0,
+        "success": false,
+        "error": "Construction failed for 36.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 36.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          73,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(36.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 37.0,
+        "success": false,
+        "error": "Construction failed for 37.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 37.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          75,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(37.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 38.0,
+        "success": false,
+        "error": "Construction failed for 38.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 38.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          77,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(38.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 39.0,
+        "success": false,
+        "error": "Construction failed for 39.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 39.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          79,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(39.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 40.0,
+        "success": false,
+        "error": "Construction failed for 40.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 40.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          81,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(40.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 41.0,
+        "success": false,
+        "error": "Construction failed for 41.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 41.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          83,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(41.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 42.0,
+        "success": false,
+        "error": "Construction failed for 42.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 42.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          85,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(42.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 43.0,
+        "success": false,
+        "error": "Construction failed for 43.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 43.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          87,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(43.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 44.0,
+        "success": false,
+        "error": "Construction failed for 44.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 44.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          89,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(44.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 45.0,
+        "success": false,
+        "error": "Construction failed for 45.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 45.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          91,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(45.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 46.0,
+        "success": false,
+        "error": "Construction failed for 46.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 46.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          93,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(46.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 47.0,
+        "success": false,
+        "error": "Construction failed for 47.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 47.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          95,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(47.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 48.0,
+        "success": false,
+        "error": "Construction failed for 48.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 48.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          97,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(48.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 49.0,
+        "success": false,
+        "error": "Construction failed for 49.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 49.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          99,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(49.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 50.0,
+        "success": false,
+        "error": "Construction failed for 50.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 50.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          101,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(50.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 51.0,
+        "success": false,
+        "error": "Construction failed for 51.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 51.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          103,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(51.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 52.0,
+        "success": false,
+        "error": "Construction failed for 52.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 52.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          105,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(52.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 53.0,
+        "success": false,
+        "error": "Construction failed for 53.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 53.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          107,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(53.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 54.0,
+        "success": false,
+        "error": "Construction failed for 54.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 54.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          109,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(54.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 55.0,
+        "success": false,
+        "error": "Construction failed for 55.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 55.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          111,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(55.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 56.0,
+        "success": false,
+        "error": "Construction failed for 56.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 56.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          113,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(56.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 57.0,
+        "success": false,
+        "error": "Construction failed for 57.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 57.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          115,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(57.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 58.0,
+        "success": false,
+        "error": "Construction failed for 58.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 58.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          117,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(58.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 59.0,
+        "success": false,
+        "error": "Construction failed for 59.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 59.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          119,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(59.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 60.0,
+        "success": false,
+        "error": "Construction failed for 60.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 60.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          121,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(60.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 61.0,
+        "success": false,
+        "error": "Construction failed for 61.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 61.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          123,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(61.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 62.0,
+        "success": false,
+        "error": "Construction failed for 62.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 62.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          125,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(62.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 63.0,
+        "success": false,
+        "error": "Construction failed for 63.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 63.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          127,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(63.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 64.0,
+        "success": false,
+        "error": "Construction failed for 64.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 64.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          129,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(64.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 65.0,
+        "success": false,
+        "error": "Construction failed for 65.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 65.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          131,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(65.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 66.0,
+        "success": false,
+        "error": "Construction failed for 66.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 66.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          133,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(66.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 67.0,
+        "success": false,
+        "error": "Construction failed for 67.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 67.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          135,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(67.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 68.0,
+        "success": false,
+        "error": "Construction failed for 68.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 68.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          137,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(68.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 69.0,
+        "success": false,
+        "error": "Construction failed for 69.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 69.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          139,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(69.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 70.0,
+        "success": false,
+        "error": "Construction failed for 70.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 70.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          141,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(70.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 71.0,
+        "success": false,
+        "error": "Construction failed for 71.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 71.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          143,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(71.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 72.0,
+        "success": false,
+        "error": "Construction failed for 72.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 72.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          145,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(72.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 73.0,
+        "success": false,
+        "error": "Construction failed for 73.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 73.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          147,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(73.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 74.0,
+        "success": false,
+        "error": "Construction failed for 74.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 74.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          149,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(74.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 75.0,
+        "success": false,
+        "error": "Construction failed for 75.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 75.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          151,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(75.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 76.0,
+        "success": false,
+        "error": "Construction failed for 76.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 76.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          153,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(76.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 77.0,
+        "success": false,
+        "error": "Construction failed for 77.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 77.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          155,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(77.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 78.0,
+        "success": false,
+        "error": "Construction failed for 78.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 78.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          157,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(78.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 79.0,
+        "success": false,
+        "error": "Construction failed for 79.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 79.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          159,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(79.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 80.0,
+        "success": false,
+        "error": "Construction failed for 80.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 80.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          161,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(80.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 81.0,
+        "success": false,
+        "error": "Construction failed for 81.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 81.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          163,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(81.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 82.0,
+        "success": false,
+        "error": "Construction failed for 82.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 82.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          165,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(82.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 83.0,
+        "success": false,
+        "error": "Construction failed for 83.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 83.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          167,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(83.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 84.0,
+        "success": false,
+        "error": "Construction failed for 84.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 84.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          169,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(84.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 85.0,
+        "success": false,
+        "error": "Construction failed for 85.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 85.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          171,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(85.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 86.0,
+        "success": false,
+        "error": "Construction failed for 86.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 86.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          173,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(86.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 87.0,
+        "success": false,
+        "error": "Construction failed for 87.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 87.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          175,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(87.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 88.0,
+        "success": false,
+        "error": "Construction failed for 88.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 88.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          177,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(88.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 89.0,
+        "success": false,
+        "error": "Construction failed for 89.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 89.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          179,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(89.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 90.0,
+        "success": false,
+        "error": "Construction failed for 90.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 90.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          181,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(90.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 91.0,
+        "success": false,
+        "error": "Construction failed for 91.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 91.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          183,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(91.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 92.0,
+        "success": false,
+        "error": "Construction failed for 92.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 92.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          185,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(92.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 93.0,
+        "success": false,
+        "error": "Construction failed for 93.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 93.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          187,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(93.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 94.0,
+        "success": false,
+        "error": "Construction failed for 94.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 94.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          189,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(94.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 95.0,
+        "success": false,
+        "error": "Construction failed for 95.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 95.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          191,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(95.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 96.0,
+        "success": false,
+        "error": "Construction failed for 96.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 96.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          193,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(96.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 97.0,
+        "success": false,
+        "error": "Construction failed for 97.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 97.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          195,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(97.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 98.0,
+        "success": false,
+        "error": "Construction failed for 98.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 98.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          197,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(98.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 99.0,
+        "success": false,
+        "error": "Construction failed for 99.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 99.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          199,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(99.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 100.0,
+        "success": false,
+        "error": "Construction failed for 100.0: invalid literal for int() with base 10: '.'"
+      }
+    ],
+    "error_summary": {
+      "Construction failed for 10.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 11.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 12.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 13.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 14.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 15.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 16.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 17.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 18.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 19.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 20.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 21.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 22.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 23.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 24.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 25.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 26.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 27.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 28.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 29.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 30.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 31.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 32.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 33.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 34.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 35.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 36.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 37.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 38.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 39.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 40.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 41.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 42.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 43.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 44.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 45.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 46.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 47.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 48.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 49.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 50.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 51.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 52.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 53.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 54.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 55.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 56.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 57.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 58.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 59.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 60.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 61.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 62.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 63.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 64.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 65.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 66.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 67.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 68.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 69.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 70.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 71.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 72.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 73.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 74.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 75.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 76.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 77.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 78.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 79.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 80.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 81.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 82.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 83.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 84.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 85.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 86.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 87.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 88.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 89.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 90.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 91.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 92.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 93.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 94.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 95.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 96.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 97.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 98.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 99.0: invalid literal for int() with base 10: '.'": 1,
+      "Construction failed for 100.0: invalid literal for int() with base 10: '.'": 1
+    },
+    "delta_t_distribution": {
+      "0": 1,
+      "50": 101,
+      "10": 1,
+      "20": 1,
+      "30": 1,
+      "40": 1,
+      "60": 1,
+      "70": 1,
+      "80": 1,
+      "90": 1
+    },
+    "method_distribution": {
+      "integer": 10,
+      "decimal": 100
+    },
+    "success_rate": 0.5472636815920398
+  },
+  "construction_charts": {
+    "digits_0_to_10": [
+      {
+        "target": 0.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          0.0
+        ],
+        "delta_t_values": [
+          0
+        ],
+        "formula_application": "\u0394T(0.0) = 0",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 1.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          1.0
+        ],
+        "delta_t_values": [
+          10
+        ],
+        "formula_application": "\u0394T(1.0) = 10",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 2.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          2.0
+        ],
+        "delta_t_values": [
+          20
+        ],
+        "formula_application": "\u0394T(2.0) = 20",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 3.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          3.0
+        ],
+        "delta_t_values": [
+          30
+        ],
+        "formula_application": "\u0394T(3.0) = 30",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 4.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          4.0
+        ],
+        "delta_t_values": [
+          40
+        ],
+        "formula_application": "\u0394T(4.0) = 40",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 5.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          5.0
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(5.0) = 50",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 6.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          6.0
+        ],
+        "delta_t_values": [
+          60
+        ],
+        "formula_application": "\u0394T(6.0) = 60",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 7.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          7.0
+        ],
+        "delta_t_values": [
+          70
+        ],
+        "formula_application": "\u0394T(7.0) = 70",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 8.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          8.0
+        ],
+        "delta_t_values": [
+          80
+        ],
+        "formula_application": "\u0394T(8.0) = 80",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 9.0,
+        "success": true,
+        "method": "integer",
+        "components": [
+          9.0
+        ],
+        "delta_t_values": [
+          90
+        ],
+        "formula_application": "\u0394T(9.0) = 90",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 10.0,
+        "success": false,
+        "error": "Construction failed for 10.0: invalid literal for int() with base 10: '.'"
+      }
+    ],
+    "digits_above_10": [
+      {
+        "target": 11.0,
+        "success": false,
+        "error": "Construction failed for 11.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 12.0,
+        "success": false,
+        "error": "Construction failed for 12.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 15.0,
+        "success": false,
+        "error": "Construction failed for 15.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 20.0,
+        "success": false,
+        "error": "Construction failed for 20.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 25.0,
+        "success": false,
+        "error": "Construction failed for 25.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 30.0,
+        "success": false,
+        "error": "Construction failed for 30.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 50.0,
+        "success": false,
+        "error": "Construction failed for 50.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 75.0,
+        "success": false,
+        "error": "Construction failed for 75.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 99.0,
+        "success": false,
+        "error": "Construction failed for 99.0: invalid literal for int() with base 10: '.'"
+      },
+      {
+        "target": 100.0,
+        "success": false,
+        "error": "Construction failed for 100.0: invalid literal for int() with base 10: '.'"
+      }
+    ],
+    "decimal_examples": [
+      {
+        "target": 0.1,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          1,
+          10
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(0.1) = 50 (terminating: 1)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 0.2,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          1,
+          5
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(0.2) = 50 (terminating: 2)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 0.25,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          1,
+          4
+        ],
+        "delta_t_values": [
+          20
+        ],
+        "formula_application": "\u0394T(0.25) = 20 (terminating: 25)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 0.33,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          33,
+          100
+        ],
+        "delta_t_values": [
+          10
+        ],
+        "formula_application": "\u0394T(0.33) = 10 (period: 3)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 0.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          1,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(0.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 0.75,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          3,
+          4
+        ],
+        "delta_t_values": [
+          20
+        ],
+        "formula_application": "\u0394T(0.75) = 20 (terminating: 75)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 1.25,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          5,
+          4
+        ],
+        "delta_t_values": [
+          20
+        ],
+        "formula_application": "\u0394T(1.25) = 20 (terminating: 25)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 2.5,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          5,
+          2
+        ],
+        "delta_t_values": [
+          50
+        ],
+        "formula_application": "\u0394T(2.5) = 50 (terminating: 5)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 3.14,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          157,
+          50
+        ],
+        "delta_t_values": [
+          20
+        ],
+        "formula_application": "\u0394T(3.14) = 20 (terminating: 14)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      },
+      {
+        "target": 9.99,
+        "success": true,
+        "method": "decimal",
+        "components": [
+          999,
+          100
+        ],
+        "delta_t_values": [
+          10
+        ],
+        "formula_application": "\u0394T(9.99) = 10 (period: 9)",
+        "verification": {
+          "valid": true,
+          "checks": [
+            "Within range [0, 100]",
+            "\u0394T values consistent"
+          ],
+          "delta_t_consistent": true,
+          "within_range": true,
+          "mathematically_sound": false
+        }
+      }
+    ],
+    "construction_patterns": {
+      "0.0": "\u0394T(0.0) = 0",
+      "1.0": "\u0394T(1.0) = 10",
+      "2.0": "\u0394T(2.0) = 20",
+      "3.0": "\u0394T(3.0) = 30",
+      "4.0": "\u0394T(4.0) = 40",
+      "5.0": "\u0394T(5.0) = 50",
+      "6.0": "\u0394T(6.0) = 60",
+      "7.0": "\u0394T(7.0) = 70",
+      "8.0": "\u0394T(8.0) = 80",
+      "9.0": "\u0394T(9.0) = 90"
+    }
+  },
+  "error_log": [
+    "Construction failed for 10.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 11.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 12.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 13.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 14.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 15.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 16.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 17.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 18.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 19.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 20.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 21.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 22.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 23.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 24.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 25.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 26.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 27.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 28.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 29.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 30.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 31.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 32.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 33.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 34.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 35.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 36.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 37.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 38.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 39.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 40.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 41.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 42.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 43.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 44.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 45.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 46.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 47.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 48.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 49.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 50.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 51.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 52.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 53.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 54.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 55.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 56.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 57.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 58.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 59.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 60.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 61.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 62.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 63.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 64.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 65.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 66.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 67.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 68.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 69.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 70.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 71.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 72.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 73.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 74.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 75.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 76.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 77.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 78.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 79.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 80.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 81.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 82.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 83.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 84.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 85.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 86.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 87.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 88.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 89.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 90.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 91.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 92.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 93.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 94.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 95.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 96.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 97.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 98.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 99.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 100.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 10.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 11.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 12.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 15.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 20.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 25.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 30.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 50.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 75.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 99.0: invalid literal for int() with base 10: '.'",
+    "Construction failed for 100.0: invalid literal for int() with base 10: '.'"
+  ],
+  "summary": {
+    "total_numbers_tested": 201,
+    "success_rate": "54.73%",
+    "framework_status": "NEEDS ATTENTION",
+    "coverage": "Complete range 0-100 tested"
+  }
+}

@@ -1,0 +1,865 @@
+{
+  "title": "Comprehensive Physics Integration of \u0394T Framework",
+  "sections": {
+    "constants": {
+      "constants_analysis": {
+        "planck_length": {
+          "measurement": 1.616255e-35,
+          "unit": "planck_length",
+          "si_value": 2.6122802250250003e-70,
+          "order_of_magnitude": -70,
+          "resolution": 1e-72,
+          "delta_t": 261.22802250250004,
+          "physical_scale": "transcendental",
+          "quantum_factor": 1.0,
+          "uncertainty_principle_check": {
+            "principle": "Heisenberg Uncertainty (position-momentum)",
+            "uncertainty_product": 5.272859085e-35,
+            "theoretical_limit": 5.272859085e-35,
+            "respects_principle": true,
+            "factor": 1.0
+          }
+        },
+        "planck_time": {
+          "measurement": 5.391247e-44,
+          "unit": "planck_time",
+          "si_value": 2.9065544215009004e-87,
+          "order_of_magnitude": -87,
+          "resolution": 1e-89,
+          "delta_t": 290.65544215009004,
+          "physical_scale": "transcendental",
+          "quantum_factor": 1.0,
+          "uncertainty_principle_check": {
+            "principle": "Time-Energy Uncertainty",
+            "uncertainty_product": 5.272859085e-35,
+            "theoretical_limit": 5.272859085e-35,
+            "respects_principle": true,
+            "factor": 1.0
+          }
+        },
+        "planck_mass": {
+          "measurement": 2.176434e-08,
+          "unit": "planck_mass",
+          "si_value": 4.736864956356001e-16,
+          "order_of_magnitude": -16,
+          "resolution": 1e-18,
+          "delta_t": 473.68649563560007,
+          "physical_scale": "transcendental",
+          "quantum_factor": 0.5,
+          "uncertainty_principle_check": {
+            "principle": "Not applicable",
+            "respects_principle": true
+          }
+        },
+        "speed_of_light": {
+          "error": "Unknown unit for length: meter/second"
+        },
+        "gravitational_constant": {
+          "error": "Unknown unit for energy: si_units"
+        },
+        "reduced_planck": {
+          "error": "Unknown unit for energy: si_units"
+        },
+        "boltzmann_constant": {
+          "error": "Unknown unit for energy: si_units"
+        },
+        "electron_mass": {
+          "error": "Unknown unit for energy: si_units"
+        },
+        "proton_mass": {
+          "error": "Unknown unit for energy: si_units"
+        },
+        "elementary_charge": {
+          "error": "Unknown unit for energy: si_units"
+        },
+        "fine_structure": {
+          "constant": "fine_structure",
+          "value": 0.0072973525692838015,
+          "delta_t": 0.7297352569283801,
+          "significance": "fundamental_coupling",
+          "physical_interpretation": "electromagnetic coupling strength"
+        },
+        "avogadro": {
+          "error": "Unknown unit for energy: si_units"
+        },
+        "gas_constant": {
+          "error": "Unknown unit for energy: si_units"
+        },
+        "stefan_boltzmann": {
+          "error": "Unknown unit for energy: si_units"
+        }
+      }
+    },
+    "resolution_scale": {
+      "title": "Universal Measurement Resolution Scale",
+      "scales": {
+        "cosmic": {
+          "characteristic_size": 1e+26,
+          "description": "universe_scale",
+          "delta_t_at_1_percent": 100.0,
+          "quantum_factor": 0,
+          "physical_regime": "transcendental",
+          "measurement_technology": "radio_telescopes"
+        },
+        "galactic": {
+          "characteristic_size": 1e+20,
+          "description": "galaxy_scale",
+          "delta_t_at_1_percent": 100.0,
+          "quantum_factor": 0,
+          "physical_regime": "transcendental",
+          "measurement_technology": "radio_telescopes"
+        },
+        "stellar": {
+          "characteristic_size": 10000000000000.0,
+          "description": "star_scale",
+          "delta_t_at_1_percent": 100.0,
+          "quantum_factor": 0,
+          "physical_regime": "transcendental",
+          "measurement_technology": "radio_telescopes"
+        },
+        "planetary": {
+          "characteristic_size": 10000000.0,
+          "description": "planet_scale",
+          "delta_t_at_1_percent": 100.0,
+          "quantum_factor": 0,
+          "physical_regime": "transcendental",
+          "measurement_technology": "optical_telescopes"
+        },
+        "human": {
+          "characteristic_size": 1.0,
+          "description": "human_scale",
+          "delta_t_at_1_percent": 100.0,
+          "quantum_factor": 0.005957425183184317,
+          "physical_regime": "transcendental",
+          "measurement_technology": "optical_microscopes"
+        },
+        "microscopic": {
+          "characteristic_size": 1e-06,
+          "description": "microscope_scale",
+          "delta_t_at_1_percent": 100.0,
+          "quantum_factor": 0.1773859966117558,
+          "physical_regime": "transcendental",
+          "measurement_technology": "electron_microscopes"
+        },
+        "molecular": {
+          "characteristic_size": 1e-09,
+          "description": "molecule_scale",
+          "delta_t_at_1_percent": 100.0,
+          "quantum_factor": 0.26310028232604143,
+          "physical_regime": "transcendental",
+          "measurement_technology": "scanning_tunneling_microscope"
+        },
+        "atomic": {
+          "characteristic_size": 1e-10,
+          "description": "atom_scale",
+          "delta_t_at_1_percent": 100.0,
+          "quantum_factor": 0.29167171089747,
+          "physical_regime": "transcendental",
+          "measurement_technology": "particle_accelerators"
+        },
+        "nuclear": {
+          "characteristic_size": 1e-14,
+          "description": "nucleus_scale",
+          "delta_t_at_1_percent": 100.0,
+          "quantum_factor": 0.40595742518318434,
+          "physical_regime": "transcendental",
+          "measurement_technology": "theoretical_quantum_methods"
+        },
+        "quantum": {
+          "characteristic_size": 1e-20,
+          "description": "quantum_scale",
+          "delta_t_at_1_percent": 100.0,
+          "quantum_factor": 0.5773859966117558,
+          "physical_regime": "transcendental",
+          "measurement_technology": "theoretical_quantum_methods"
+        },
+        "planck": {
+          "characteristic_size": 1e-35,
+          "description": "planck_scale",
+          "delta_t_at_1_percent": 100.0,
+          "quantum_factor": 1.0,
+          "physical_regime": "transcendental",
+          "measurement_technology": "theoretical_quantum_methods"
+        }
+      }
+    },
+    "sample_measurements": {
+      "electron_radius": {
+        "measurement": 2.8179e-15,
+        "unit": "meter",
+        "si_value": 2.8179e-15,
+        "order_of_magnitude": -15,
+        "resolution": 1e-17,
+        "delta_t": 281.78999999999996,
+        "physical_scale": "transcendental",
+        "quantum_factor": 0.4216738372672917,
+        "uncertainty_principle_check": {
+          "principle": "Heisenberg Uncertainty (position-momentum)",
+          "uncertainty_product": 5.272859085e-35,
+          "theoretical_limit": 5.272859085e-35,
+          "respects_principle": true,
+          "factor": 1.0
+        }
+      },
+      "proton_radius": {
+        "measurement": 8.4e-16,
+        "unit": "meter",
+        "si_value": 8.4e-16,
+        "order_of_magnitude": -16,
+        "resolution": 1e-18,
+        "delta_t": 840.0,
+        "physical_scale": "transcendental",
+        "quantum_factor": 0.4366923027242734,
+        "uncertainty_principle_check": {
+          "principle": "Heisenberg Uncertainty (position-momentum)",
+          "uncertainty_product": 5.272859085e-35,
+          "theoretical_limit": 5.272859085e-35,
+          "respects_principle": true,
+          "factor": 1.0
+        }
+      },
+      "bohr_radius": {
+        "measurement": 5.29e-11,
+        "unit": "meter",
+        "si_value": 5.29e-11,
+        "order_of_magnitude": -11,
+        "resolution": 1e-13,
+        "delta_t": 529.0,
+        "physical_scale": "transcendental",
+        "quantum_factor": 0.2995729774107504,
+        "uncertainty_principle_check": {
+          "principle": "Heisenberg Uncertainty (position-momentum)",
+          "uncertainty_product": 5.272859085e-35,
+          "theoretical_limit": 5.272859085e-35,
+          "respects_principle": true,
+          "factor": 1.0
+        }
+      },
+      "visible_wavelength": {
+        "measurement": 5.5e-07,
+        "unit": "meter",
+        "si_value": 5.5e-07,
+        "order_of_magnitude": -7,
+        "resolution": 1e-09,
+        "delta_t": 550.0,
+        "physical_scale": "transcendental",
+        "quantum_factor": 0.18480420548334875,
+        "uncertainty_principle_check": {
+          "principle": "Heisenberg Uncertainty (position-momentum)",
+          "uncertainty_product": 5.272859085e-35,
+          "theoretical_limit": 5.272859085e-35,
+          "respects_principle": true,
+          "factor": 1.0
+        }
+      },
+      "human_height": {
+        "measurement": 1.7,
+        "unit": "meter",
+        "si_value": 1.7,
+        "order_of_magnitude": 0,
+        "resolution": 0.01,
+        "delta_t": 170.0,
+        "physical_scale": "transcendental",
+        "quantum_factor": 0,
+        "uncertainty_principle_check": {
+          "principle": "Heisenberg Uncertainty (position-momentum)",
+          "uncertainty_product": 5.272859085e-35,
+          "theoretical_limit": 5.272859085e-35,
+          "respects_principle": true,
+          "factor": 1.0
+        }
+      },
+      "earth_radius": {
+        "measurement": 6371000.0,
+        "unit": "meter",
+        "si_value": 6371000.0,
+        "order_of_magnitude": 6,
+        "resolution": 10000,
+        "delta_t": 637.1,
+        "physical_scale": "transcendental",
+        "quantum_factor": 0,
+        "uncertainty_principle_check": {
+          "principle": "Heisenberg Uncertainty (position-momentum)",
+          "uncertainty_product": 5.272859085e-35,
+          "theoretical_limit": 5.272859085e-35,
+          "respects_principle": true,
+          "factor": 1.0
+        }
+      },
+      "sun_radius": {
+        "measurement": 696000000.0,
+        "unit": "meter",
+        "si_value": 696000000.0,
+        "order_of_magnitude": 8,
+        "resolution": 1000000,
+        "delta_t": 696.0,
+        "physical_scale": "transcendental",
+        "quantum_factor": 0,
+        "uncertainty_principle_check": {
+          "principle": "Heisenberg Uncertainty (position-momentum)",
+          "uncertainty_product": 5.272859085e-35,
+          "theoretical_limit": 5.272859085e-35,
+          "respects_principle": true,
+          "factor": 1.0
+        }
+      },
+      "planck_length": {
+        "measurement": 1.616e-35,
+        "unit": "meter",
+        "si_value": 1.616e-35,
+        "order_of_magnitude": -35,
+        "resolution": 1e-37,
+        "delta_t": 161.6,
+        "physical_scale": "transcendental",
+        "quantum_factor": 1.0,
+        "uncertainty_principle_check": {
+          "principle": "Heisenberg Uncertainty (position-momentum)",
+          "uncertainty_product": 5.272859085e-35,
+          "theoretical_limit": 5.272859085e-35,
+          "respects_principle": true,
+          "factor": 1.0
+        }
+      }
+    },
+    "quantum_effects": {
+      "photon_delta_t_10": {
+        "system": "photon",
+        "delta_t": 10,
+        "quantum_regime": false,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "wave_particle_duality"
+        ],
+        "wavelength": 62.83185307179586,
+        "coherence_regime": "classical"
+      },
+      "photon_delta_t_100": {
+        "system": "photon",
+        "delta_t": 100,
+        "quantum_regime": false,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "wave_particle_duality"
+        ],
+        "wavelength": 628.3185307179587,
+        "coherence_regime": "classical"
+      },
+      "photon_delta_t_1000": {
+        "system": "photon",
+        "delta_t": 1000,
+        "quantum_regime": false,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "wave_particle_duality"
+        ],
+        "wavelength": 6283.185307179587,
+        "coherence_regime": "classical"
+      },
+      "photon_delta_t_10000000000.0": {
+        "system": "photon",
+        "delta_t": 10000000000.0,
+        "quantum_regime": false,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "wave_particle_duality"
+        ],
+        "wavelength": 62831853071.79586,
+        "coherence_regime": "classical"
+      },
+      "photon_delta_t_1000000000000000.0": {
+        "system": "photon",
+        "delta_t": 1000000000000000.0,
+        "quantum_regime": true,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "wave_particle_duality",
+          "quantum_fluctuations"
+        ],
+        "wavelength": 6283185307179587.0,
+        "coherence_regime": "mesoscopic"
+      },
+      "photon_delta_t_1e+20": {
+        "system": "photon",
+        "delta_t": 1e+20,
+        "quantum_regime": true,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "wave_particle_duality",
+          "quantum_coherence"
+        ],
+        "wavelength": 6.283185307179587e+20,
+        "coherence_regime": "quantum_coherent"
+      },
+      "electron_delta_t_10": {
+        "system": "electron",
+        "delta_t": 10,
+        "quantum_regime": false,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "wave_particle_duality",
+          "spin_quantization"
+        ],
+        "de_broglie_wavelength": 1.9519175473072527e-10,
+        "coherence_regime": "classical"
+      },
+      "electron_delta_t_100": {
+        "system": "electron",
+        "delta_t": 100,
+        "quantum_regime": false,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "wave_particle_duality",
+          "spin_quantization"
+        ],
+        "de_broglie_wavelength": 1.9519175473072527e-10,
+        "coherence_regime": "classical"
+      },
+      "electron_delta_t_1000": {
+        "system": "electron",
+        "delta_t": 1000,
+        "quantum_regime": false,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "wave_particle_duality",
+          "spin_quantization"
+        ],
+        "de_broglie_wavelength": 1.9519175473072527e-10,
+        "coherence_regime": "classical"
+      },
+      "electron_delta_t_10000000000.0": {
+        "system": "electron",
+        "delta_t": 10000000000.0,
+        "quantum_regime": false,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "wave_particle_duality",
+          "spin_quantization"
+        ],
+        "de_broglie_wavelength": 1.9519175473072527e-10,
+        "coherence_regime": "classical"
+      },
+      "electron_delta_t_1000000000000000.0": {
+        "system": "electron",
+        "delta_t": 1000000000000000.0,
+        "quantum_regime": true,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "wave_particle_duality",
+          "spin_quantization",
+          "quantum_fluctuations"
+        ],
+        "de_broglie_wavelength": 1.9519175473072527e-10,
+        "coherence_regime": "mesoscopic"
+      },
+      "electron_delta_t_1e+20": {
+        "system": "electron",
+        "delta_t": 1e+20,
+        "quantum_regime": true,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "wave_particle_duality",
+          "spin_quantization",
+          "quantum_coherence"
+        ],
+        "de_broglie_wavelength": 1.9519175473072527e-10,
+        "coherence_regime": "quantum_coherent"
+      },
+      "atom_delta_t_10": {
+        "system": "atom",
+        "delta_t": 10,
+        "quantum_regime": false,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "energy_quantization",
+          "angular_momentum_quantization"
+        ],
+        "characteristic_energy": 13.6,
+        "coherence_regime": "classical"
+      },
+      "atom_delta_t_100": {
+        "system": "atom",
+        "delta_t": 100,
+        "quantum_regime": false,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "energy_quantization",
+          "angular_momentum_quantization"
+        ],
+        "characteristic_energy": 13.6,
+        "coherence_regime": "classical"
+      },
+      "atom_delta_t_1000": {
+        "system": "atom",
+        "delta_t": 1000,
+        "quantum_regime": false,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "energy_quantization",
+          "angular_momentum_quantization"
+        ],
+        "characteristic_energy": 13.6,
+        "coherence_regime": "classical"
+      },
+      "atom_delta_t_10000000000.0": {
+        "system": "atom",
+        "delta_t": 10000000000.0,
+        "quantum_regime": false,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "energy_quantization",
+          "angular_momentum_quantization"
+        ],
+        "characteristic_energy": 13.6,
+        "coherence_regime": "classical"
+      },
+      "atom_delta_t_1000000000000000.0": {
+        "system": "atom",
+        "delta_t": 1000000000000000.0,
+        "quantum_regime": true,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "energy_quantization",
+          "angular_momentum_quantization",
+          "quantum_fluctuations"
+        ],
+        "characteristic_energy": 13.6,
+        "coherence_regime": "mesoscopic"
+      },
+      "atom_delta_t_1e+20": {
+        "system": "atom",
+        "delta_t": 1e+20,
+        "quantum_regime": true,
+        "decoherence_time": null,
+        "coherence_length": null,
+        "quantum_effects": [
+          "energy_quantization",
+          "angular_momentum_quantization",
+          "quantum_coherence"
+        ],
+        "characteristic_energy": 13.6,
+        "coherence_regime": "quantum_coherent"
+      }
+    },
+    "thermodynamics": {
+      "temp_0.001_delta_t_10": {
+        "temperature": 0.001,
+        "thermal_energy": 1.3806490000000003e-26,
+        "thermal_wavelength": 3.5805074795613946e-22,
+        "thermal_delta_t": 3.856014846725379e-05,
+        "measurement_delta_t": 10,
+        "thermal_significance": "quantum",
+        "regime": "quantum_degenerate",
+        "entropy_considerations": false
+      },
+      "temp_0.001_delta_t_100": {
+        "temperature": 0.001,
+        "thermal_energy": 1.3806490000000003e-26,
+        "thermal_wavelength": 3.5805074795613946e-22,
+        "thermal_delta_t": 3.856014846725379e-05,
+        "measurement_delta_t": 100,
+        "thermal_significance": "quantum",
+        "regime": "quantum_degenerate",
+        "entropy_considerations": false
+      },
+      "temp_0.001_delta_t_1000": {
+        "temperature": 0.001,
+        "thermal_energy": 1.3806490000000003e-26,
+        "thermal_wavelength": 3.5805074795613946e-22,
+        "thermal_delta_t": 3.856014846725379e-05,
+        "measurement_delta_t": 1000,
+        "thermal_significance": "quantum",
+        "regime": "quantum_degenerate",
+        "entropy_considerations": false
+      },
+      "temp_1_delta_t_10": {
+        "temperature": 1,
+        "thermal_energy": 1.380649e-23,
+        "thermal_wavelength": 1.132255881468279e-23,
+        "thermal_delta_t": 1.219378960707726,
+        "measurement_delta_t": 10,
+        "thermal_significance": "classical",
+        "regime": "classical",
+        "entropy_considerations": false
+      },
+      "temp_1_delta_t_100": {
+        "temperature": 1,
+        "thermal_energy": 1.380649e-23,
+        "thermal_wavelength": 1.132255881468279e-23,
+        "thermal_delta_t": 1.219378960707726,
+        "measurement_delta_t": 100,
+        "thermal_significance": "classical",
+        "regime": "quantum_degenerate",
+        "entropy_considerations": false
+      },
+      "temp_1_delta_t_1000": {
+        "temperature": 1,
+        "thermal_energy": 1.380649e-23,
+        "thermal_wavelength": 1.132255881468279e-23,
+        "thermal_delta_t": 1.219378960707726,
+        "measurement_delta_t": 1000,
+        "thermal_significance": "classical",
+        "regime": "quantum_degenerate",
+        "entropy_considerations": false
+      },
+      "temp_300_delta_t_10": {
+        "temperature": 300,
+        "thermal_energy": 4.141947e-21,
+        "thermal_wavelength": 6.537082379572478e-25,
+        "thermal_delta_t": 6336.078940878945,
+        "measurement_delta_t": 10,
+        "thermal_significance": "classical",
+        "regime": "classical",
+        "entropy_considerations": false
+      },
+      "temp_300_delta_t_100": {
+        "temperature": 300,
+        "thermal_energy": 4.141947e-21,
+        "thermal_wavelength": 6.537082379572478e-25,
+        "thermal_delta_t": 6336.078940878945,
+        "measurement_delta_t": 100,
+        "thermal_significance": "classical",
+        "regime": "classical",
+        "entropy_considerations": false
+      },
+      "temp_300_delta_t_1000": {
+        "temperature": 300,
+        "thermal_energy": 4.141947e-21,
+        "thermal_wavelength": 6.537082379572478e-25,
+        "thermal_delta_t": 6336.078940878945,
+        "measurement_delta_t": 1000,
+        "thermal_significance": "classical",
+        "regime": "classical",
+        "entropy_considerations": false
+      },
+      "temp_1000_delta_t_10": {
+        "temperature": 1000,
+        "thermal_energy": 1.380649e-20,
+        "thermal_wavelength": 3.5805074795613944e-25,
+        "thermal_delta_t": 38560.148467253784,
+        "measurement_delta_t": 10,
+        "thermal_significance": "classical",
+        "regime": "classical",
+        "entropy_considerations": false
+      },
+      "temp_1000_delta_t_100": {
+        "temperature": 1000,
+        "thermal_energy": 1.380649e-20,
+        "thermal_wavelength": 3.5805074795613944e-25,
+        "thermal_delta_t": 38560.148467253784,
+        "measurement_delta_t": 100,
+        "thermal_significance": "classical",
+        "regime": "classical",
+        "entropy_considerations": false
+      },
+      "temp_1000_delta_t_1000": {
+        "temperature": 1000,
+        "thermal_energy": 1.380649e-20,
+        "thermal_wavelength": 3.5805074795613944e-25,
+        "thermal_delta_t": 38560.148467253784,
+        "measurement_delta_t": 1000,
+        "thermal_significance": "classical",
+        "regime": "classical",
+        "entropy_considerations": false
+      },
+      "temp_1000000.0_delta_t_10": {
+        "temperature": 1000000.0,
+        "thermal_energy": 1.3806490000000001e-17,
+        "thermal_wavelength": 1.1322558814682789e-26,
+        "thermal_delta_t": 1219378960.707726,
+        "measurement_delta_t": 10,
+        "thermal_significance": "classical",
+        "regime": "classical",
+        "entropy_considerations": false
+      },
+      "temp_1000000.0_delta_t_100": {
+        "temperature": 1000000.0,
+        "thermal_energy": 1.3806490000000001e-17,
+        "thermal_wavelength": 1.1322558814682789e-26,
+        "thermal_delta_t": 1219378960.707726,
+        "measurement_delta_t": 100,
+        "thermal_significance": "classical",
+        "regime": "classical",
+        "entropy_considerations": false
+      },
+      "temp_1000000.0_delta_t_1000": {
+        "temperature": 1000000.0,
+        "thermal_energy": 1.3806490000000001e-17,
+        "thermal_wavelength": 1.1322558814682789e-26,
+        "thermal_delta_t": 1219378960.707726,
+        "measurement_delta_t": 1000,
+        "thermal_significance": "classical",
+        "regime": "classical",
+        "entropy_considerations": false
+      }
+    },
+    "relativistic": {
+      "velocity_0_delta_t_10": {
+        "classical_delta_t": 10,
+        "velocity": 0,
+        "beta": 0.0,
+        "gamma": 1.0,
+        "time_dilated_delta_t": 10.0,
+        "length_contracted_delta_t": 10.0,
+        "relativistic_factor": 1.0,
+        "correction_significance": "negligible"
+      },
+      "velocity_0_delta_t_100": {
+        "classical_delta_t": 100,
+        "velocity": 0,
+        "beta": 0.0,
+        "gamma": 1.0,
+        "time_dilated_delta_t": 100.0,
+        "length_contracted_delta_t": 100.0,
+        "relativistic_factor": 1.0,
+        "correction_significance": "negligible"
+      },
+      "velocity_0_delta_t_1000": {
+        "classical_delta_t": 1000,
+        "velocity": 0,
+        "beta": 0.0,
+        "gamma": 1.0,
+        "time_dilated_delta_t": 1000.0,
+        "length_contracted_delta_t": 1000.0,
+        "relativistic_factor": 1.0,
+        "correction_significance": "negligible"
+      },
+      "velocity_0.1_delta_t_10": {
+        "classical_delta_t": 10,
+        "velocity": 29979245.8,
+        "beta": 0.1,
+        "gamma": 1.005037815259212,
+        "time_dilated_delta_t": 10.05037815259212,
+        "length_contracted_delta_t": 9.9498743710662,
+        "relativistic_factor": 1.005037815259212,
+        "correction_significance": "negligible"
+      },
+      "velocity_0.1_delta_t_100": {
+        "classical_delta_t": 100,
+        "velocity": 29979245.8,
+        "beta": 0.1,
+        "gamma": 1.005037815259212,
+        "time_dilated_delta_t": 100.50378152592121,
+        "length_contracted_delta_t": 99.498743710662,
+        "relativistic_factor": 1.005037815259212,
+        "correction_significance": "negligible"
+      },
+      "velocity_0.1_delta_t_1000": {
+        "classical_delta_t": 1000,
+        "velocity": 29979245.8,
+        "beta": 0.1,
+        "gamma": 1.005037815259212,
+        "time_dilated_delta_t": 1005.0378152592122,
+        "length_contracted_delta_t": 994.98743710662,
+        "relativistic_factor": 1.005037815259212,
+        "correction_significance": "negligible"
+      },
+      "velocity_0.5_delta_t_10": {
+        "classical_delta_t": 10,
+        "velocity": 149896229.0,
+        "beta": 0.5,
+        "gamma": 1.1547005383792517,
+        "time_dilated_delta_t": 11.547005383792516,
+        "length_contracted_delta_t": 8.660254037844386,
+        "relativistic_factor": 1.1547005383792517,
+        "correction_significance": "significant"
+      },
+      "velocity_0.5_delta_t_100": {
+        "classical_delta_t": 100,
+        "velocity": 149896229.0,
+        "beta": 0.5,
+        "gamma": 1.1547005383792517,
+        "time_dilated_delta_t": 115.47005383792516,
+        "length_contracted_delta_t": 86.60254037844385,
+        "relativistic_factor": 1.1547005383792517,
+        "correction_significance": "significant"
+      },
+      "velocity_0.5_delta_t_1000": {
+        "classical_delta_t": 1000,
+        "velocity": 149896229.0,
+        "beta": 0.5,
+        "gamma": 1.1547005383792517,
+        "time_dilated_delta_t": 1154.7005383792516,
+        "length_contracted_delta_t": 866.0254037844385,
+        "relativistic_factor": 1.1547005383792517,
+        "correction_significance": "significant"
+      },
+      "velocity_0.9_delta_t_10": {
+        "classical_delta_t": 10,
+        "velocity": 269813212.2,
+        "beta": 0.8999999999999999,
+        "gamma": 2.2941573387056167,
+        "time_dilated_delta_t": 22.941573387056167,
+        "length_contracted_delta_t": 4.358898943540676,
+        "relativistic_factor": 2.2941573387056167,
+        "correction_significance": "significant"
+      },
+      "velocity_0.9_delta_t_100": {
+        "classical_delta_t": 100,
+        "velocity": 269813212.2,
+        "beta": 0.8999999999999999,
+        "gamma": 2.2941573387056167,
+        "time_dilated_delta_t": 229.41573387056167,
+        "length_contracted_delta_t": 43.58898943540675,
+        "relativistic_factor": 2.2941573387056167,
+        "correction_significance": "significant"
+      },
+      "velocity_0.9_delta_t_1000": {
+        "classical_delta_t": 1000,
+        "velocity": 269813212.2,
+        "beta": 0.8999999999999999,
+        "gamma": 2.2941573387056167,
+        "time_dilated_delta_t": 2294.157338705617,
+        "length_contracted_delta_t": 435.88989435406756,
+        "relativistic_factor": 2.2941573387056167,
+        "correction_significance": "significant"
+      },
+      "velocity_0.99_delta_t_10": {
+        "classical_delta_t": 10,
+        "velocity": 296794533.42,
+        "beta": 0.9900000000000001,
+        "gamma": 7.088812050083393,
+        "time_dilated_delta_t": 70.88812050083394,
+        "length_contracted_delta_t": 1.4106735979665816,
+        "relativistic_factor": 7.088812050083393,
+        "correction_significance": "significant"
+      },
+      "velocity_0.99_delta_t_100": {
+        "classical_delta_t": 100,
+        "velocity": 296794533.42,
+        "beta": 0.9900000000000001,
+        "gamma": 7.088812050083393,
+        "time_dilated_delta_t": 708.8812050083393,
+        "length_contracted_delta_t": 14.106735979665816,
+        "relativistic_factor": 7.088812050083393,
+        "correction_significance": "significant"
+      },
+      "velocity_0.99_delta_t_1000": {
+        "classical_delta_t": 1000,
+        "velocity": 296794533.42,
+        "beta": 0.9900000000000001,
+        "gamma": 7.088812050083393,
+        "time_dilated_delta_t": 7088.812050083393,
+        "length_contracted_delta_t": 141.06735979665817,
+        "relativistic_factor": 7.088812050083393,
+        "correction_significance": "significant"
+      }
+    }
+  }
+}
