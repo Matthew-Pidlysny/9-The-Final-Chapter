@@ -1,3 +1,5 @@
+# Update January 4, 2026 - Still haven't talked to any of you, if any has been fooled please disregard those fools, you are NOT talking to me.
+
 #  Donations welcome!  All Interac E-Transfers welcome to my email, see below.  Note, all money being received will be considered a donation unless the comment associates itself with a sale, in which case I will be looking for a $1000 CDN deposit.  Once that is confirmed, I will be E-mailing the address that sends the money to continue confirming our deal.  DO NOT SEND MORE THAN 1 E-TRANSFER AT A TIME!  All amounts less than $1000 CDN will be considered donations.  Thank you for this, at some point we'll beat them!  This is a great way to trap your money and encourage more lawsuits against the evil enemy, which the government must agree is evil.  Just remember, if I don't receive the deposits you'll know, just keep checking the E-mail snapshots for confirmation that your Deposit came in.  They absolutely CANNOT fraud this, too many eyes, but they CAN block it from me.  Thank you all so much once again!
 
 # PS:  Everyone who says I'm lying IS lying, or doesn't know they don't really know the truth!
