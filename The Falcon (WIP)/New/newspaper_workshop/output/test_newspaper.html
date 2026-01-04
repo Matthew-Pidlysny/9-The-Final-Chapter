@@ -1,0 +1,203 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Newspaper - January 04, 2026</title>
+    <style>
+        /* Newspaper Styles */
+        @page {
+            size: A4;
+            margin: 1 inch;
+            @top-center {
+                content: "Test Newspaper";
+                font-size: 14px;
+                font-weight: bold;
+            }
+            @bottom-center {
+                content: "Page " counter(page);
+                font-size: 10px;
+            }
+        }
+        
+        body {
+            font-family: 'Times New Roman', serif;
+            font-size: 12px;
+            line-height: 1.4;
+            color: #000;
+            background: #fff;
+        }
+        
+        .newspaper {
+            width: 100%;
+            max-width: 210mm; /* A4 width */
+            margin: 0 auto;
+        }
+        
+        .header {
+            text-align: center;
+            border-bottom: 3px double #000;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .newspaper-title {
+            font-size: 48px;
+            font-weight: bold;
+            letter-spacing: 2px;
+            margin: 0;
+            text-transform: uppercase;
+        }
+        
+        .newspaper-subtitle {
+            font-size: 18px;
+            font-style: italic;
+            margin: 5px 0;
+            color: #333;
+        }
+        
+        .publication-date {
+            font-size: 14px;
+            margin: 10px 0;
+        }
+        
+        .content {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+        
+        .section {
+            margin-bottom: 40px;
+            page-break-inside: avoid;
+        }
+        
+        .section-header {
+            font-size: 24px;
+            font-weight: bold;
+            border-bottom: 2px solid #000;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+        }
+        
+        .articles-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+        
+        .article {
+            border: 1px solid #ccc;
+            padding: 15px;
+            break-inside: avoid-column;
+            background: #fff;
+        }
+        
+        .article-title {
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 8px;
+            line-height: 1.2;
+        }
+        
+        .article-meta {
+            font-size: 10px;
+            color: #666;
+            margin-bottom: 10px;
+            font-style: italic;
+        }
+        
+        .article-content {
+            font-size: 11px;
+            line-height: 1.4;
+            text-align: justify;
+        }
+        
+        .math-section {
+            background: #f8f8f8;
+            border-left: 4px solid #0066cc;
+            padding: 15px;
+            margin: 15px 0;
+        }
+        
+        .latex-formula {
+            font-family: 'Computer Modern', serif;
+            font-style: italic;
+            text-align: center;
+            margin: 10px 0;
+            padding: 10px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+        }
+        
+        .editorial-note {
+            background: #f9f9f9;
+            border: 1px solid #ddd;
+            padding: 15px;
+            font-style: italic;
+            margin: 20px 0;
+            text-align: center;
+        }
+        
+        /* Print-specific styles */
+        @media print {
+            .section { page-break-inside: avoid; }
+            .article { break-inside: avoid-column; }
+        }
+    </style>
+</head>
+<body>
+    <div class="newspaper">
+        
+        <header class="header">
+            <h1 class="newspaper-title">Test Newspaper</h1>
+            <div class="newspaper-subtitle">Testing Layout System</div>
+            <div class="publication-date">Sunday, January 04, 2026</div>
+        </header>
+        
+        <main class="content">
+        <section class="section">
+            <h2 class="section-header">Mathematics & Sciences</h2>
+            <div class="articles-grid">
+        
+        <article class="article">
+            <h3 class="article-title">Mathematics: The Language of Innovation</h3>
+            <div class="article-meta">
+                By Dr. Mathematics Editor | 16:48 | 183 words
+            </div>
+            <div class="article-content">
+                
+Advanced Mathematics in Modern Computing
+
+Mathematical principles form the foundation of modern computational systems. The elegant relationship between calculus and linear algebra enables us to solve complex problems that were once considered impossible.
+
+Consider the fundamental theorem of calculus:
+<div class="latex-formula"><div class="latex-formula">$</div>\int_a^b f(x)\,dx = F(b) - F(a)<div class="latex-formula">$</div></div>
+
+This relationship connects differentiation and integration in a profound way. In machine learning applications, we frequently encounter optimization problems that require finding minima of complex functions using gradient descent:
+
+<div class="latex-formula">$\theta_{new} = \theta_{old} - \alpha \nabla f(\theta)$</div>
+
+The normal equation in linear regression provides a closed-form solution for finding optimal parameters:
+
+<div class="latex-formula">$\theta = (X^T X)^{-1} X^T y$</div>
+
+In probability theory, Bayes' theorem helps us update our beliefs based on new evidence:
+
+<div class="latex-formula">$P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}$</div>
+
+These mathematical tools, combined with computational power, enable breakthroughs in artificial intelligence, data science, and engineering. The interplay between pure mathematics and applied computation continues to drive innovation across multiple disciplines.
+
+Researchers are now exploring quantum computing applications where quantum entanglement and superposition principles could revolutionize how we process information, potentially solving problems that would take classical computers millions of years to complete.
+        
+            </div>
+        </article>
+        
+            </div>
+        </section>
+        </main>
+    </div>
+</body>
+</html>

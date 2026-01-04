@@ -1,0 +1,202 @@
+2026-01-04 16:48:23,528 - NewspaperWorkshop - WARNING - Could not load Enhanced Falcon Integration: name 'EnhancedFalconIntegration' is not defined
+2026-01-04 16:48:23,528 - NewspaperWorkshop - WARNING - Could not load Dictionary Manager: name 'WebstersDictionaryManager' is not defined
+2026-01-04 16:48:23,528 - NewspaperWorkshop - WARNING - Could not load Thesaurus Manager: name 'RogetsThesaurusManager' is not defined
+2026-01-04 16:48:23,528 - NewspaperWorkshop - WARNING - Could not load News Sources Manager: name 'UnconventionalNewsSourcesManager' is not defined
+2026-01-04 16:48:23,528 - WorkshopOrchestrator - INFO - Starting complete Newspaper Workshop workflow...
+2026-01-04 16:48:23,528 - WorkshopOrchestrator - INFO - Initializing Newspaper Workshop components...
+2026-01-04 16:48:23,573 - AIArticleGenerator - WARNING - Could not load linguistic libraries: cannot import name 'WebstersDictionaryManager' from 'websters_dictionary_library' (/workspace/websters_dictionary_library.py)
+2026-01-04 16:48:23,589 - WorkshopOrchestrator - INFO - All components initialized successfully
+2026-01-04 16:48:23,589 - WorkshopOrchestrator - INFO - Starting complete newspaper generation...
+2026-01-04 16:48:23,589 - NewspaperWorkshop - INFO - Created new edition: The Falcon Press - 2026-01-04 16:48:23.589488+00:00
+2026-01-04 16:48:23,589 - WorkshopOrchestrator - INFO - Generating AI articles...
+2026-01-04 16:48:23,589 - AIArticleGenerator - INFO - Generating article for topic: global economic trends - 1, category: Headlines
+2026-01-04 16:48:23,589 - AIArticleGenerator - INFO - Generated article: Experts Weigh In on Global Economic Trends - 1 Trends (208 words)
+2026-01-04 16:48:23,589 - AIArticleGenerator - INFO - Generating article for topic: technological innovation - 2, category: Headlines
+2026-01-04 16:48:23,589 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Technological Innovation - 2 (204 words)
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generated 2 articles for Headlines
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generating article for topic: diplomatic relations - 1, category: World News
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generated article: Experts Weigh In on Diplomatic Relations - 1 Trends (204 words)
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generating article for topic: regional development - 2, category: World News
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Regional Development - 2 (204 words)
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generated 2 articles for World News
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generating article for topic: research breakthroughs - 1, category: Mathematics & Sciences
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generated article: New Developments in Research Breakthroughs - 1 Emerge (204 words)
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generating article for topic: scientific collaboration - 2, category: Mathematics & Sciences
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generated article: New Developments in Scientific Collaboration - 2 Emerge (204 words)
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generated 2 articles for Mathematics & Sciences
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generating article for topic: digital transformation - 1, category: Technology
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generated article: New Developments in Digital Transformation - 1 Emerge (204 words)
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generating article for topic: AI development - 2, category: Technology
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generated article: New Developments in Ai Development - 2 Emerge (204 words)
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generated 2 articles for Technology
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generating article for topic: social trends - 1, category: Culture & Society
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Social Trends - 1 (204 words)
+2026-01-04 16:48:23,590 - AIArticleGenerator - INFO - Generating article for topic: cultural preservation - 2, category: Culture & Society
+2026-01-04 16:48:23,591 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Cultural Preservation - 2 (204 words)
+2026-01-04 16:48:23,591 - AIArticleGenerator - INFO - Generated 2 articles for Culture & Society
+2026-01-04 16:48:23,591 - AIArticleGenerator - INFO - Generating article for topic: policy implications - 1, category: Opinions & Analysis
+2026-01-04 16:48:23,591 - AIArticleGenerator - INFO - Generated article: Experts Weigh In on Policy Implications - 1 Trends (204 words)
+2026-01-04 16:48:23,591 - AIArticleGenerator - INFO - Generating article for topic: economic analysis - 2, category: Opinions & Analysis
+2026-01-04 16:48:23,591 - AIArticleGenerator - INFO - Generated article: Experts Weigh In on Economic Analysis - 2 Trends (204 words)
+2026-01-04 16:48:23,591 - AIArticleGenerator - INFO - Generated 2 articles for Opinions & Analysis
+2026-01-04 16:48:23,591 - WorkshopOrchestrator - INFO - Generated AI articles for 6 sections
+2026-01-04 16:48:23,591 - WorkshopOrchestrator - INFO - Adding mathematics section with LaTeX content...
+2026-01-04 16:48:23,591 - WorkshopOrchestrator - INFO - Added 3 mathematics articles
+2026-01-04 16:48:23,591 - WorkshopOrchestrator - INFO - Newspaper generation completed: 15 articles
+2026-01-04 16:48:23,591 - ConsistencyValidator - INFO - Found 49 LaTeX formulas in newspaper
+2026-01-04 16:48:23,591 - ConsistencyValidator - INFO - Validation completed: PASSED
+2026-01-04 16:48:23,591 - WorkshopOrchestrator - INFO - Newspaper validation passed: {'total_articles': 15, 'total_words': 2953, 'sections_count': 6, 'publication_date': '2026-01-04T16:48:23.589488+00:00', 'latex_formulas': 49}
+2026-01-04 16:48:23,591 - PDFExporter - INFO - Exporting newspaper to HTML: newspaper_workshop/output/falcon_press_20260104_164823.html
+2026-01-04 16:48:23,592 - PDFExporter - INFO - HTML exported successfully: newspaper_workshop/output/falcon_press_20260104_164823.html
+2026-01-04 16:48:23,592 - PDFExporter - INFO - Exporting newspaper to PDF: newspaper_workshop/output/falcon_press_20260104_164823.pdf
+2026-01-04 16:48:23,601 - weasyprint - WARNING - Ignored `margin: 1 inch` at 4:21, invalid value.
+2026-01-04 16:48:23,606 - weasyprint - WARNING - Ignored `margin: 1 inch` at 5:13, invalid value.
+2026-01-04 16:48:24,155 - PDFExporter - ERROR - Error exporting PDF: cannot access local variable 'extra_skip_height' where it is not associated with a value
+2026-01-04 16:48:24,156 - WorkshopOrchestrator - INFO - Workflow completed successfully: 15 articles generated
+2026-01-04 16:48:53,077 - NewspaperWorkshop - WARNING - Could not load Enhanced Falcon Integration: name 'EnhancedFalconIntegration' is not defined
+2026-01-04 16:48:53,077 - NewspaperWorkshop - WARNING - Could not load Dictionary Manager: name 'WebstersDictionaryManager' is not defined
+2026-01-04 16:48:53,077 - NewspaperWorkshop - WARNING - Could not load Thesaurus Manager: name 'RogetsThesaurusManager' is not defined
+2026-01-04 16:48:53,077 - NewspaperWorkshop - WARNING - Could not load News Sources Manager: name 'UnconventionalNewsSourcesManager' is not defined
+2026-01-04 16:48:53,077 - WorkshopOrchestrator - INFO - Starting complete Newspaper Workshop workflow...
+2026-01-04 16:48:53,077 - WorkshopOrchestrator - INFO - Initializing Newspaper Workshop components...
+2026-01-04 16:48:53,114 - AIArticleGenerator - WARNING - Could not load linguistic libraries: cannot import name 'WebstersDictionaryManager' from 'websters_dictionary_library' (/workspace/websters_dictionary_library.py)
+2026-01-04 16:48:53,129 - WorkshopOrchestrator - INFO - All components initialized successfully
+2026-01-04 16:48:53,129 - WorkshopOrchestrator - INFO - Starting complete newspaper generation...
+2026-01-04 16:48:53,129 - NewspaperWorkshop - INFO - Created new edition: The Falcon Press - 2026-01-04 16:48:53.129495+00:00
+2026-01-04 16:48:53,129 - WorkshopOrchestrator - INFO - Generating AI articles...
+2026-01-04 16:48:53,129 - AIArticleGenerator - INFO - Generating article for topic: global economic trends - 1, category: Headlines
+2026-01-04 16:48:53,129 - AIArticleGenerator - INFO - Generated article: Experts Weigh In on Global Economic Trends - 1 Trends (208 words)
+2026-01-04 16:48:53,129 - AIArticleGenerator - INFO - Generating article for topic: technological innovation - 2, category: Headlines
+2026-01-04 16:48:53,129 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Technological Innovation - 2 (204 words)
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generated 2 articles for Headlines
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generating article for topic: diplomatic relations - 1, category: World News
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Diplomatic Relations - 1 (204 words)
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generating article for topic: regional development - 2, category: World News
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generated article: Experts Weigh In on Regional Development - 2 Trends (204 words)
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generated 2 articles for World News
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generating article for topic: research breakthroughs - 1, category: Mathematics & Sciences
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generated article: New Developments in Research Breakthroughs - 1 Emerge (204 words)
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generating article for topic: scientific collaboration - 2, category: Mathematics & Sciences
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Scientific Collaboration - 2 (204 words)
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generated 2 articles for Mathematics & Sciences
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generating article for topic: digital transformation - 1, category: Technology
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generated article: New Developments in Digital Transformation - 1 Emerge (204 words)
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generating article for topic: AI development - 2, category: Technology
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Ai Development - 2 (204 words)
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generated 2 articles for Technology
+2026-01-04 16:48:53,130 - AIArticleGenerator - INFO - Generating article for topic: social trends - 1, category: Culture & Society
+2026-01-04 16:48:53,131 - AIArticleGenerator - INFO - Generated article: Experts Weigh In on Social Trends - 1 Trends (204 words)
+2026-01-04 16:48:53,131 - AIArticleGenerator - INFO - Generating article for topic: cultural preservation - 2, category: Culture & Society
+2026-01-04 16:48:53,131 - AIArticleGenerator - INFO - Generated article: New Developments in Cultural Preservation - 2 Emerge (204 words)
+2026-01-04 16:48:53,131 - AIArticleGenerator - INFO - Generated 2 articles for Culture & Society
+2026-01-04 16:48:53,131 - AIArticleGenerator - INFO - Generating article for topic: policy implications - 1, category: Opinions & Analysis
+2026-01-04 16:48:53,131 - AIArticleGenerator - INFO - Generated article: New Developments in Policy Implications - 1 Emerge (204 words)
+2026-01-04 16:48:53,131 - AIArticleGenerator - INFO - Generating article for topic: economic analysis - 2, category: Opinions & Analysis
+2026-01-04 16:48:53,131 - AIArticleGenerator - INFO - Generated article: Experts Weigh In on Economic Analysis - 2 Trends (204 words)
+2026-01-04 16:48:53,131 - AIArticleGenerator - INFO - Generated 2 articles for Opinions & Analysis
+2026-01-04 16:48:53,131 - WorkshopOrchestrator - INFO - Generated AI articles for 6 sections
+2026-01-04 16:48:53,131 - WorkshopOrchestrator - INFO - Adding mathematics section with LaTeX content...
+2026-01-04 16:48:53,131 - WorkshopOrchestrator - INFO - Added 3 mathematics articles
+2026-01-04 16:48:53,131 - WorkshopOrchestrator - INFO - Newspaper generation completed: 15 articles
+2026-01-04 16:48:53,131 - ConsistencyValidator - INFO - Found 49 LaTeX formulas in newspaper
+2026-01-04 16:48:53,131 - ConsistencyValidator - INFO - Validation completed: PASSED
+2026-01-04 16:48:53,131 - WorkshopOrchestrator - INFO - Newspaper validation passed: {'total_articles': 15, 'total_words': 2953, 'sections_count': 6, 'publication_date': '2026-01-04T16:48:53.129495+00:00', 'latex_formulas': 49}
+2026-01-04 16:48:53,131 - PDFExporter - INFO - Exporting newspaper to HTML: newspaper_workshop/output/falcon_press_20260104_164853.html
+2026-01-04 16:48:53,132 - PDFExporter - INFO - HTML exported successfully: newspaper_workshop/output/falcon_press_20260104_164853.html
+2026-01-04 16:48:53,132 - WorkshopOrchestrator - INFO - Workflow completed successfully: 15 articles generated
+2026-01-04 16:52:00,636 - NewspaperWorkshop - WARNING - Could not load Enhanced Falcon Integration: name 'EnhancedFalconIntegration' is not defined
+2026-01-04 16:52:00,636 - NewspaperWorkshop - WARNING - Could not load Dictionary Manager: name 'WebstersDictionaryManager' is not defined
+2026-01-04 16:52:00,636 - NewspaperWorkshop - WARNING - Could not load Thesaurus Manager: name 'RogetsThesaurusManager' is not defined
+2026-01-04 16:52:00,636 - NewspaperWorkshop - WARNING - Could not load News Sources Manager: name 'UnconventionalNewsSourcesManager' is not defined
+2026-01-04 16:52:00,636 - WorkshopOrchestrator - INFO - Starting complete Newspaper Workshop workflow...
+2026-01-04 16:52:00,636 - WorkshopOrchestrator - INFO - Initializing Newspaper Workshop components...
+2026-01-04 16:52:00,673 - AIArticleGenerator - WARNING - Could not load linguistic libraries: cannot import name 'WebstersDictionaryManager' from 'websters_dictionary_library' (/workspace/websters_dictionary_library.py)
+2026-01-04 16:52:00,689 - WorkshopOrchestrator - INFO - All components initialized successfully
+2026-01-04 16:52:00,689 - WorkshopOrchestrator - INFO - Starting complete newspaper generation...
+2026-01-04 16:52:00,689 - NewspaperWorkshop - INFO - Created new edition: The Falcon Press - 2026-01-04 16:52:00.689484+00:00
+2026-01-04 16:52:00,689 - WorkshopOrchestrator - INFO - Generating AI articles...
+2026-01-04 16:52:00,689 - AIArticleGenerator - INFO - Generating article for topic: global economic trends - 1, category: Headlines
+2026-01-04 16:52:00,689 - AIArticleGenerator - INFO - Generated article: New Developments in Global Economic Trends - 1 Emerge (208 words)
+2026-01-04 16:52:00,689 - AIArticleGenerator - INFO - Generating article for topic: technological innovation - 2, category: Headlines
+2026-01-04 16:52:00,689 - AIArticleGenerator - INFO - Generated article: New Developments in Technological Innovation - 2 Emerge (204 words)
+2026-01-04 16:52:00,689 - AIArticleGenerator - INFO - Generated 2 articles for Headlines
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generating article for topic: diplomatic relations - 1, category: World News
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generated article: New Developments in Diplomatic Relations - 1 Emerge (204 words)
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generating article for topic: regional development - 2, category: World News
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generated article: New Developments in Regional Development - 2 Emerge (204 words)
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generated 2 articles for World News
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generating article for topic: research breakthroughs - 1, category: Mathematics & Sciences
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Research Breakthroughs - 1 (204 words)
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generating article for topic: scientific collaboration - 2, category: Mathematics & Sciences
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Scientific Collaboration - 2 (204 words)
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generated 2 articles for Mathematics & Sciences
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generating article for topic: digital transformation - 1, category: Technology
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Digital Transformation - 1 (204 words)
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generating article for topic: AI development - 2, category: Technology
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Ai Development - 2 (204 words)
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generated 2 articles for Technology
+2026-01-04 16:52:00,690 - AIArticleGenerator - INFO - Generating article for topic: social trends - 1, category: Culture & Society
+2026-01-04 16:52:00,691 - AIArticleGenerator - INFO - Generated article: Experts Weigh In on Social Trends - 1 Trends (204 words)
+2026-01-04 16:52:00,691 - AIArticleGenerator - INFO - Generating article for topic: cultural preservation - 2, category: Culture & Society
+2026-01-04 16:52:00,691 - AIArticleGenerator - INFO - Generated article: Experts Weigh In on Cultural Preservation - 2 Trends (204 words)
+2026-01-04 16:52:00,691 - AIArticleGenerator - INFO - Generated 2 articles for Culture & Society
+2026-01-04 16:52:00,691 - AIArticleGenerator - INFO - Generating article for topic: policy implications - 1, category: Opinions & Analysis
+2026-01-04 16:52:00,691 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Policy Implications - 1 (204 words)
+2026-01-04 16:52:00,691 - AIArticleGenerator - INFO - Generating article for topic: economic analysis - 2, category: Opinions & Analysis
+2026-01-04 16:52:00,691 - AIArticleGenerator - INFO - Generated article: Experts Weigh In on Economic Analysis - 2 Trends (204 words)
+2026-01-04 16:52:00,691 - AIArticleGenerator - INFO - Generated 2 articles for Opinions & Analysis
+2026-01-04 16:52:00,691 - WorkshopOrchestrator - INFO - Generated AI articles for 6 sections
+2026-01-04 16:52:00,691 - WorkshopOrchestrator - INFO - Adding mathematics section with LaTeX content...
+2026-01-04 16:52:00,691 - WorkshopOrchestrator - INFO - Added 3 mathematics articles
+2026-01-04 16:52:00,691 - WorkshopOrchestrator - INFO - Newspaper generation completed: 15 articles
+2026-01-04 16:52:00,691 - ConsistencyValidator - INFO - Found 49 LaTeX formulas in newspaper
+2026-01-04 16:52:00,691 - ConsistencyValidator - INFO - Validation completed: PASSED
+2026-01-04 16:52:00,691 - WorkshopOrchestrator - INFO - Newspaper validation passed: {'total_articles': 15, 'total_words': 2953, 'sections_count': 6, 'publication_date': '2026-01-04T16:52:00.689484+00:00', 'latex_formulas': 49}
+2026-01-04 16:52:00,691 - PDFExporter - INFO - Exporting newspaper to HTML: newspaper_workshop/output/falcon_press_20260104_165200.html
+2026-01-04 16:52:00,692 - PDFExporter - INFO - HTML exported successfully: newspaper_workshop/output/falcon_press_20260104_165200.html
+2026-01-04 16:52:00,692 - WorkshopOrchestrator - INFO - Workflow completed successfully: 15 articles generated
+2026-01-04 16:52:00,696 - OptimizedWorkshopOrchestrator - INFO - Starting complete optimized Newspaper Workshop workflow (level: maximum)...
+2026-01-04 16:52:00,696 - OptimizedWorkshopOrchestrator - INFO - Initializing optimized Newspaper Workshop components...
+2026-01-04 16:52:00,696 - NewspaperWorkshop - WARNING - Could not load Enhanced Falcon Integration: name 'EnhancedFalconIntegration' is not defined
+2026-01-04 16:52:00,696 - NewspaperWorkshop - WARNING - Could not load Dictionary Manager: name 'WebstersDictionaryManager' is not defined
+2026-01-04 16:52:00,696 - NewspaperWorkshop - WARNING - Could not load Thesaurus Manager: name 'RogetsThesaurusManager' is not defined
+2026-01-04 16:52:00,696 - NewspaperWorkshop - WARNING - Could not load News Sources Manager: name 'UnconventionalNewsSourcesManager' is not defined
+2026-01-04 16:52:00,700 - OptimizedWorkshopOrchestrator - INFO - All optimized components initialized successfully
+2026-01-04 16:52:00,700 - OptimizedWorkshopOrchestrator - INFO - Starting optimized newspaper generation (level: maximum)...
+2026-01-04 16:52:00,700 - NewspaperWorkshop - INFO - Created new edition: The Falcon Press - 2026-01-04 16:52:00.700706+00:00
+2026-01-04 16:52:00,700 - OptimizedWorkshopOrchestrator - INFO - Generating optimized AI articles...
+2026-01-04 16:52:00,700 - OptimizedAIArticleGenerator - INFO - Generating 18 articles in parallel...
+2026-01-04 16:52:00,701 - OptimizedWorkshopOrchestrator - INFO - Adding optimized mathematics section...
+2026-01-04 16:52:00,701 - OptimizedWorkshopOrchestrator - INFO - Added 3 optimized mathematics articles
+2026-01-04 16:52:00,703 - OptimizedAIArticleGenerator - ERROR - Article generation error: 'theorem'
+2026-01-04 16:52:00,703 - OptimizedAIArticleGenerator - ERROR - Article generation error: 'technology'
+2026-01-04 16:52:00,703 - OptimizedAIArticleGenerator - INFO - Parallel generation completed: 16 articles in 0.00s
+2026-01-04 16:52:00,703 - OptimizedWorkshopOrchestrator - INFO - Generated 16 optimized AI articles for 6 sections
+2026-01-04 16:52:00,703 - OptimizedWorkshopOrchestrator - INFO - Optimized newspaper generation completed: 19 articles in 0.00s
+2026-01-04 16:52:00,703 - OptimizedConsistencyValidator - INFO - Validation completed in 0.000s
+2026-01-04 16:52:00,703 - OptimizedWorkshopOrchestrator - INFO - Optimized validation passed: {'total_articles': 19, 'total_words': 2398, 'sections_count': 6, 'publication_date': '2026-01-04T16:52:00.700706+00:00', 'latex_formulas': 24}
+2026-01-04 16:52:00,704 - OptimizedPDFExporter - INFO - Exporting optimized HTML: newspaper_workshop/output/optimized_falcon_press_20260104_165200.html
+2026-01-04 16:52:00,705 - OptimizedPDFExporter - INFO - HTML exported in 0.00s
+2026-01-04 16:52:00,705 - OptimizedPDFExporter - INFO - Exporting optimized PDF: newspaper_workshop/output/optimized_falcon_press_20260104_165200.pdf
+2026-01-04 16:52:02,220 - OptimizedPDFExporter - ERROR - Error exporting PDF: cannot access local variable 'extra_skip_height' where it is not associated with a value
+2026-01-04 16:52:02,220 - OptimizedWorkshopOrchestrator - INFO - Optimized workflow completed in 1.52s - Efficiency score: 300
+2026-01-04 16:52:02,279 - NewsAggregator - INFO - Fetched 5 articles from https://feeds.bbci.co.uk/news/rss.xml
+2026-01-04 16:52:02,326 - NewsAggregator - ERROR - Error fetching RSS feed https://rss.cnn.com/rss/edition.rss: Cannot connect to host rss.cnn.com:443 ssl:default [None]
+2026-01-04 16:52:02,326 - NewsAggregator - INFO - Fetched 5 unique articles total
+2026-01-04 16:52:02,326 - OptimizedNewsAggregator - INFO - Fetching news from 3 feeds in parallel...
+2026-01-04 16:52:02,345 - OptimizedNewsAggregator - ERROR - Error fetching RSS feed https://rss.reuters.com/reuters/topNews: Cannot connect to host rss.reuters.com:443 ssl:default [Name or service not known]
+2026-01-04 16:52:02,368 - OptimizedNewsAggregator - ERROR - Error fetching RSS feed https://rss.cnn.com/rss/edition.rss: Cannot connect to host rss.cnn.com:443 ssl:default [None]
+2026-01-04 16:52:02,368 - OptimizedNewsAggregator - INFO - Optimized aggregation complete: 15 unique articles in 0.04s
+2026-01-04 16:52:02,368 - OptimizedNewsAggregator - INFO - Aggregation completed: {'feeds_processed': 2, 'articles_fetched': 0, 'cache_hits': 1, 'duplicates_removed': 0, 'processing_time': 0.04122042655944824}
+2026-01-04 16:52:02,368 - AIArticleGenerator - WARNING - Could not load linguistic libraries: cannot import name 'WebstersDictionaryManager' from 'websters_dictionary_library' (/workspace/websters_dictionary_library.py)
+2026-01-04 16:52:02,368 - AIArticleGenerator - INFO - Generating article for topic: global economic trends - 1, category: Headlines
+2026-01-04 16:52:02,368 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Global Economic Trends - 1 (208 words)
+2026-01-04 16:52:02,368 - AIArticleGenerator - INFO - Generated 1 articles for Headlines
+2026-01-04 16:52:02,368 - AIArticleGenerator - INFO - Generating article for topic: digital transformation - 1, category: Technology
+2026-01-04 16:52:02,368 - AIArticleGenerator - INFO - Generated article: Experts Weigh In on Digital Transformation - 1 Trends (204 words)
+2026-01-04 16:52:02,368 - AIArticleGenerator - INFO - Generated 1 articles for Technology
+2026-01-04 16:52:02,368 - AIArticleGenerator - INFO - Generating article for topic: diplomatic relations - 1, category: World News
+2026-01-04 16:52:02,368 - AIArticleGenerator - INFO - Generated article: Understanding the Implications of Diplomatic Relations - 1 (204 words)
+2026-01-04 16:52:02,368 - AIArticleGenerator - INFO - Generated 1 articles for World News
+2026-01-04 16:52:02,378 - ConsistencyValidator - INFO - Found 5 LaTeX formulas in newspaper
+2026-01-04 16:52:02,378 - ConsistencyValidator - INFO - Validation completed: PASSED

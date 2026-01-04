@@ -1,0 +1,46 @@
+2026-01-04 16:51:46,171 - OptimizedWorkshopOrchestrator - INFO - Starting complete optimized Newspaper Workshop workflow (level: maximum)...
+2026-01-04 16:51:46,171 - OptimizedWorkshopOrchestrator - INFO - Initializing optimized Newspaper Workshop components...
+2026-01-04 16:51:46,171 - NewspaperWorkshop - WARNING - Could not load Enhanced Falcon Integration: name 'EnhancedFalconIntegration' is not defined
+2026-01-04 16:51:46,171 - NewspaperWorkshop - WARNING - Could not load Dictionary Manager: name 'WebstersDictionaryManager' is not defined
+2026-01-04 16:51:46,171 - NewspaperWorkshop - WARNING - Could not load Thesaurus Manager: name 'RogetsThesaurusManager' is not defined
+2026-01-04 16:51:46,171 - NewspaperWorkshop - WARNING - Could not load News Sources Manager: name 'UnconventionalNewsSourcesManager' is not defined
+2026-01-04 16:51:46,182 - OptimizedWorkshopOrchestrator - INFO - All optimized components initialized successfully
+2026-01-04 16:51:46,182 - OptimizedWorkshopOrchestrator - INFO - Starting optimized newspaper generation (level: maximum)...
+2026-01-04 16:51:46,182 - NewspaperWorkshop - INFO - Created new edition: The Falcon Press - 2026-01-04 16:51:46.182234+00:00
+2026-01-04 16:51:46,182 - OptimizedWorkshopOrchestrator - INFO - Generating optimized AI articles...
+2026-01-04 16:51:46,182 - OptimizedAIArticleGenerator - INFO - Generating 18 articles in parallel...
+2026-01-04 16:51:46,182 - OptimizedWorkshopOrchestrator - INFO - Adding optimized mathematics section...
+2026-01-04 16:51:46,182 - OptimizedWorkshopOrchestrator - INFO - Added 3 optimized mathematics articles
+2026-01-04 16:51:46,184 - OptimizedAIArticleGenerator - ERROR - Article generation error: 'theorem'
+2026-01-04 16:51:46,184 - OptimizedAIArticleGenerator - ERROR - Article generation error: 'theorem'
+2026-01-04 16:51:46,184 - OptimizedAIArticleGenerator - ERROR - Article generation error: 'technology'
+2026-01-04 16:51:46,184 - OptimizedAIArticleGenerator - ERROR - Article generation error: 'technology'
+2026-01-04 16:51:46,184 - OptimizedAIArticleGenerator - INFO - Parallel generation completed: 14 articles in 0.00s
+2026-01-04 16:51:46,184 - OptimizedWorkshopOrchestrator - INFO - Generated 14 optimized AI articles for 6 sections
+2026-01-04 16:51:46,185 - OptimizedWorkshopOrchestrator - INFO - Optimized newspaper generation completed: 17 articles in 0.00s
+2026-01-04 16:51:46,185 - OptimizedConsistencyValidator - INFO - Validation completed in 0.000s
+2026-01-04 16:51:46,185 - OptimizedWorkshopOrchestrator - INFO - Optimized validation passed: {'total_articles': 17, 'total_words': 2153, 'sections_count': 6, 'publication_date': '2026-01-04T16:51:46.182234+00:00', 'latex_formulas': 24}
+2026-01-04 16:51:46,185 - OptimizedPDFExporter - INFO - Exporting optimized HTML: newspaper_workshop/output/optimized_falcon_press_20260104_165146.html
+2026-01-04 16:51:46,186 - OptimizedPDFExporter - INFO - HTML exported in 0.00s
+2026-01-04 16:51:46,187 - OptimizedWorkshopOrchestrator - INFO - Optimized workflow completed in 0.02s - Efficiency score: 300
+2026-01-04 16:52:15,206 - OptimizedWorkshopOrchestrator - INFO - Starting complete optimized Newspaper Workshop workflow (level: maximum)...
+2026-01-04 16:52:15,206 - OptimizedWorkshopOrchestrator - INFO - Initializing optimized Newspaper Workshop components...
+2026-01-04 16:52:15,206 - NewspaperWorkshop - WARNING - Could not load Enhanced Falcon Integration: name 'EnhancedFalconIntegration' is not defined
+2026-01-04 16:52:15,206 - NewspaperWorkshop - WARNING - Could not load Dictionary Manager: name 'WebstersDictionaryManager' is not defined
+2026-01-04 16:52:15,206 - NewspaperWorkshop - WARNING - Could not load Thesaurus Manager: name 'RogetsThesaurusManager' is not defined
+2026-01-04 16:52:15,206 - NewspaperWorkshop - WARNING - Could not load News Sources Manager: name 'UnconventionalNewsSourcesManager' is not defined
+2026-01-04 16:52:15,214 - OptimizedWorkshopOrchestrator - INFO - All optimized components initialized successfully
+2026-01-04 16:52:15,214 - OptimizedWorkshopOrchestrator - INFO - Starting optimized newspaper generation (level: maximum)...
+2026-01-04 16:52:15,215 - NewspaperWorkshop - INFO - Created new edition: The Falcon Press - 2026-01-04 16:52:15.214975+00:00
+2026-01-04 16:52:15,215 - OptimizedWorkshopOrchestrator - INFO - Generating optimized AI articles...
+2026-01-04 16:52:15,215 - OptimizedAIArticleGenerator - INFO - Generating 12 articles in parallel...
+2026-01-04 16:52:15,215 - OptimizedWorkshopOrchestrator - INFO - Adding optimized mathematics section...
+2026-01-04 16:52:15,215 - OptimizedWorkshopOrchestrator - INFO - Added 3 optimized mathematics articles
+2026-01-04 16:52:15,217 - OptimizedAIArticleGenerator - INFO - Parallel generation completed: 12 articles in 0.00s
+2026-01-04 16:52:15,217 - OptimizedWorkshopOrchestrator - INFO - Generated 12 optimized AI articles for 6 sections
+2026-01-04 16:52:15,217 - OptimizedWorkshopOrchestrator - INFO - Optimized newspaper generation completed: 15 articles in 0.00s
+2026-01-04 16:52:15,217 - OptimizedConsistencyValidator - INFO - Validation completed in 0.000s
+2026-01-04 16:52:15,217 - OptimizedWorkshopOrchestrator - INFO - Optimized validation passed: {'total_articles': 15, 'total_words': 1885, 'sections_count': 6, 'publication_date': '2026-01-04T16:52:15.214975+00:00', 'latex_formulas': 24}
+2026-01-04 16:52:15,217 - OptimizedPDFExporter - INFO - Exporting optimized HTML: newspaper_workshop/output/optimized_falcon_press_20260104_165215.html
+2026-01-04 16:52:15,219 - OptimizedPDFExporter - INFO - HTML exported in 0.00s
+2026-01-04 16:52:15,219 - OptimizedWorkshopOrchestrator - INFO - Optimized workflow completed in 0.01s - Efficiency score: 300

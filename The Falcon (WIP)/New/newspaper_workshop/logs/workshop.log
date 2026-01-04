@@ -1,0 +1,5 @@
+2026-01-04 16:47:34,137 - NewspaperWorkshop - WARNING - Could not load Enhanced Falcon Integration: name 'EnhancedFalconIntegration' is not defined
+2026-01-04 16:47:34,137 - NewspaperWorkshop - WARNING - Could not load Dictionary Manager: name 'WebstersDictionaryManager' is not defined
+2026-01-04 16:47:34,137 - NewspaperWorkshop - WARNING - Could not load Thesaurus Manager: name 'RogetsThesaurusManager' is not defined
+2026-01-04 16:47:34,137 - NewspaperWorkshop - WARNING - Could not load News Sources Manager: name 'UnconventionalNewsSourcesManager' is not defined
+2026-01-04 16:47:34,137 - NewspaperWorkshop - INFO - Created new edition: The Falcon Press - 2026-01-04 16:47:34.137769+00:00

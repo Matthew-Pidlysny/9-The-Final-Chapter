@@ -1,0 +1,8 @@
+{
+  "success_rate": 75.0,
+  "total_tests": 12,
+  "passed_tests": 9,
+  "bugs_count": 3,
+  "warnings_count": 0,
+  "ready_for_production": false
+}
