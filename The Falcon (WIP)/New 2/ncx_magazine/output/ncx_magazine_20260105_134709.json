@@ -1,0 +1,64 @@
+{
+  "title": "NCX Magazine",
+  "subtitle": "Non-Conformist Xenophober - Seeing Through The Veil",
+  "publication_date": "2026-01-05T13:47:09.842807+00:00",
+  "total_evidence_score": 0.7933333333333333,
+  "articles": [
+    {
+      "title": "\ud83c\udfb8 EXPOSED: Tech Giants Hold Secret Meeting on AI Governance",
+      "analysis_type": "discretion",
+      "evidence_score": 0.75,
+      "punk_rating": 4,
+      "detected_patterns": [
+        "Discretion/hidden_meetings: behind closed doors",
+        "Discretion/hidden_meetings: unnamed sources",
+        "Altruistic/sudden_philanthropy: ethical framework",
+        "Sovereignty/elite_status: establishment",
+        "Sovereignty/defiance_of_law: beyond oversight"
+      ],
+      "organizations_mentioned": [
+        "Council on Foreign Relations"
+      ],
+      "should_publish": true,
+      "reasoning": "Strong evidence with multiple patterns and org mentions"
+    },
+    {
+      "title": "\ud83d\udc80 THEY DON'T WANT YOU TO KNOW: Billionaire's Sudden Spiritual Awakening",
+      "analysis_type": "altruistic_conspiracy",
+      "evidence_score": 0.85,
+      "punk_rating": 5,
+      "detected_patterns": [
+        "Altruistic/sudden_philanthropy: philanthropic initiative",
+        "Altruistic/metaphysical_endorsement: consciousness",
+        "Altruistic/timing_suspicion: just weeks after",
+        "Sovereignty/legal_immunity: despite investigations",
+        "Sovereignty/elite_status: untouchable",
+        "Deception/vague_language: higher purpose"
+      ],
+      "organizations_mentioned": [
+        "Lucis Trust",
+        "Theosophical Society"
+      ],
+      "should_publish": true,
+      "reasoning": "Exceptional evidence with org affiliations"
+    },
+    {
+      "title": "\u26a1 BREAKING THE VEIL: Corporate Merger Defies Antitrust Laws",
+      "analysis_type": "sovereignty",
+      "evidence_score": 0.78,
+      "punk_rating": 4,
+      "detected_patterns": [
+        "Discretion/hidden_meetings: undisclosed",
+        "Discretion/hidden_meetings: sources familiar",
+        "Sovereignty/defiance_of_law: defies antitrust",
+        "Sovereignty/elite_status: regulatory silence",
+        "Deception/vague_language: special arrangements"
+      ],
+      "organizations_mentioned": [
+        "Bilderberg Group"
+      ],
+      "should_publish": true,
+      "reasoning": "High evidence with sovereignty patterns"
+    }
+  ]
+}

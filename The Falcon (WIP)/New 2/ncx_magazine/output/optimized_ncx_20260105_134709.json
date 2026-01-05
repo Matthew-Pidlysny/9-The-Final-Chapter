@@ -1,0 +1,55 @@
+{
+  "title": "NCX Magazine",
+  "subtitle": "Non-Conformist Xenophober - Seeing Through The Veil",
+  "publication_date": "2026-01-05T13:47:09.846797+00:00",
+  "total_evidence_score": 0.7859999999999999,
+  "articles": [
+    {
+      "title": "\ud83c\udfb8 EXPOSED: Tech Giants Hold Secret Meeting on AI Governance",
+      "analysis_type": "discretion",
+      "evidence_score": 0.75,
+      "punk_rating": 4,
+      "organizations_mentioned": [
+        "Council on Foreign Relations"
+      ]
+    },
+    {
+      "title": "\ud83d\udc80 THEY DON'T WANT YOU TO KNOW: Billionaire's Sudden Spiritual Awakening",
+      "analysis_type": "altruistic_conspiracy",
+      "evidence_score": 0.85,
+      "punk_rating": 5,
+      "organizations_mentioned": [
+        "Lucis Trust",
+        "Theosophical Society"
+      ]
+    },
+    {
+      "title": "\u26a1 BREAKING THE VEIL: Corporate Merger Defies Antitrust Laws",
+      "analysis_type": "sovereignty",
+      "evidence_score": 0.78,
+      "punk_rating": 4,
+      "organizations_mentioned": [
+        "Bilderberg Group"
+      ]
+    },
+    {
+      "title": "\ud83d\udd25 PATTERN DETECTED: Masonic Lodge Members in Government Positions",
+      "analysis_type": "affiliation",
+      "evidence_score": 0.82,
+      "punk_rating": 5,
+      "organizations_mentioned": [
+        "Freemasons",
+        "Skull and Bones"
+      ]
+    },
+    {
+      "title": "\ud83d\udc41\ufe0f SEEING THROUGH: Jesuit Influence in Education Reform",
+      "analysis_type": "sovereignty",
+      "evidence_score": 0.73,
+      "punk_rating": 4,
+      "organizations_mentioned": [
+        "Jesuits"
+      ]
+    }
+  ]
+}

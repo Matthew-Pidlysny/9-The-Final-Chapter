@@ -1,0 +1,58 @@
+{
+    "magazine_title": "NCX Magazine",
+    "subtitle": "Non-Conformist Xenophober - Seeing Through The Veil",
+    "punk_aesthetic": true,
+    "minimum_evidence_score": 0.6,
+    "minimum_punk_rating": 3,
+    "analysis_depth": "deep",
+    "editorial_principles": {
+        "truth_seeking": true,
+        "pattern_recognition": true,
+        "skeptical_analysis": true,
+        "punk_attitude": true,
+        "no_bullshit": true
+    },
+    "analysis_thresholds": {
+        "discretion_detection": 0.5,
+        "altruistic_conspiracy": 0.6,
+        "sovereignty_detection": 0.7,
+        "organization_affiliation": 0.8
+    },
+    "news_sources": {
+        "rss_feeds": [
+            "https://rss.cnn.com/rss/edition_business.rss",
+            "https://feeds.bbci.co.uk/news/business/rss.xml",
+            "https://www.reuters.com/rssfeed/businessNews",
+            "https://www.forbes.com/business/feed/",
+            "https://www.wsj.com/xml/rss/3_7014.xml"
+        ]
+    },
+    "tracked_organizations": [
+        "Lucis Trust",
+        "Theosophical Society",
+        "Great White Brotherhood",
+        "Jesuits",
+        "Rosicrucians",
+        "Roesa Crucis",
+        "Illuminati",
+        "Masons",
+        "Freemasons",
+        "Summit Lighthouse",
+        "Church of Satan",
+        "Temple of Set",
+        "Ordo Templi Orientis",
+        "Golden Dawn",
+        "Skull and Bones",
+        "Bilderberg Group",
+        "Trilateral Commission",
+        "Council on Foreign Relations"
+    ],
+    "export_formats": ["html", "pdf"],
+    "layout": {
+        "style": "punk_zine",
+        "columns": 2,
+        "font_family": "Courier New, monospace",
+        "font_size": 11,
+        "color_scheme": "black_and_red"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "newspaper_title": "The Falcon Press",
+    "subtitle": "Global Perspectives, Unfiltered Truth",
+    "default_sections": [
+        "Headlines",
+        "World News", 
+        "Mathematics & Sciences",
+        "Technology",
+        "Culture & Society",
+        "Opinions & Analysis"
+    ],
+    "max_articles_per_section": 10,
+    "min_article_length": 200,
+    "max_article_length": 2000,
+    "export_formats": ["html", "pdf"],
+    "latex_enabled": true,
+    "consistency_checks": true,
+    "news_sources": {
+        "rss_feeds": [
+            "https://rss.cnn.com/rss/edition.rss",
+            "https://feeds.bbci.co.uk/news/rss.xml",
+            "https://rss.reuters.com/reuters/topNews",
+            "https://feeds.npr.org/1001/rss.xml"
+        ],
+        "api_sources": {
+            "news_api": {
+                "enabled": false,
+                "api_key": "",
+                "base_url": "https://newsapi.org/v2"
+            }
+        }
+    },
+    "ai_generation": {
+        "enabled": true,
+        "model": "local",
+        "temperature": 0.7,
+        "max_tokens": 1000
+    },
+    "layout": {
+        "columns": 3,
+        "font_family": "Times New Roman",
+        "font_size": 12,
+        "margin": "1 inch",
+        "header_height": "2 inches"
+    }
+}
