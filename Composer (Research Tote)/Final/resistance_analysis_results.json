@@ -1,0 +1,1424 @@
+{
+  "individual_analyses": [
+    {
+      "prime": 131,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "79/131",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_87/131"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "81/131",
+          "base13_remainder": 1,
+          "special_remainder": true,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 5,
+            "composite_with_7": 917,
+            "mod_13": 1,
+            "composite_with_13": 1703,
+            "mod_17": 12,
+            "composite_with_17": 2227,
+            "mod_19": 17,
+            "composite_with_19": 2489
+          },
+          "special_patterns": [
+            "special_mod_13"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 130,
+          "reciprocal_start": "007633587786259542",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 130,
+          "expected_match": true,
+          "is_reptend": true,
+          "period_ratio": 1.0,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 179,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "107/179",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_119/179"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "110/179",
+          "base13_remainder": 10,
+          "special_remainder": false,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 4,
+            "composite_with_7": 1253,
+            "mod_13": 10,
+            "composite_with_13": 2327,
+            "mod_17": 9,
+            "composite_with_17": 3043,
+            "mod_19": 8,
+            "composite_with_19": 3401
+          },
+          "special_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 178,
+          "reciprocal_start": "00558659217877095",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 178,
+          "expected_match": true,
+          "is_reptend": true,
+          "period_ratio": 1.0,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 197,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "118/197",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_131/197"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "121/197",
+          "base13_remainder": 2,
+          "special_remainder": false,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 1,
+            "composite_with_7": 1379,
+            "mod_13": 2,
+            "composite_with_13": 2561,
+            "mod_17": 10,
+            "composite_with_17": 3349,
+            "mod_19": 7,
+            "composite_with_19": 3743
+          },
+          "special_patterns": [
+            "special_mod_7"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 98,
+          "reciprocal_start": "005076142131979695",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 98,
+          "expected_match": true,
+          "is_reptend": false,
+          "period_ratio": 0.5,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 199,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "119/199",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_133/199"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "122/199",
+          "base13_remainder": 4,
+          "special_remainder": false,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 3,
+            "composite_with_7": 1393,
+            "mod_13": 4,
+            "composite_with_13": 2587,
+            "mod_17": 12,
+            "composite_with_17": 3383,
+            "mod_19": 9,
+            "composite_with_19": 3781
+          },
+          "special_patterns": [
+            "special_mod_7",
+            "special_mod_19"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 99,
+          "reciprocal_start": "005025125628140704",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 99,
+          "expected_match": true,
+          "is_reptend": false,
+          "period_ratio": 0.5,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 211,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "127/211",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_141/211"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "130/211",
+          "base13_remainder": 3,
+          "special_remainder": true,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 1,
+            "composite_with_7": 1477,
+            "mod_13": 3,
+            "composite_with_13": 2743,
+            "mod_17": 7,
+            "composite_with_17": 3587,
+            "mod_19": 2,
+            "composite_with_19": 4009
+          },
+          "special_patterns": [
+            "special_mod_7"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 30,
+          "reciprocal_start": "004739336492890996",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 30,
+          "expected_match": false,
+          "is_reptend": false,
+          "period_ratio": 0.14285714285714285,
+          "resistance_score": 1
+        }
+      ]
+    },
+    {
+      "prime": 227,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "136/227",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_151/227"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "140/227",
+          "base13_remainder": 6,
+          "special_remainder": false,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 3,
+            "composite_with_7": 1589,
+            "mod_13": 6,
+            "composite_with_13": 2951,
+            "mod_17": 6,
+            "composite_with_17": 3859,
+            "mod_19": 18,
+            "composite_with_19": 4313
+          },
+          "special_patterns": [
+            "special_mod_7",
+            "special_mod_13",
+            "special_mod_19"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 113,
+          "reciprocal_start": "004405286343612335",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 113,
+          "expected_match": true,
+          "is_reptend": false,
+          "period_ratio": 0.5,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 257,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [
+            "10_plus_9_pattern"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "154/257",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_171/257"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "158/257",
+          "base13_remainder": 10,
+          "special_remainder": false,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 5,
+            "composite_with_7": 1799,
+            "mod_13": 10,
+            "composite_with_13": 3341,
+            "mod_17": 2,
+            "composite_with_17": 4369,
+            "mod_19": 10,
+            "composite_with_19": 4883
+          },
+          "special_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 256,
+          "reciprocal_start": "0038910505836575876",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 256,
+          "expected_match": true,
+          "is_reptend": true,
+          "period_ratio": 1.0,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 263,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "158/263",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_175/263"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "162/263",
+          "base13_remainder": 3,
+          "special_remainder": true,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 4,
+            "composite_with_7": 1841,
+            "mod_13": 3,
+            "composite_with_13": 3419,
+            "mod_17": 8,
+            "composite_with_17": 4471,
+            "mod_19": 16,
+            "composite_with_19": 4997
+          },
+          "special_patterns": [
+            "special_mod_17"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 262,
+          "reciprocal_start": "0038022813688212928",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 262,
+          "expected_match": true,
+          "is_reptend": true,
+          "period_ratio": 1.0,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 269,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "161/269",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_179/269"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "166/269",
+          "base13_remainder": 9,
+          "special_remainder": false,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 3,
+            "composite_with_7": 1883,
+            "mod_13": 9,
+            "composite_with_13": 3497,
+            "mod_17": 14,
+            "composite_with_17": 4573,
+            "mod_19": 3,
+            "composite_with_19": 5111
+          },
+          "special_patterns": [
+            "special_mod_7"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 268,
+          "reciprocal_start": "0037174721189591076",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 268,
+          "expected_match": true,
+          "is_reptend": true,
+          "period_ratio": 1.0,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 277,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "166/277",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_185/277"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "170/277",
+          "base13_remainder": 4,
+          "special_remainder": false,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 4,
+            "composite_with_7": 1939,
+            "mod_13": 4,
+            "composite_with_13": 3601,
+            "mod_17": 5,
+            "composite_with_17": 4709,
+            "mod_19": 11,
+            "composite_with_19": 5263
+          },
+          "special_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 69,
+          "reciprocal_start": "0036101083032490976",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 69,
+          "expected_match": false,
+          "is_reptend": false,
+          "period_ratio": 0.25,
+          "resistance_score": 1
+        }
+      ]
+    },
+    {
+      "prime": 311,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "187/311",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_207/311"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "191/311",
+          "base13_remainder": 12,
+          "special_remainder": false,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 3,
+            "composite_with_7": 2177,
+            "mod_13": 12,
+            "composite_with_13": 4043,
+            "mod_17": 5,
+            "composite_with_17": 5287,
+            "mod_19": 7,
+            "composite_with_19": 5909
+          },
+          "special_patterns": [
+            "special_mod_7",
+            "special_mod_13"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 155,
+          "reciprocal_start": "003215434083601286",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 155,
+          "expected_match": true,
+          "is_reptend": false,
+          "period_ratio": 0.5,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 313,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "188/313",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_209/313"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "193/313",
+          "base13_remainder": 1,
+          "special_remainder": true,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 5,
+            "composite_with_7": 2191,
+            "mod_13": 1,
+            "composite_with_13": 4069,
+            "mod_17": 7,
+            "composite_with_17": 5321,
+            "mod_19": 9,
+            "composite_with_19": 5947
+          },
+          "special_patterns": [
+            "special_mod_13",
+            "special_mod_19"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 312,
+          "reciprocal_start": "003194888178913738",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 312,
+          "expected_match": true,
+          "is_reptend": true,
+          "period_ratio": 1.0,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 331,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "199/331",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_221/331"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "204/331",
+          "base13_remainder": 6,
+          "special_remainder": false,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 2,
+            "composite_with_7": 2317,
+            "mod_13": 6,
+            "composite_with_13": 4303,
+            "mod_17": 8,
+            "composite_with_17": 5627,
+            "mod_19": 8,
+            "composite_with_19": 6289
+          },
+          "special_patterns": [
+            "special_mod_13",
+            "special_mod_17"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 110,
+          "reciprocal_start": "0030211480362537764",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 110,
+          "expected_match": true,
+          "is_reptend": false,
+          "period_ratio": 0.3333333333333333,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 353,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "212/353",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_235/353"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "217/353",
+          "base13_remainder": 2,
+          "special_remainder": false,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 3,
+            "composite_with_7": 2471,
+            "mod_13": 2,
+            "composite_with_13": 4589,
+            "mod_17": 13,
+            "composite_with_17": 6001,
+            "mod_19": 11,
+            "composite_with_19": 6707
+          },
+          "special_patterns": [
+            "special_mod_7"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 32,
+          "reciprocal_start": "0028328611898017",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 32,
+          "expected_match": false,
+          "is_reptend": false,
+          "period_ratio": 0.09090909090909091,
+          "resistance_score": 1
+        }
+      ]
+    },
+    {
+      "prime": 367,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "220/367",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_245/367"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "226/367",
+          "base13_remainder": 3,
+          "special_remainder": true,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 3,
+            "composite_with_7": 2569,
+            "mod_13": 3,
+            "composite_with_13": 4771,
+            "mod_17": 10,
+            "composite_with_17": 6239,
+            "mod_19": 6,
+            "composite_with_19": 6973
+          },
+          "special_patterns": [
+            "special_mod_7"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 366,
+          "reciprocal_start": "0027247956403269754",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 366,
+          "expected_match": true,
+          "is_reptend": true,
+          "period_ratio": 1.0,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 397,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "238/397",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_265/397"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "244/397",
+          "base13_remainder": 7,
+          "special_remainder": true,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 5,
+            "composite_with_7": 2779,
+            "mod_13": 7,
+            "composite_with_13": 5161,
+            "mod_17": 6,
+            "composite_with_17": 6749,
+            "mod_19": 17,
+            "composite_with_19": 7543
+          },
+          "special_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 99,
+          "reciprocal_start": "0025188916876574307",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 99,
+          "expected_match": false,
+          "is_reptend": false,
+          "period_ratio": 0.25,
+          "resistance_score": 1
+        }
+      ]
+    },
+    {
+      "prime": 461,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "277/461",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_307/461"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "284/461",
+          "base13_remainder": 6,
+          "special_remainder": false,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 6,
+            "composite_with_7": 3227,
+            "mod_13": 6,
+            "composite_with_13": 5993,
+            "mod_17": 2,
+            "composite_with_17": 7837,
+            "mod_19": 5,
+            "composite_with_19": 8759
+          },
+          "special_patterns": [
+            "special_mod_7",
+            "special_mod_13"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 460,
+          "reciprocal_start": "0021691973969631237",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 460,
+          "expected_match": true,
+          "is_reptend": true,
+          "period_ratio": 1.0,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 487,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "292/487",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_325/487"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "300/487",
+          "base13_remainder": 6,
+          "special_remainder": false,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 4,
+            "composite_with_7": 3409,
+            "mod_13": 6,
+            "composite_with_13": 6331,
+            "mod_17": 11,
+            "composite_with_17": 8279,
+            "mod_19": 12,
+            "composite_with_19": 9253
+          },
+          "special_patterns": [
+            "special_mod_13"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 486,
+          "reciprocal_start": "002053388090349076",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 486,
+          "expected_match": true,
+          "is_reptend": true,
+          "period_ratio": 1.0,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 491,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "295/491",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_327/491"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "302/491",
+          "base13_remainder": 10,
+          "special_remainder": false,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 1,
+            "composite_with_7": 3437,
+            "mod_13": 10,
+            "composite_with_13": 6383,
+            "mod_17": 15,
+            "composite_with_17": 8347,
+            "mod_19": 16,
+            "composite_with_19": 9329
+          },
+          "special_patterns": [
+            "special_mod_7"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 490,
+          "reciprocal_start": "002036659877800407",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 490,
+          "expected_match": true,
+          "is_reptend": true,
+          "period_ratio": 1.0,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 503,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "302/503",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_335/503"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "310/503",
+          "base13_remainder": 9,
+          "special_remainder": false,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 6,
+            "composite_with_7": 3521,
+            "mod_13": 9,
+            "composite_with_13": 6539,
+            "mod_17": 10,
+            "composite_with_17": 8551,
+            "mod_19": 9,
+            "composite_with_19": 9557
+          },
+          "special_patterns": [
+            "special_mod_7",
+            "special_mod_19"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 502,
+          "reciprocal_start": "0019880715705765406",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 502,
+          "expected_match": true,
+          "is_reptend": true,
+          "period_ratio": 1.0,
+          "resistance_score": 0
+        }
+      ]
+    },
+    {
+      "prime": 521,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "313/521",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_347/521"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "321/521",
+          "base13_remainder": 1,
+          "special_remainder": true,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 3,
+            "composite_with_7": 3647,
+            "mod_13": 1,
+            "composite_with_13": 6773,
+            "mod_17": 11,
+            "composite_with_17": 8857,
+            "mod_19": 8,
+            "composite_with_19": 9899
+          },
+          "special_patterns": [
+            "special_mod_7",
+            "special_mod_13"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 52,
+          "reciprocal_start": "0019193857965451055",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 52,
+          "expected_match": false,
+          "is_reptend": false,
+          "period_ratio": 0.1,
+          "resistance_score": 1
+        }
+      ]
+    },
+    {
+      "prime": 523,
+      "resistance_factors": [
+        {
+          "dimension": "C* Resistance",
+          "period_match": false,
+          "reciprocal_match": false,
+          "composite_patterns": [
+            "10_plus_9_pattern"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Lambda Resistance",
+          "lambda_match": true,
+          "lambda_fraction": "314/523",
+          "lambda_1_5_patterns": [
+            "3_2_fraction_349/523"
+          ],
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Base-13 Resistance",
+          "base13_match": true,
+          "base13_fraction": "322/523",
+          "base13_remainder": 3,
+          "special_remainder": true,
+          "resistance_score": 0
+        },
+        {
+          "dimension": "Generator Resistance",
+          "generator_relationships": {
+            "mod_7": 5,
+            "composite_with_7": 3661,
+            "mod_13": 3,
+            "composite_with_13": 6799,
+            "mod_17": 13,
+            "composite_with_17": 8891,
+            "mod_19": 10,
+            "composite_with_19": 9937
+          },
+          "special_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Reciprocal Resistance",
+          "period": 261,
+          "reciprocal_start": "0019120458891013384",
+          "palindromic": false,
+          "repeating_patterns": [],
+          "resistance_score": 1
+        },
+        {
+          "dimension": "Period Resistance",
+          "period": 261,
+          "expected_match": true,
+          "is_reptend": false,
+          "period_ratio": 0.5,
+          "resistance_score": 0
+        }
+      ]
+    }
+  ],
+  "patterns": {
+    "common_resistance_dimensions": {
+      "C* Resistance": [
+        20,
+        22
+      ],
+      "Lambda Resistance": [
+        0,
+        22
+      ],
+      "Base-13 Resistance": [
+        0,
+        22
+      ],
+      "Generator Resistance": [
+        5,
+        22
+      ],
+      "Reciprocal Resistance": [
+        22,
+        22
+      ],
+      "Period Resistance": [
+        5,
+        22
+      ]
+    },
+    "resistance_clusters": {
+      "131": 2,
+      "179": 3,
+      "197": 2,
+      "199": 2,
+      "211": 3,
+      "227": 2,
+      "257": 2,
+      "263": 2,
+      "269": 2,
+      "277": 4,
+      "311": 2,
+      "313": 2,
+      "331": 2,
+      "353": 3,
+      "367": 2,
+      "397": 4,
+      "461": 2,
+      "487": 2,
+      "491": 2,
+      "503": 2,
+      "521": 3,
+      "523": 2
+    },
+    "exceptional_properties": []
+  }
+}
