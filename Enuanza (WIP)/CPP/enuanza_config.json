@@ -1,0 +1,100 @@
+{
+    "graphics": {
+        "resolution": [1920, 1080],
+        "fullscreen": false,
+        "vsync": true,
+        "msaa": 4,
+        "anisotropic_filtering": 16,
+        "texture_quality": "high",
+        "shadow_quality": "medium",
+        "particle_quality": "high",
+        "max_fps": 120,
+        "field_of_view": 75.0
+    },
+    "audio": {
+        "enabled": true,
+        "volume": 0.5,
+        "master_volume": 0.8,
+        "music_volume": 0.6,
+        "effects_volume": 0.7,
+        "audio_device": "default",
+        "sample_rate": 44100,
+        "buffer_size": 512,
+        "enable_3d_audio": true
+    },
+    "mathematics": {
+        "max_prime": 10000,
+        "visualization_mode": "splash",
+        "show_connections": true,
+        "connection_threshold": 0.6,
+        "lambda_weight": 0.7,
+        "base13_weight": 0.3,
+        "enable_prime_sounds": true,
+        "frequency_range": [80, 2000],
+        "animation_speed": 1.0,
+        "particle_emission_rate": 50.0,
+        "color_scheme": "lambda_based"
+    },
+    "vr": {
+        "enabled": false,
+        "render_scale": 1.0,
+        "supersampling": 1.0,
+        "motion_smoothing": true,
+        "teleport_movement": false,
+        "snap_turning": false,
+        "controller_vibration": true,
+        "seated_mode": false,
+        "play_area_size": [2.0, 2.0]
+    },
+    "input": {
+        "mouse_sensitivity": 1.0,
+        "invert_y": false,
+        "controller_deadzone": 0.15,
+        "enable_gestures": true,
+        "voice_commands": true,
+        "keyboard_shortcuts": {
+            "toggle_vr": "V",
+            "toggle_audio": "M",
+            "screenshot": "F12",
+            "fullscreen": "F11",
+            "reset_camera": "R"
+        }
+    },
+    "performance": {
+        "cpu_threads": 0,
+        "memory_limit_mb": 1024,
+        "gpu_memory_limit_mb": 2048,
+        "level_of_detail": true,
+        "frustum_culling": true,
+        "instanced_rendering": true,
+        "multithreaded_rendering": true,
+        "async_loading": true
+    },
+    "debug": {
+        "enable_logging": false,
+        "log_level": "info",
+        "show_fps": false,
+        "show_statistics": false,
+        "wireframe_mode": false,
+        "bounding_boxes": false,
+        "profiling": false,
+        "validation_layers": false
+    },
+    "accessibility": {
+        "high_contrast": false,
+        "color_blind_mode": "none",
+        "font_size": 1.0,
+        "subtitle_enabled": false,
+        "reduced_motion": false,
+        "audio_cues": true,
+        "visual_indicators": true
+    },
+    "network": {
+        "enable_updater": true,
+        "check_updates_on_startup": true,
+        "analytics_enabled": false,
+        "crash_reporting": false,
+        "auto_save": true,
+        "save_interval_minutes": 5
+    }
+}
