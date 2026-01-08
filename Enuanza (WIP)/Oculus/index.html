@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enuanza - Immersive Mathematical Visualization</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a0033 50%, #000428 100%);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #ffffff;
+        }
+        
+        #loadingScreen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at center, #1a0033 0%, #0a0a0a 100%);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            transition: opacity 1s ease-out;
+        }
+        
+        .loading-content {
+            text-align: center;
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 0.7; transform: scale(1); }
+            50% { opacity: 1; transform: scale(1.05); }
+        }
+        
+        .prime-symbol {
+            font-size: 4em;
+            font-weight: bold;
+            background: linear-gradient(45deg, #00ffff, #ff00ff, #ffff00);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 20px;
+            font-family: 'Trebuchet MS', sans-serif;
+            letter-spacing: 2px;
+        }
+        
+        .loading-text {
+            font-size: 1.2em;
+            color: #00ffff;
+            margin-bottom: 10px;
+        }
+        
+        .loading-progress {
+            width: 300px;
+            height: 4px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 2px;
+            overflow: hidden;
+            margin: 20px auto;
+        }
+        
+        .loading-bar {
+            height: 100%;
+            background: linear-gradient(90deg, #00ffff, #ff00ff);
+            animation: loading 2s ease-in-out infinite;
+        }
+        
+        @keyframes loading {
+            0% { width: 0%; }
+            50% { width: 70%; }
+            100% { width: 100%; }
+        }
+        
+        #canvas {
+            display: block;
+            width: 100vw;
+            height: 100vh;
+        }
+        
+        #ui-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 100;
+        }
+        
+        .ui-element {
+            pointer-events: auto;
+        }
+        
+        #primeDisplay {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            font-size: 2em;
+            font-weight: bold;
+            color: #00ffff;
+            text-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
+            opacity: 0;
+            transition: opacity 1s ease-in;
+        }
+        
+        #controlPanel {
+            position: absolute;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 20px;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            opacity: 0;
+            transition: opacity 1s ease-in;
+        }
+        
+        #audioControl {
+            position: absolute;
+            top: 80px;
+            right: 20px;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 15px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            opacity: 0;
+            transition: opacity 1s ease-in;
+        }
+        
+        .audio-slider {
+            width: 150px;
+            margin: 10px 0;
+        }
+        
+        .audio-btn {
+            padding: 8px 16px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border: none;
+            border-radius: 8px;
+            color: white;
+            font-size: 0.9em;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin: 5px;
+        }
+        
+        .audio-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .audio-btn.muted {
+            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a6f 100%);
+        }
+        
+        .control-btn {
+            padding: 15px 30px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border: none;
+            border-radius: 10px;
+            color: white;
+            font-size: 1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .control-btn:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+            transition: left 0.5s;
+        }
+        
+        .control-btn:hover:before {
+            left: 100%;
+        }
+        
+        .control-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.4);
+        }
+        
+        #primeInput {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 15px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            opacity: 0;
+            transition: opacity 1s ease-in;
+        }
+        
+        #primeInput input {
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 5px;
+            color: white;
+            font-size: 1em;
+            width: 150px;
+        }
+        
+        #primeInput input:focus {
+            outline: none;
+            border-color: #00ffff;
+            box-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+        }
+        
+        #infoPanel {
+            position: absolute;
+            top: 100px;
+            left: 20px;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 15px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            max-width: 300px;
+            font-size: 0.9em;
+            opacity: 0;
+            transition: opacity 1s ease-in;
+        }
+        
+        .energy-bar {
+            width: 100%;
+            height: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 4px;
+            margin: 5px 0;
+            overflow: hidden;
+        }
+        
+        .energy-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #00ff00, #ffff00, #ff0000);
+            transition: width 0.5s ease;
+        }
+    </style>
+<script src="https://sites.super.myninja.ai/_assets/ninja-daytona-script.js"></script>
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div id="loadingScreen">
+        <div class="loading-content">
+            <div class="prime-symbol">ℙ</div>
+            <div class="loading-text">Enuanza</div>
+            <div class="loading-text" style="font-size: 0.8em; margin-top: 10px;">Mathematical Immersion</div>
+            <div class="loading-text">Initializing Mathematical Cosmos...</div>
+            <div class="loading-progress">
+                <div class="loading-bar"></div>
+            </div>
+            <div class="loading-text" style="font-size: 0.9em; margin-top: 20px;">
+                Loading λ-Based Framework...<br>
+                <span id="loadingDetail">Generating Prime Networks...</span>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Main Canvas -->
+    <canvas id="canvas"></canvas>
+    
+    <!-- UI Overlay -->
+    <div id="ui-overlay">
+        <div id="primeDisplay" class="ui-element">Prime: <span id="currentPrime">-</span></div>
+        
+        <div id="controlPanel" class="ui-element">
+            <button class="control-btn" onclick="startSplashSequence()">Splash</button>
+            <button class="control-btn" onclick="startCompositionExplorer()">Composers</button>
+            <button class="control-btn" onclick="startSinusoidalWaves()">Waves</button>
+            <button class="control-btn" onclick="startNetworkView()">Network</button>
+            <button class="control-btn" onclick="toggleVR()">VR Mode</button>
+            <button class="control-btn" onclick="toggleAudio()">🔊 Audio</button>
+        </div>
+        
+        <div id="audioControl" class="ui-element">
+            <div style="color: #00ffff; font-weight: bold; margin-bottom: 10px;">Audio Controls</div>
+            <button class="audio-btn" onclick="toggleMute()">🔊 Mute</button>
+            <button class="audio-btn" onclick="setAudioPreset(0.2)">🔈 Low</button>
+            <button class="audio-btn" onclick="setAudioPreset(0.5)">🔉 Medium</button>
+            <button class="audio-btn" onclick="setAudioPreset(1.0)">🔊 High</button>
+            <input type="range" class="audio-slider" id="volumeSlider" min="0" max="100" value="50" oninput="setVolume(this.value / 100)">
+            <div style="color: #ffffff; font-size: 0.9em; margin-top: 5px;">Volume: <span id="volumeDisplay">50%</span></div>
+        </div>
+        
+        <div id="primeInput" class="ui-element">
+            <input type="number" id="primeNumberInput" placeholder="Enter prime" min="2" max="100000">
+            <button class="control-btn" onclick="analyzeSpecificPrime()" style="margin-left: 10px;">Analyze</button>
+        </div>
+        
+        <div id="infoPanel" class="ui-element">
+            <div><strong>λ-Energy:</strong></div>
+            <div class="energy-bar">
+                <div class="energy-fill" id="lambdaEnergy" style="width: 0%"></div>
+            </div>
+            <div><strong>Base-13 Energy:</strong></div>
+            <div class="energy-bar">
+                <div class="energy-fill" id="base13Energy" style="width: 0%"></div>
+            </div>
+            <div><strong>Total Energy:</strong></div>
+            <div class="energy-bar">
+                <div class="energy-fill" id="totalEnergy" style="width: 0%"></div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Three.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/vr/WebXR.js"></script>
+    
+    <!-- Enhanced Main Application -->
+    <script src="prime_composition_3d.js"></script>
+    <!-- Additional Enhancement Layer -->
+    <script src="prime_composition_3d_enhanced.js"></script>
+</body>
+</html>
