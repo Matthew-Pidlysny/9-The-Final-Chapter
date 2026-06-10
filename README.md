@@ -1,3 +1,1 @@
-# New Salesman:  Yvon - https://github.com/12yu34 Talk ONLY to him for sales, and get him to confirm with me before making any transactions.
-
-# January 6, 2025:  I have not heard from Yvon, so do not send any money.  I guess the smart thing is to post sales here, I will mention EVERYONE under my radar unless they wish to remain anonymous, but in that case I can't help you with being secure this way.
+Yeah, so everything I have done has been worth it.  All the reciprocal study, all the best times, all the worst times.  Learning from error matters.  I uploaded Metatypes (V2) into the Time Capsule, use it as the archive for now.  I do suppose there are more versions of it, but if you're looking for the solution to P vs NP, it's "P AS WELL AS NP AND NP IS POSSIBLE" :)
